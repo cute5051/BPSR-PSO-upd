@@ -50,7 +50,7 @@ You'll need to have the following software installed:
 
 To start the application, download latest release:
 
-https://github.com/cute5051/BPSR-PSO/releases/latest
+https://github.com/cute5051/BPSR-PSO-upd/releases/latest
 
 shitcoded by me :^)
 
