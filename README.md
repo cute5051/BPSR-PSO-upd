@@ -66,5 +66,5 @@ Monster list\
 Settings in Main window\
 ![settings.png](resources/settings.png)
 
-Skill details window\
+Skill details window(open by clicking on the block with dps)\
 ![skills-details.png](resources/skills-details.png)
