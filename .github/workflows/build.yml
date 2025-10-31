@@ -1,0 +1,58 @@
+name: Build with package.json config
+
+on:
+    push:
+        tags: ['v*.*.*']
+
+jobs:
+    build:
+        runs-on: ${{ matrix.os }}
+
+        strategy:
+            matrix:
+                os: [windows-latest]
+
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v4
+
+            - name: Setup Node.js
+              uses: actions/setup-node@v4
+              with:
+                  node-version: '22.20.0'
+                  cache: 'npm'
+
+            - name: Install dependencies
+              run: npm install
+
+            - name: Run make using package.json script
+              run: npm run make
+
+            - name: Upload build artifacts
+              uses: actions/upload-artifact@v4
+              with:
+                  path: |
+                      out/make/zip/win32/x64/*
+    release:
+        needs: build
+        runs-on: windows-latest
+
+        steps:
+            - name: Download all artifacts
+              uses: actions/download-artifact@v4
+              with:
+                  path: ./artifacts
+
+            - name: Create Release
+              uses: softprops/action-gh-release@v1
+              with:
+                  tag_name: ${{ github.ref_name }}
+                  draft: false
+                  prerelease: false
+                  body: |
+                      Релиз ${{ github.ref_name }}
+                      Собрано: ${{ github.event.head_commit.timestamp }}
+                  files: |
+                      artifacts/**/*
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

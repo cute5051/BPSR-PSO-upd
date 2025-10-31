@@ -1,0 +1,323 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: transparent;
+    user-select: none;
+    color: #e0e0e0;
+    font-size: 14px;
+    box-sizing: border-box;
+    min-width: 300px;
+    -webkit-font-smoothing: antialiased;
+}
+
+:root {
+    --main-bg-opacity: 0.55;
+}
+
+#app-wrapper {
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    padding: 0px;
+    overflow: hidden;
+    border-radius: 12px;
+}
+
+.skill-details-container {
+    pointer-events: auto;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    box-sizing: border-box;
+    border-radius: 12px;
+    overflow: hidden;
+    background: rgba(48, 51, 53, var(--main-bg-opacity));
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+}
+
+.header {
+    -webkit-app-region: drag;
+    user-select: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 12px;
+    background: rgba(18, 21, 23, 0.3);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    height: 25px;
+    min-height: 25px;
+}
+
+.title-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    user-select: none;
+}
+
+.player-name {
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+    white-space: nowrap;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
+}
+
+.total-damage {
+    font-size: 12px;
+    color: #b0b0b0;
+    white-space: nowrap;
+}
+
+.button-group {
+    -webkit-app-region: no-drag;
+    display: flex;
+    gap: 8px;
+}
+
+.button-group button {
+    -webkit-app-region: no-drag;
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: #fff;
+    padding: 4px 10px;
+    border-radius: 6px;
+    font-size: 11px;
+    cursor: pointer;
+    transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+.button-group button:hover {
+    background: rgba(255, 255, 255, 0.2);
+    transform: translateY(-1px);
+}
+
+.button-group button:active {
+    transform: translateY(0);
+}
+
+#closeButton {
+    background-color: rgba(255, 0, 0, 0.4);
+    border-color: rgba(255, 0, 0, 0.6);
+}
+
+#closeButton:hover {
+    background-color: rgba(255, 0, 0, 0.6);
+}
+
+/* Tabs styling */
+.tabs-container {
+    display: flex;
+    background: rgba(18, 21, 23, 0.2);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 0 8px;
+}
+
+.tab {
+    padding: 8px 16px;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 500;
+    color: #b0b0b0;
+    border-bottom: 2px solid transparent;
+    transition: all 0.2s ease;
+    -webkit-app-region: no-drag;
+}
+
+.tab:hover {
+    color: #ffffff;
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.tab.active {
+    color: #ffffff;
+    border-bottom-color: #4caf50;
+    background: rgba(255, 255, 255, 0);
+}
+
+.skill-table-container {
+    flex-grow: 1;
+    overflow-x: auto;
+    overflow-y: auto;
+    background: transparent;
+}
+
+#skillTable {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    font-size: 16px;
+    min-width: 800px;
+}
+
+#skillTable th,
+#skillTable td {
+    padding: 4px 8px;
+    text-align: left;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    white-space: nowrap;
+    line-height: 1.4;
+    font-size: 16px;
+}
+
+#skillTable th {
+    background: rgba(18, 21, 23, 0.5);
+    font-weight: 600;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    color: #ffffff;
+    font-size: 14px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    padding: 4px 4px;
+}
+
+#skillTable tr {
+    transition: background-color 0.2s ease;
+}
+
+#skillTable tr:hover {
+    background: rgba(255, 255, 255, 0.05);
+}
+
+/* Right alignment for numeric columns */
+#skillTable td:nth-child(n+2):nth-child(-n+8) {
+    text-align: right;
+    font-feature-settings: "tnum";
+    font-variant-numeric: tabular-nums;
+}
+
+/* Ensure header alignment matches data */
+#skillTable th:nth-child(n+2):nth-child(-n+8) {
+    text-align: right;
+}
+
+#skillTable td:first-child {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 4px;
+}
+
+.skill-icon-circle {
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 3px;
+    box-sizing: border-box;
+    flex-shrink: 0;
+}
+/* Skill name with tooltip */
+.skill-name {
+    position: relative;
+    cursor: help;
+    border-bottom: 1px dotted rgba(255, 255, 255, 0.3);
+    transition: all 0.2s ease;
+}
+
+.skill-name:hover {
+    color: #4caf50;
+    border-bottom-color: #4caf50;
+}
+
+/* Tooltip styling */
+.skill-tooltip {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.95);
+    color: #e0e0e0;
+    padding: 12px 16px;
+    border-radius: 8px;
+    font-size: 13px;
+    line-height: 1.5;
+    max-width: 350px;
+    width: max-content;
+    z-index: 1000;
+    pointer-events: none;
+    opacity: 0;
+    transform: translateY(10px);
+    transition: all 0.3s ease;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.5);
+}
+
+.skill-tooltip.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.skill-tooltip::after {
+    content: '';
+    position: absolute;
+    top: -6px;
+    left: 20px;
+    width: 12px;
+    height: 12px;
+    background: rgba(0, 0, 0, 0.95);
+    transform: rotate(45deg);
+    border-left: 1px solid rgba(255, 255, 255, 0.2);
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.skill-tooltip .skill-description {
+    margin: 0;
+    white-space: normal;
+    word-wrap: break-word;
+}
+
+.skill-tooltip .skill-id {
+    color: #b0b0b0;
+    font-size: 12px;
+    margin-top: 4px;
+    font-family: monospace;
+}
+
+.skill-table-container::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+.skill-table-container::-webkit-scrollbar-track {
+    background: rgba(18, 21, 23, 0.3);
+    border-radius: 4px;
+}
+
+.skill-table-container::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 4px;
+}
+
+.skill-table-container::-webkit-scrollbar-thumb:hover {
+    background: rgba(255, 255, 255, 0.3);
+}
+
+.hidden {
+    display: none !important;
+}
+
+.group-main-row {
+    cursor: pointer;
+    font-weight: 500;
+    transition: background-color 0.2s ease;
+    border-bottom: 1px solid rgba(255, 255, 255, 0);
+}
+.group-main-row td:first-child {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 4px 8px;
+    height: 30px; 
+}
+.skill-detail-row {
+    background: rgba(25, 30, 35, 0.5);
+    transition: background-color 0.2s ease;
+    padding: 4px 0;
+}
+.skill-detail-row td:first-child {
+    padding-left: 40px !important; /* Increased left padding for indent */
+}

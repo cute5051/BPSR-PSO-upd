@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>BPSR-PSO</title>
+        <link
+            href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap"
+            rel="stylesheet"
+        />
+        <link rel="stylesheet" href="style.css" />
+        <script src="https://cdn.socket.io/4.7.2/socket.io.min.js"></script>
+    </head>
+    <body>
+        <div id="app-wrapper">
+            <div class="main-container">
+                <div class="controls">
+                    <div class="title-container">
+                        <div id="serverStatus" class="status-indicator"></div>
+                        <span id="appTitle" class="app-title">BPSR-PSO</span>
+                        <div id="appTitleDropdown" class="app-title-dropdown"></div>
+                    </div>
+                    <div class="button-group">
+                        <button id="clearButton" onclick="clearData()" title="Clear Data">Clear</button>
+                        <button id="settingsButton" onclick="toggleSettings()" title="Settings">⚙️</button>
+                        <button id="closeButton" onclick="closeClient()" title="Close Client">X</button>
+                        <span id="passthroughTitle" class="passthrough-title hidden"> Passthrough Enabled </span>
+                    </div>
+                </div>
+                <div id="columnsContainer" class="columns-container"></div>
+                <div id="settingsContainer" class="settings-container hidden">
+                    <div class="settings-option checkbox-option">
+                        <label for="countBossesCheckbox">Count Bosses only:</label>
+                        <input type="checkbox" id="countBossesCheckbox" />
+                    </div>
+                    <div class="settings-option">
+                        <label for="opacitySlider">Main Window Opacity</label>
+                        <input type="range" id="opacitySlider" min="0" max="1" step="0.05" value="0.05" />
+                    </div>
+                    <div class="settings-option">
+                        <label for="skillWindowOpacitySlider">Skill Window Opacity</label>
+                        <input type="range" id="skillWindowOpacitySlider" min="0" max="1" step="0.05" value="0.7" />
+                    </div>
+                </div>
+                <div class="footer-u">
+                    <div class="footer-item">
+                        <img src="assets/timer-white.png" class="timer-icon" onerror="this.style.display='none'" />
+                        <div class="timer-total">
+                            <span id="timerTotal" class="timer-total">00:00</span>
+                        </div>
+                    </div>
+                    <div class="footer-item">
+                        <img src="assets/peoplestd.png" class="team-dps-icon" onerror="this.style.display='none'" />
+                        <div class="team-dps">
+                            <span id="teamDps" class="team-dps">0/s</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="script.js"></script>
+    </body>
+</html>

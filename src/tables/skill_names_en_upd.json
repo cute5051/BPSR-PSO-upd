@@ -1,0 +1,4108 @@
+{
+  "1201": {
+    "name": "Raincall Surge 1",
+    "icon": "raincall_surge.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      1202,
+      1203,
+      1204,
+      1208,
+      1209,
+      1252,
+      1253,
+      1293,
+      1294
+    ],
+    "EffectIDs": [
+      120101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 1202
+  },
+  "1202": {
+    "name": "Raincall Surge - Curving Bullet",
+    "icon": "raincall_surge.webp",
+    "SkillLevelGroup": 1201,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      120201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 1203
+  },
+  "1203": {
+    "name": "Raincall Surge - Final Blow",
+    "icon": "raincall_surge.webp",
+    "SkillLevelGroup": 1201,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      120301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 1204
+  },
+  "1204": {
+    "name": "Raincall Surge - Basic Attack 1st Hit",
+    "icon": "raincall_surge.webp",
+    "SkillLevelGroup": 1201,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      120401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1210": {
+    "name": "Maelstrom",
+    "icon": "maelstrom.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      1250,
+      1251
+    ],
+    "EffectIDs": [
+      121001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1211": {
+    "name": "Crystal Veil",
+    "icon": "crystal_veil.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      121101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1216": {
+    "name": "Enhanced Clear Rapid Encircling Pearls",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      121601
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1219": {
+    "name": "Ice Tornado",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      121901
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1222": {
+    "name": "Phantom Charge",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      122201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 1223
+  },
+  "1223": {
+    "name": "Phantom Dash",
+    "icon": "phantom_dash.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      122301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1238": {
+    "name": "Water Spout - Passive Version",
+    "icon": "",
+    "SkillLevelGroup": 1246,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      123801
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1239": {
+    "name": "Meteor Storm",
+    "icon": "meteor_storm.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      123901
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1240": {
+    "name": "Frozen Gale",
+    "icon": "frozen_gale.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      124001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1241": {
+    "name": "Frostbeam",
+    "icon": "frostbeam.webp",
+    "SkillLevelGroup": 1242,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      124101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1242": {
+    "name": "Frost Lance",
+    "icon": "frost_lance.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      1241
+    ],
+    "EffectIDs": [
+      124201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1243": {
+    "name": "Permafrost",
+    "icon": "permafrost.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      124301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1244": {
+    "name": "Blizzard",
+    "icon": "blizzard.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      124401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1245": {
+    "name": "Frost Shelter",
+    "icon": "frost_shelter.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      124501
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1246": {
+    "name": "Tidepool",
+    "icon": "tidepool.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      124601
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1247": {
+    "name": "Talent Triggered Comet",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      124701
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1248": {
+    "name": "Glacier Hymn",
+    "icon": "glacier_hymn.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      124801
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1249": {
+    "name": "Synergistic Ice Crystal",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      124901
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1250": {
+    "name": "Water Vortex",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      125001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1251": {
+    "name": "Water Vortex",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      125101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1256": {
+    "name": "Tide Convergence - Water Spout",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      125601
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1257": {
+    "name": "Ice Storm",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      125701
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1258": {
+    "name": "Talent - Falling Ice Crystal",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      125801
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1259": {
+    "name": "Frost Comet",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      125901
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1261": {
+    "name": "Instant Ice Storm",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      126101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1262": {
+    "name": "Meteor Storm",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      126201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1263": {
+    "name": "Extreme Cold · Ice Snow Hymn",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      126301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1401": {
+    "name": "Windborne Grace 1",
+    "icon": "windborne_grace.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      1402,
+      1403,
+      1404,
+      1406,
+      1411,
+      1412,
+      1416,
+      1417,
+      1435
+    ],
+    "EffectIDs": [
+      140101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 1402
+  },
+  "1402": {
+    "name": "Windborne Grace 2/3",
+    "icon": "windborne_grace.webp",
+    "SkillLevelGroup": 1401,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      140201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 1403
+  },
+  "1403": {
+    "name": "Windborne Grace - 4",
+    "icon": "windborne_grace.webp",
+    "SkillLevelGroup": 1401,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      140301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 1404
+  },
+  "1404": {
+    "name": "Windborne Grace - 5",
+    "icon": "windborne_grace.webp",
+    "SkillLevelGroup": 1401,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      140401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1405": {
+    "name": "Gale Thrust",
+    "icon": "gale_thrust-1.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      140501
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1406": {
+    "name": "Windborne Grace",
+    "icon": "windborne_grace.webp",
+    "SkillLevelGroup": 1401,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      140601
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1407": {
+    "name": "Wind God",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      140701
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1409": {
+    "name": "Typhoon Cleave",
+    "icon": "typhoon_cleave-1.webp",
+    "SkillLevelGroup": 1426,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      140901
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1410": {
+    "name": "Typhoon Cleave",
+    "icon": "typhoon_cleave.webp",
+    "SkillLevelGroup": 1426,
+    "SkillPreloadGroup": [
+      1409
+    ],
+    "EffectIDs": [
+      141001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 1409
+  },
+  "1411": {
+    "name": "Swift Blade",
+    "icon": "swift_blade.webp",
+    "SkillLevelGroup": 1401,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      141101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1418": {
+    "name": "Gale Thrust",
+    "icon": "gale_thrust-1.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      1419
+    ],
+    "EffectIDs": [
+      141801
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1419": {
+    "name": "Skyfall",
+    "icon": "skyfall.webp",
+    "SkillLevelGroup": 1418,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      141901
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1420": {
+    "name": "Galeform",
+    "icon": "galeform.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      142001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1421": {
+    "name": "Spiral Thrust",
+    "icon": "spiral_thrust.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      1434
+    ],
+    "EffectIDs": [
+      142101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1422": {
+    "name": "Breach Pursuit 1",
+    "icon": "breach_pursuit.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      1427
+    ],
+    "EffectIDs": [
+      142201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 1427
+  },
+  "1423": {
+    "name": "Aegis Gale",
+    "icon": "aegis_gale.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      142301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1424": {
+    "name": "Instant Edge",
+    "icon": "instant_edge.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      142401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1425": {
+    "name": "Falcon Toss",
+    "icon": "falcon_toss.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      1433
+    ],
+    "EffectIDs": [
+      142501
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1426": {
+    "name": "Typhoon Cleave",
+    "icon": "typhoon_cleave.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      142601
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1427": {
+    "name": "Breach Pursuit 2",
+    "icon": "breach_pursuit.webp",
+    "SkillLevelGroup": 1422,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      142701
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1431": {
+    "name": "Sharp Impact",
+    "icon": "sharp_impact.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      143101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1433": {
+    "name": "Extreme · Storm Slash",
+    "icon": "",
+    "SkillLevelGroup": 1425,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      143301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1434": {
+    "name": "Vortex Strike 1",
+    "icon": "vortex_strike.webp",
+    "SkillLevelGroup": 1421,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      143401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1435": {
+    "name": "Drake Cannon",
+    "icon": "",
+    "SkillLevelGroup": 1401,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      143501
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1501": {
+    "name": "Vines' Embrace - 1st Hit",
+    "icon": "vines__embrace.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      1502,
+      1503,
+      1504,
+      1510,
+      1513,
+      1515,
+      1517
+    ],
+    "EffectIDs": [
+      150101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 1502
+  },
+  "1502": {
+    "name": "Vines' Embrace - 2nd Hit",
+    "icon": "vines__embrace.webp",
+    "SkillLevelGroup": 1501,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      150201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 1503
+  },
+  "1503": {
+    "name": "Vines' Embrace - 3rd Hit",
+    "icon": "vines__embrace.webp",
+    "SkillLevelGroup": 1501,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      150301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 1504
+  },
+  "1504": {
+    "name": "Vines' Embrace - 4th Hit",
+    "icon": "vines__embrace.webp",
+    "SkillLevelGroup": 1501,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      150401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1507": {
+    "name": "Life Bloom",
+    "icon": "life_bloom.webp",
+    "SkillLevelGroup": 1518,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      150701
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1509": {
+    "name": "Divine Circle Bloom",
+    "icon": "divine_circle_bloom.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      150601
+    ],
+    "EffectIDs": [
+      150901
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1517": {
+    "name": "Vines' Embrace - Red Light Counter",
+    "icon": "vines__embrace.webp",
+    "SkillLevelGroup": 1501,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      151701
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1518": {
+    "name": "Wild Bloom",
+    "icon": "wild_bloom.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      1519
+    ],
+    "EffectIDs": [
+      151801
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1519": {
+    "name": "Feral Seed",
+    "icon": "feral_seed.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      151901
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1520": {
+    "name": "Infusion",
+    "icon": "infusion.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      152001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1521": {
+    "name": "Grove Wish",
+    "icon": "grove_wish.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      152101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1522": {
+    "name": "Nourish",
+    "icon": "nourish.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      152201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1523": {
+    "name": "Regen Pulse",
+    "icon": "regen_pulse.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      152301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1524": {
+    "name": "Growth Arcane",
+    "icon": "growth_arcane.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      152401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1527": {
+    "name": "Bloomheal",
+    "icon": "bloomheal.webp",
+    "SkillLevelGroup": 1509,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      152701
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1528": {
+    "name": "Vital Surge",
+    "icon": "vital_surge.webp",
+    "SkillLevelGroup": 1509,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      152801
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1529": {
+    "name": "blossomBlossom Charge",
+    "icon": "blossom_charge.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      152901
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1531": {
+    "name": "Nature Ward",
+    "icon": "nature_ward.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      153101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1541": {
+    "name": "Wild Bloom",
+    "icon": "",
+    "SkillLevelGroup": 1518,
+    "SkillPreloadGroup": [
+      1519
+    ],
+    "EffectIDs": [
+      154101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1550": {
+    "name": "Unruly Seed 3rd Hit (Meteor)",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      155001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1551": {
+    "name": "Wild Seed",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      155101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1556": {
+    "name": "Flower Language Recovery",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      155601
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1560": {
+    "name": "Regeneration Pulse - Spread Heal",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      156001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1561": {
+    "name": "Regeneration Pulse - Back and Forth Damage Heal",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      156101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1562": {
+    "name": "Regeneration Pulse - Spread Heal",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      156201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1701": {
+    "name": "Judgment Cut 1",
+    "icon": "judgment_cut.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      1702,
+      1703,
+      1704,
+      1705,
+      1706,
+      1707,
+      1708,
+      1710,
+      1739,
+      1794,
+      1795
+    ],
+    "EffectIDs": [
+      170101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 1702
+  },
+  "1702": {
+    "name": "Judgment Cut 2",
+    "icon": "judgment_cut.webp",
+    "SkillLevelGroup": 1701,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      170201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 1703
+  },
+  "1703": {
+    "name": "Judgment Cut 3",
+    "icon": "judgment_cut.webp",
+    "SkillLevelGroup": 1701,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      170301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 1704
+  },
+  "1704": {
+    "name": "Judgment Cut 4",
+    "icon": "judgment_cut.webp",
+    "SkillLevelGroup": 1701,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      170401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1705": {
+    "name": "Overdrive",
+    "icon": "overdrive.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      170501
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 1706
+  },
+  "1711": {
+    "name": "My Style Secret Blade Technique",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      171101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1712": {
+    "name": "My Style Secret Blade Technique 2",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      171201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1713": {
+    "name": "Oblivion Combo",
+    "icon": "oblivion_combo.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      1728
+    ],
+    "EffectIDs": [
+      171301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1714": {
+    "name": "Iaido Slash",
+    "icon": "iaido_slash.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      1715,
+      1734
+    ],
+    "EffectIDs": [
+      171401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1715": {
+    "name": "Moonstrike",
+    "icon": "moonstrike.webp",
+    "SkillLevelGroup": 1714,
+    "SkillPreloadGroup": [
+      1738
+    ],
+    "EffectIDs": [
+      171501
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1716": {
+    "name": "Super High Output",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      171601
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1717": {
+    "name": "Flash strike",
+    "icon": "flash_strike.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      1735
+    ],
+    "EffectIDs": [
+      171701
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1718": {
+    "name": "Raijin Dash",
+    "icon": "raijin_dash.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      1736
+    ],
+    "EffectIDs": [
+      171801
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1719": {
+    "name": "Scythe Wheel",
+    "icon": "scythe_wheel.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      171901
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1720": {
+    "name": "True Sight",
+    "icon": "true_sight.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      172001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1721": {
+    "name": "Judgment Cut I",
+    "icon": "judgment_cut_i.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      172101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1722": {
+    "name": "Judgment Cut II",
+    "icon": "judgment_cut_ii.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      172201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1724": {
+    "name": "Thundercut",
+    "icon": "thundercut.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      1733,
+      1737,
+      1740,
+      1741,
+      1742
+    ],
+    "EffectIDs": [
+      172401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1725": {
+    "name": "Thundercut 2",
+    "icon": "thundercut-1.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      172501
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 1726
+  },
+  "1726": {
+    "name": "Thundercut 3",
+    "icon": "thundercut-2.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      172601
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1728": {
+    "name": "Oblivion Combo",
+    "icon": "oblivion_combo-1.webp",
+    "SkillLevelGroup": 1713,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      172801
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1730": {
+    "name": "Volt Surge",
+    "icon": "volt_surge.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      173001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1731": {
+    "name": "Stormflash",
+    "icon": "stormflash.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      1732
+    ],
+    "EffectIDs": [
+      173101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1732": {
+    "name": "Stormflash",
+    "icon": "stormflash.webp",
+    "SkillLevelGroup": 1731,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      173201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1733": {
+    "name": "Thunder Scythe",
+    "icon": "",
+    "SkillLevelGroup": 1724,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      173301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1734": {
+    "name": "Thunder Iaido Slash",
+    "icon": "",
+    "SkillLevelGroup": 1714,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      173401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1735": {
+    "name": "Falling Dragon Flash",
+    "icon": "",
+    "SkillLevelGroup": 1717,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      173501
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1736": {
+    "name": "Raijin Dash Slash",
+    "icon": "raijin_dash_slash.webp",
+    "SkillLevelGroup": 1718,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      173601
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1737": {
+    "name": "Divine Punishment Scythe",
+    "icon": "",
+    "SkillLevelGroup": 1701,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      173701
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1738": {
+    "name": "Chaotic Helmet Split",
+    "icon": "",
+    "SkillLevelGroup": 1714,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      173801
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1739": {
+    "name": "Insight Slash",
+    "icon": "",
+    "SkillLevelGroup": 1701,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      173901
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1740": {
+    "name": "Thunder Scythe (Triggered during Thunder Rising Dragon Slash)",
+    "icon": "",
+    "SkillLevelGroup": 1724,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      174001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1741": {
+    "name": "Thunder Scythe",
+    "icon": "",
+    "SkillLevelGroup": 1724,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      174101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1742": {
+    "name": "Thundercut - Final Slash",
+    "icon": "thundercut___final_slash.webp",
+    "SkillLevelGroup": 1724,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      174201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1901": {
+    "name": "Halberd's Edge 1",
+    "icon": "halberd_s_edge.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      1902,
+      1903,
+      1904,
+      1910,
+      1911,
+      1908,
+      1909,
+      1913,
+      1912,
+      1942,
+      1943,
+      1935
+    ],
+    "EffectIDs": [
+      190101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 1902
+  },
+  "1902": {
+    "name": "Halberd's Edge 2",
+    "icon": "halberd_s_edge.webp",
+    "SkillLevelGroup": 1901,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      190201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 1903
+  },
+  "1903": {
+    "name": "Halberd's Edge 3",
+    "icon": "halberd_s_edge.webp",
+    "SkillLevelGroup": 1901,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      190301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 1904
+  },
+  "1904": {
+    "name": "Halberd's Edge 4",
+    "icon": "halberd_s_edge.webp",
+    "SkillLevelGroup": 1901,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      190401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1905": {
+    "name": "Dragon Slashing Style",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      190501
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1906": {
+    "name": "Backstep Slash",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      190601
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 1917
+  },
+  "1907": {
+    "name": "Tectonic Ring",
+    "icon": "tectonic_ring.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      190701
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1909": {
+    "name": "Halberd's Edge (Jump)",
+    "icon": "halberd_s_edge.webp",
+    "SkillLevelGroup": 1901,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      190901
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1912": {
+    "name": "Halberd's Edge - Red Light Counter",
+    "icon": "halberd_s_edge.webp",
+    "SkillLevelGroup": 1901,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      191201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1917": {
+    "name": "Titan Charge",
+    "icon": "titan_charge.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      191701
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1922": {
+    "name": "Shield Bash",
+    "icon": "shield_bash.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      1931
+    ],
+    "EffectIDs": [
+      192201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1923": {
+    "name": "Sandward.",
+    "icon": "sandward.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      192301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1924": {
+    "name": "Star Shatter",
+    "icon": "star_shatter.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      192401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1925": {
+    "name": "Rage Burst",
+    "icon": "rage_burst.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      192501
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1926": {
+    "name": "Sandgrip",
+    "icon": "sandgrip.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      192601
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1927": {
+    "name": "Sandshroud",
+    "icon": "sandshroud.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      192701
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1928": {
+    "name": "Rock Protection",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      192801
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1929": {
+    "name": "Immovable as a Mountain",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      192901
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1930": {
+    "name": "Countercrush 2",
+    "icon": "countercrush-1.webp",
+    "SkillLevelGroup": 1922,
+    "SkillPreloadGroup": [
+      1934,
+      1935
+    ],
+    "EffectIDs": [
+      193001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1931": {
+    "name": "Countercrush 1",
+    "icon": "countercrush.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      193101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1932": {
+    "name": "Shield Bash",
+    "icon": "shield_bash.webp",
+    "SkillLevelGroup": 1922,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      193201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1933": {
+    "name": "War-Halting Vanguard",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      1902,
+      1903,
+      1904,
+      1910,
+      1911,
+      1908,
+      1909,
+      1913,
+      1912
+    ],
+    "EffectIDs": [
+      193301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 1902
+  },
+  "1934": {
+    "name": "Countercrush 3",
+    "icon": "countercrush-2.webp",
+    "SkillLevelGroup": 1930,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      193401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 1935
+  },
+  "1935": {
+    "name": "Countercrush - Furious Strike",
+    "icon": "countercrush-3.webp",
+    "SkillLevelGroup": 1901,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      193501
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1936": {
+    "name": "Stoneform",
+    "icon": "stoneform.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      193601
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1937": {
+    "name": "Granite Fury",
+    "icon": "granite_fury.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      193701
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1938": {
+    "name": "Brave Bastion",
+    "icon": "brave_bastion.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      193801
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1939": {
+    "name": "Granite Fury",
+    "icon": "granite_fury-1.webp",
+    "SkillLevelGroup": 1937,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      193901
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1940": {
+    "name": "Rage Burst",
+    "icon": "rage_burst.webp",
+    "SkillLevelGroup": 1925,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      194001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1941": {
+    "name": "Star Shattering Collapse",
+    "icon": "",
+    "SkillLevelGroup": 1924,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      194101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1942": {
+    "name": "Collapse",
+    "icon": "",
+    "SkillLevelGroup": 1901,
+    "SkillPreloadGroup": [
+      1902,
+      1903,
+      1904,
+      1910,
+      1911,
+      1908,
+      1909,
+      1913,
+      1912
+    ],
+    "EffectIDs": [
+      194201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1943": {
+    "name": "Boulder Smash",
+    "icon": "",
+    "SkillLevelGroup": 1937,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      194301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1944": {
+    "name": "Rage Burst",
+    "icon": "rage_burst.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      194401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1999": {
+    "name": "Rock Power",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      199901
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2201": {
+    "name": "Bullseye",
+    "icon": "bullseye.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      2202,
+      2203,
+      2204,
+      2205,
+      2206,
+      2210,
+      2211
+    ],
+    "EffectIDs": [
+      220101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 2202
+  },
+  "2209": {
+    "name": "Luminary Bolt",
+    "icon": "luminary_bolt.webp",
+    "SkillLevelGroup": 2209,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      220901
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2220": {
+    "name": "Storm Arrow",
+    "icon": "storm_arrow.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      2222
+    ],
+    "EffectIDs": [
+      222001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2221": {
+    "name": "Storm Arrow SP",
+    "icon": "storm_arrow-1.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      222101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2222": {
+    "name": "Double Arrow",
+    "icon": "double_arrow.webp",
+    "SkillLevelGroup": 2220,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      222201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2224": {
+    "name": "Fatal Shot - Quadruple Shot",
+    "icon": "",
+    "SkillLevelGroup": 2220,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      222401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2230": {
+    "name": "Torrent Volley",
+    "icon": "torrent_volley.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      223001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2231": {
+    "name": "Focus",
+    "icon": "focus.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      223101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2232": {
+    "name": "Arrow Rain",
+    "icon": "arrow_rain.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      223201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2233": {
+    "name": "Powerdraw",
+    "icon": "powerdraw.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      223301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2234": {
+    "name": "Radiance Barrage",
+    "icon": "radiance_barrage.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      223401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2235": {
+    "name": "Deter Shot",
+    "icon": "deter_shot.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      223501
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2237": {
+    "name": "Wildcall",
+    "icon": "wildcall.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      223701
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2238": {
+    "name": "Blast Shot",
+    "icon": "blast_shot.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      2239
+    ],
+    "EffectIDs": [
+      223801
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2239": {
+    "name": "Explosive Arrow 2nd Hit",
+    "icon": "blast_shot.webp",
+    "SkillLevelGroup": 2238,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      223901
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2240": {
+    "name": "Sky Soaring Star Piercer - Enhanced Torrential Shot",
+    "icon": "",
+    "SkillLevelGroup": 2230,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      224001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2241": {
+    "name": "Celestial Eagle",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      224101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2242": {
+    "name": "Beast Stampede",
+    "icon": "",
+    "SkillLevelGroup": 2237,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      224201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2288": {
+    "name": "Light Bombardment",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      228801
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2289": {
+    "name": "Arrow Rain",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      228901
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2290": {
+    "name": "Sharp Eye · Light Giant Arrow - Group Pull (Talent)",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      229001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2291": {
+    "name": "Twin Star Arrow",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      229101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2292": {
+    "name": "Phantom Demon Wolf - Pounce Bite",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      229201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2293": {
+    "name": "Talent - Light Fissure",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      229301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2294": {
+    "name": "Light Will · Quadruple Shot",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      229401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2295": {
+    "name": "Sharp Eye · Light Giant Arrow (Arrow Formation Damage)",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      229501
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2296": {
+    "name": "Phantom Eagle",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      229601
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2301": {
+    "name": "Resonant Strings - 1",
+    "icon": "resonant_strings.webp",
+    "SkillLevelGroup": 2321,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      230101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 2302
+  },
+  "2302": {
+    "name": "Resonant Strings - 2",
+    "icon": "resonant_strings.webp",
+    "SkillLevelGroup": 2321,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      230201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 2303
+  },
+  "2303": {
+    "name": "Resonant Strings - 3",
+    "icon": "resonant_strings.webp",
+    "SkillLevelGroup": 2321,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      230301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 2304
+  },
+  "2304": {
+    "name": "Resonant Strings - 4",
+    "icon": "resonant_strings.webp",
+    "SkillLevelGroup": 2321,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      230401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2306": {
+    "name": "Amplified Beat",
+    "icon": "amplified_beat.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      230601
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2307": {
+    "name": "Healing Beat",
+    "icon": "healing_beat.webp",
+    "SkillLevelGroup": 2306,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      230701
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2308": {
+    "name": "Harmonic Anthem",
+    "icon": "harmonic_anthem.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      230801
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2309": {
+    "name": "Rhapsody of Flame",
+    "icon": "rhapsody_of_flame.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      230901
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2310": {
+    "name": "Heroic Melody",
+    "icon": "heroic_melody.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      231001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2311": {
+    "name": "Healing Melody",
+    "icon": "healing_melody.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      231101
+    ],
+    "SwitchSkillId": 2318,
+    "NextSkillId": 0
+  },
+  "2312": {
+    "name": "Fivefold Crescendo",
+    "icon": "fivefold_crescendo.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      231201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2313": {
+    "name": "Passion Burst",
+    "icon": "passion_burst.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      2332
+    ],
+    "EffectIDs": [
+      231301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2314": {
+    "name": "Rock the Stage",
+    "icon": "rock_the_stage.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      231401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2315": {
+    "name": "Encore",
+    "icon": "encore.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      231501
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2316": {
+    "name": "Center Stage",
+    "icon": "center_stage.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      231601
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2317": {
+    "name": "String Strike 1",
+    "icon": "string_strike.webp",
+    "SkillLevelGroup": 2321,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      231701
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2318": {
+    "name": "Finish! Healing Movement",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      231801
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2319": {
+    "name": "Soundwave Surge",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      231901
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2320": {
+    "name": "Sound Tower Blaze Impact",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      232001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2321": {
+    "name": "String Strike 2",
+    "icon": "string_strike.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      2301,
+      2302,
+      2303,
+      2304,
+      2317,
+      2322,
+      2323,
+      2324,
+      2329,
+      2330,
+      2331
+    ],
+    "EffectIDs": [
+      232101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 2322
+  },
+  "2322": {
+    "name": "String Strike 3",
+    "icon": "string_strike.webp",
+    "SkillLevelGroup": 2321,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      232201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 2323
+  },
+  "2323": {
+    "name": "String Strike 4",
+    "icon": "string_strike.webp",
+    "SkillLevelGroup": 2321,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      232301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 2324
+  },
+  "2324": {
+    "name": "String Strike 5",
+    "icon": "string_strike.webp",
+    "SkillLevelGroup": 2321,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      232401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2329": {
+    "name": "Flame Dancer Performer",
+    "icon": "",
+    "SkillLevelGroup": 2321,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      232901
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2330": {
+    "name": "Pillar Impact - Flame Dancer Performer Enhanced",
+    "icon": "",
+    "SkillLevelGroup": 2321,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      233001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2331": {
+    "name": "Soundwave Blaze",
+    "icon": "",
+    "SkillLevelGroup": 2321,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      233101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2332": {
+    "name": "Ardent · Passionate Flourish",
+    "icon": "",
+    "SkillLevelGroup": 2313,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      233201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2335": {
+    "name": "Infinite Rhapsody",
+    "icon": "",
+    "SkillLevelGroup": 2314,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      233501
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2336": {
+    "name": "Concert Circuit",
+    "icon": "concert_circuit.webp",
+    "SkillLevelGroup": 2314,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      233601
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2352": {
+    "name": "Celestial Eagle",
+    "icon": "infinite_rhapsody.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      235201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2361": {
+    "name": "Healing Beat copy",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      236101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2362": {
+    "name": "Soundwave Judgment",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      236201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2363": {
+    "name": "Surge Quintet copy",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      236301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2364": {
+    "name": "Ascension · Explosive全场 copy",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      236401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2365": {
+    "name": "Ascension · Infinite Rhapsody copy",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      236501
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2366": {
+    "name": "Ascension · Tour曲 copy",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      236601
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2399": {
+    "name": "Sound System Healing Stick",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      239901
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2401": {
+    "name": "Blade of Justice - 1st Hit",
+    "icon": "blade_of_justice.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      2402,
+      2403,
+      2404,
+      2416,
+      2417,
+      2418,
+      2424
+    ],
+    "EffectIDs": [
+      240101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 2402
+  },
+  "2402": {
+    "name": "Blade of Justice - 2nd Hit",
+    "icon": "blade_of_justice.webp",
+    "SkillLevelGroup": 2401,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      240201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 2403
+  },
+  "2403": {
+    "name": "Blade of Justice - 3rd Hit",
+    "icon": "blade_of_justice.webp",
+    "SkillLevelGroup": 2401,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      240301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 2404
+  },
+  "2404": {
+    "name": "Blade of Justice - 4th Hit",
+    "icon": "blade_of_justice.webp",
+    "SkillLevelGroup": 2401,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      240401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2405": {
+    "name": "Valor Bash",
+    "icon": "valor_bash.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      2450
+    ],
+    "EffectIDs": [
+      240501
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2406": {
+    "name": "Vanguard Strike",
+    "icon": "vanguard_strike.webp",
+    "SkillLevelGroup": 2405,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      240601
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2407": {
+    "name": "Radiant Infusion",
+    "icon": "radiant_infusion.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      240701
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2408": {
+    "name": "Shield Toss",
+    "icon": "shield_toss.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      240801
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2409": {
+    "name": "Divine Circle",
+    "icon": "divine_circle.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      240901
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2410": {
+    "name": "Judgment",
+    "icon": "judgment.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      2411
+    ],
+    "EffectIDs": [
+      241001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2411": {
+    "name": "Scorching Judgment",
+    "icon": "",
+    "SkillLevelGroup": 2410,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      241101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2412": {
+    "name": "Reckoning",
+    "icon": "reckoning.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [
+      2413
+    ],
+    "EffectIDs": [
+      241201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2413": {
+    "name": "Blazing Reckoning",
+    "icon": "",
+    "SkillLevelGroup": 2412,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      241301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2414": {
+    "name": "Holy Barrier",
+    "icon": "holy_barrier.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      241401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2415": {
+    "name": "Aegis Ward",
+    "icon": "aegis_ward.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      241501
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2416": {
+    "name": "Condemnation",
+    "icon": "",
+    "SkillLevelGroup": 2401,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      241601
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2417": {
+    "name": "Enhanced Condemnation",
+    "icon": "",
+    "SkillLevelGroup": 2401,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      241701
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2419": {
+    "name": "Zeal Crusade",
+    "icon": "zeal_crusade.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      241901
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2420": {
+    "name": "Radiance",
+    "icon": "radiance.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      242001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2421": {
+    "name": "Sacred Blade",
+    "icon": "sacred_blade.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      242101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2425": {
+    "name": "Shield Toss",
+    "icon": "shield_toss.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      242501
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2450": {
+    "name": "Light Impact",
+    "icon": "",
+    "SkillLevelGroup": 2405,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      245001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2451": {
+    "name": "Judgment (Holy Trigger)",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      245101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2452": {
+    "name": "Scorching Judgment Holy Sword",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      245201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "3698": {
+    "name": "Goblin King (Passive)",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      369801
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "3901": {
+    "name": "Secret Art! Flowing Fire Roar (Fire Demon)",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      390101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "3925": {
+    "name": "Ultimate Skill! Formless Impact (Ogre)",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      392501
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "20301": {
+    "name": "Life Bloom",
+    "icon": ""
+  },
+  "21402": {
+    "name": "Wild Bloom",
+    "icon": ""
+  },
+  "21404": {
+    "name": "Nourish",
+    "icon": ""
+  },
+  "21406": {
+    "name": "Forest's Wish",
+    "icon": ""
+  },
+  "21414": {
+    "name": "Hope Barrier Duration",
+    "icon": ""
+  },
+  "21418": {
+    "name": "Deer's Gallop",
+    "icon": ""
+  },
+  "21423": {
+    "name": "Symbiosis Mark",
+    "icon": ""
+  },
+  "21424": {
+    "name": "Thorns",
+    "icon": ""
+  },
+  "21427": {
+    "name": "Punishment Heal Empty A 1st Hit",
+    "icon": ""
+  },
+  "21428": {
+    "name": "Punishment Heal Empty A 2nd Hit",
+    "icon": ""
+  },
+  "21429": {
+    "name": "Punishment Heal Empty A 3rd Hit",
+    "icon": ""
+  },
+  "21430": {
+    "name": "Punishment Heal Empty A 4th Hit",
+    "icon": ""
+  },
+  "27009": {
+    "name": "Ice Block BUFF",
+    "icon": ""
+  },
+  "31901": {
+    "name": "Valor Cyclone",
+    "icon": "valor_cyclone.webp"
+  },
+  "44701": {
+    "name": "Moon Blade",
+    "icon": ""
+  },
+  "50033": {
+    "name": "Group Pull",
+    "icon": ""
+  },
+  "50036": {
+    "name": "Weak Point Strike",
+    "icon": ""
+  },
+  "50037": {
+    "name": "Block Counter",
+    "icon": ""
+  },
+  "50049": {
+    "name": "Sandstone Cloak (Duration)",
+    "icon": ""
+  },
+  "50068": {
+    "name": "Block Counter -- Strong",
+    "icon": ""
+  },
+  "55231": {
+    "name": "Explosive Arrow BUFF Detonation",
+    "icon": ""
+  },
+  "55235": {
+    "name": "Light Will · Quadruple Shot (Splash Damage)",
+    "icon": ""
+  },
+  "55236": {
+    "name": "Enhanced Special Attack Final Hit Virtual Body",
+    "icon": ""
+  },
+  "55238": {
+    "name": "Bow - Ultimate Gravity",
+    "icon": ""
+  },
+  "55239": {
+    "name": "Light Stasis Root BUFF",
+    "icon": ""
+  },
+  "55240": {
+    "name": "Light Bombardment Damage Area BUFF",
+    "icon": ""
+  },
+  "55301": {
+    "name": "Blazing Rhapsody",
+    "icon": ""
+  },
+  "55302": {
+    "name": "Healing Beat",
+    "icon": ""
+  },
+  "55304": {
+    "name": "Surge Quintet",
+    "icon": ""
+  },
+  "55311": {
+    "name": "Encore曲 Transformation",
+    "icon": ""
+  },
+  "55314": {
+    "name": "Encore",
+    "icon": ""
+  },
+  "55328": {
+    "name": "Center of Attention Surge Quintet Performance Doubled",
+    "icon": ""
+  },
+  "55335": {
+    "name": "Center of Attention Passionate Flourish Stage 3",
+    "icon": ""
+  },
+  "55339": {
+    "name": "Ascension · Tour曲",
+    "icon": ""
+  },
+  "55341": {
+    "name": "Heroic Movement",
+    "icon": ""
+  },
+  "55342": {
+    "name": "Healing Movement",
+    "icon": ""
+  },
+  "55344": {
+    "name": "Ascension · Explosive全场",
+    "icon": ""
+  },
+  "55346": {
+    "name": "Ascension · Infinite Rhapsody",
+    "icon": ""
+  },
+  "55355": {
+    "name": "Resting Heal",
+    "icon": ""
+  },
+  "55404": {
+    "name": "Divine Circle",
+    "icon": "divine_circle.webp"
+  },
+  "55412": {
+    "name": "Zeal Crusade",
+    "icon": "zeal_crusade.webp"
+  },
+  "55417": {
+    "name": "Zeal Crusade",
+    "icon": "zeal_crusade.webp"
+  },
+  "55421": {
+    "name": "Judgment",
+    "icon": ""
+  },
+  "55431": {
+    "name": "Zeal Crusade buff",
+    "icon": "zeal_crusade.webp"
+  },
+  "55432": {
+    "name": "Zeal Crusade buff",
+    "icon": "zeal_crusade.webp"
+  },
+  "100730": {
+    "name": "Goblin Crossbowman Active",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      10073001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "102640": {
+    "name": "Ultimate Skill! Charge (Fierce Wild Boar)",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      10264001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "101112": {
+    "name": "Pet Eagle Quick Spin",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      10111201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "120201": {
+    "name": "Rain Strikes, Tide Rises - Curving Bullet",
+    "icon": ""
+  },
+  "120301": {
+    "name": "Rain Strikes, Tide Rises - Final Blow",
+    "icon": ""
+  },
+  "120401": {
+    "name": "Rain Strikes, Tide Rises - Basic Attack 1st Hit",
+    "icon": ""
+  },
+  "120501": {
+    "name": "Rain Strikes, Tide Rises",
+    "icon": ""
+  },
+  "120901": {
+    "name": "Piercing Ice Spear",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      12090101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "120902": {
+    "name": "Ice Spear",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      12090201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "121302": {
+    "name": "Ice Arrow",
+    "icon": ""
+  },
+  "121501": {
+    "name": "Clear Rapid Encircling Pearls",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      12150101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "140301": {
+    "name": "Vortex Strike 2",
+    "icon": "vortex_strike.webp"
+  },
+  "140401": {
+    "name": "Drake Cannon",
+    "icon": "drake_cannon.webp",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      14040101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "140501": {
+    "name": "Tornado",
+    "icon": ""
+  },
+  "141104": {
+    "name": "Mutant Bee Active a1",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      14110401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "149901": {
+    "name": "Wind Spiral",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      14990101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "149902": {
+    "name": "Spear Pierce",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      14990201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "149904": {
+    "name": "Tina Tornado",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      14990401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "149905": {
+    "name": "Flying Bird Throw",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      14990501
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "149906": {
+    "name": "Extreme · Storm Slash",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      14990601
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "149907": {
+    "name": "Sharp Impact (Wind God)",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      14990701
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "150101": {
+    "name": "Deer's Gallop",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      15010101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "150103": {
+    "name": "Unruly Seed 1st Hit",
+    "icon": ""
+  },
+  "150104": {
+    "name": "Unruly Seed 2nd Hit",
+    "icon": ""
+  },
+  "150106": {
+    "name": "Infusion (Left Hand)",
+    "icon": ""
+  },
+  "150107": {
+    "name": "Infusion (Right Hand)",
+    "icon": ""
+  },
+  "150110": {
+    "name": "Infusion (Dual Infusion Extra Part)",
+    "icon": ""
+  },
+  "155101": {
+    "name": "Lightning Cutter",
+    "icon": ""
+  },
+  "155102": {
+    "name": "Lightning Cutter - Final Hit",
+    "icon": ""
+  },
+  "179906": {
+    "name": "Moon Blade Spin",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      17990601
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "179907": {
+    "name": "Blade Wind Domain",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      17990701
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "179904": {
+    "name": "God Shadow Slash - Final Hit",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      17990401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "179908": {
+    "name": "Blade Will Lightning Strike",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      17990801
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "199902": {
+    "name": "Earth Collapse, Mountain Destroyed",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      19990201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "199903": {
+    "name": "Boulder Smash",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      19990301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "220101": {
+    "name": "No Miss Shot",
+    "icon": ""
+  },
+  "220102": {
+    "name": "Torrential Shot",
+    "icon": ""
+  },
+  "220103": {
+    "name": "No Miss Shot - Final Hit",
+    "icon": ""
+  },
+  "220104": {
+    "name": "Twin Shot/Storm Arrow",
+    "icon": ""
+  },
+  "220105": {
+    "name": "Light Pursuit Arrow",
+    "icon": ""
+  },
+  "220106": {
+    "name": "Aerial Shot",
+    "icon": ""
+  },
+  "220107": {
+    "name": "Magic Arrow",
+    "icon": ""
+  },
+  "220108": {
+    "name": "Explosive Arrow",
+    "icon": "blast_shot.webp"
+  },
+  "220109": {
+    "name": "Deterrence Shot",
+    "icon": ""
+  },
+  "220110": {
+    "name": "Explosive Arrow",
+    "icon": "blast_shot.webp"
+  },
+  "220111": {
+    "name": "Light Will · Quadruple Shot",
+    "icon": ""
+  },
+  "220112": {
+    "name": "Light Fissure",
+    "icon": ""
+  },
+  "220113": {
+    "name": "Phantom Eagle",
+    "icon": ""
+  },
+  "220203": {
+    "name": "Light Will · Quadruple Shot",
+    "icon": ""
+  },
+  "220301": {
+    "name": "Sharp Eye · Light Giant Arrow (Arrow Damage)",
+    "icon": ""
+  },
+  "221101": {
+    "name": "No Miss Shot - Red Light Counter",
+    "icon": ""
+  },
+  "230101": {
+    "name": "Convergence Movement Single Hit",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      23010101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "230102": {
+    "name": "Convergence Movement Second Hit",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      23010201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "230103": {
+    "name": "Convergence Movement Third Hit",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      23010301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "230104": {
+    "name": "Convergence Movement Fourth Hit",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      23010401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "230105": {
+    "name": "Blazing Law Stomp Damage",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      23010501
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "230106": {
+    "name": "Blazing Note Damage",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      23010601
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "230401": {
+    "name": "Encore Damage",
+    "icon": ""
+  },
+  "230501": {
+    "name": "Infinite Performance Encore Damage",
+    "icon": ""
+  },
+  "231001": {
+    "name": "Blazing Rhapsody Damage",
+    "icon": ""
+  },
+  "240101": {
+    "name": "Shield Toss",
+    "icon": "shield_toss.webp"
+  },
+  "240102": {
+    "name": "Light Resolve",
+    "icon": ""
+  },
+  "391001": {
+    "name": "Ultimate Skill! Chaotic Missile (Erosion Ogre) 1",
+    "icon": ""
+  },
+  "391002": {
+    "name": "Ultimate Skill! Chaotic Missile (Erosion Ogre) 2",
+    "icon": ""
+  },
+  "391003": {
+    "name": "Ultimate Skill! Chaotic Missile (Erosion Ogre) 3",
+    "icon": ""
+  },
+  "391004": {
+    "name": "Ultimate Skill! Chaotic Missile (Erosion Ogre) 4",
+    "icon": ""
+  },
+  "391005": {
+    "name": "Ultimate Skill! Chaotic Missile (Erosion Ogre) 5",
+    "icon": ""
+  },
+  "391006": {
+    "name": "Ultimate Skill! Chaotic Missile (Erosion Ogre) 6",
+    "icon": ""
+  },
+  "391007": {
+    "name": "Goblin Crossbowman Passive",
+    "icon": ""
+  },
+  "391008": {
+    "name": "Mutant Bee Passive",
+    "icon": ""
+  },
+  "391301": {
+    "name": "Ultimate Skill! Electromagnetic Bomb (Gunner)",
+    "icon": ""
+  },
+  "391401": {
+    "name": "Erosion Pulse",
+    "icon": ""
+  },
+  "683624": {
+    "name": "Continuous HP Recovery BUFF",
+    "icon": ""
+  },
+  "700013": {
+    "name": "Dark Corruption",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      70001301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "701001": {
+    "name": "Erosion Shadow Explosion",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      70100101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "701002": {
+    "name": "Erosion Wave Explosion",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      70100201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1002440": {
+    "name": "Ultimate Skill! Super Critical (Mook Squad Leader)",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      100244001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1002830": {
+    "name": "Secret Art! Frost Shock (Ice Demon)",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      100283001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1005240": {
+    "name": "Ultimate Skill! Hunting Slash (Vanguard)",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      100524001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1005940": {
+    "name": "Mook Berserker - Whirlwind Charge",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      100594001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1006940": {
+    "name": "Secret Art! Cocoon (Spider)",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      100694001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1007601": {
+    "name": "Mutant Bee Skill 12",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      100760101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1007602": {
+    "name": "Mutant Bee Skill 3",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      100760201
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1007741": {
+    "name": "Poisonous Hive (Initial)",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      100774101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1008040": {
+    "name": "Ultimate Skill! Lightning Ball (Lightning Boar)",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      100804001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1008140": {
+    "name": "Secret Art！ Hell Thrust (Iron Tusk)",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      100814001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1008440": {
+    "name": "Secret Art! Blue Storm Howl (Flying Fish)",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      100844001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1008540": {
+    "name": "Secret Art！ Silent Tide (Lizardman King)",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      100854001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1008641": {
+    "name": "Stunt! Whirlwind Strike",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      100864101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1010440": {
+    "name": "Ultimate Skill！ Suppressing Thunder (Lizardman Hunter)(Active)",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      101044001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1700440": {
+    "name": "Secret Art！ Heavy Hammer Assault（Mook Head）",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      170044001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1700820": {
+    "name": "Wolf Synergy Attack",
+    "icon": "",
+    "SkillLevelGroup": 2201,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      170082001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1700824": {
+    "name": "Tail Whip",
+    "icon": "",
+    "SkillLevelGroup": 2201,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      170082401
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1700825": {
+    "name": "Wolf Assault",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      170082501
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1700826": {
+    "name": "Wild Call",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      170082601
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "1700827": {
+    "name": "Wolf Basic Attack",
+    "icon": "",
+    "SkillLevelGroup": 2201,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      170082701
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2001740": {
+    "name": "Ultimate Skill！ Instant Step Surprise Attack（Bandit Scout）",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      200174001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2002853": {
+    "name": "Ultimate Skill！ Shattering Star Fall（Fire Brother）",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      200285301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2031101": {
+    "name": "Lucky Hit (Katana)",
+    "icon": ""
+  },
+  "2031102": {
+    "name": "Lucky Hit (Ice Mage)",
+    "icon": ""
+  },
+  "2031104": {
+    "name": "Lucky Hit (Spear)",
+    "icon": ""
+  },
+  "2031105": {
+    "name": "Lucky Hit (Forest Language)",
+    "icon": ""
+  },
+  "2031106": {
+    "name": "Lucky Hit (Hand Cannon)",
+    "icon": ""
+  },
+  "2031107": {
+    "name": "Lucky Hit (Great Blade)",
+    "icon": ""
+  },
+  "2031108": {
+    "name": "Lucky Hit (Ritual Blade)",
+    "icon": ""
+  },
+  "2031109": {
+    "name": "Lucky Hit (Bow)",
+    "icon": ""
+  },
+  "2031110": {
+    "name": "Lucky Hit (Sword and Shield)",
+    "icon": ""
+  },
+  "2031111": {
+    "name": "Lucky Hit (Guitar)",
+    "icon": ""
+  },
+  "2110012": {
+    "name": "Secret Art！ Pulse Prayer（Mook King）",
+    "icon": ""
+  },
+  "2110062": {
+    "name": "Roar Command (Goblin King Summons Axe Goblin)",
+    "icon": ""
+  },
+  "2110066": {
+    "name": "Ultimate Skill！ Earth Shield (Bandit Guard Captain)",
+    "icon": ""
+  },
+  "2110071": {
+    "name": "Boar King Lightning Chain Main Buff",
+    "icon": ""
+  },
+  "2110072": {
+    "name": "Boar King Lightning Chain Derivative A",
+    "icon": ""
+  },
+  "2110073": {
+    "name": "Boar King Lightning Chain Derivative B",
+    "icon": ""
+  },
+  "2110074": {
+    "name": "Boar King Lightning Chain Derivative C - Hit Effect",
+    "icon": ""
+  },
+  "2110083": {
+    "name": "Fire Demon Heal",
+    "icon": ""
+  },
+  "2110085": {
+    "name": "Lightning Seed (Orvira)",
+    "icon": ""
+  },
+  "2110090": {
+    "name": "Erosion Ogre",
+    "icon": ""
+  },
+  "2110091": {
+    "name": "Erosion Damage Converted to Heal",
+    "icon": ""
+  },
+  "2110096": {
+    "name": "Secret Art！ Thunderous Roar (Gold Tusk)(Lightning Strike)",
+    "icon": ""
+  },
+  "2110099": {
+    "name": "Poisonous Hive (Duration)",
+    "icon": ""
+  },
+  "2201070": {
+    "name": "Block Damage Reduction",
+    "icon": ""
+  },
+  "2201080": {
+    "name": "Block Heal",
+    "icon": ""
+  },
+  "2201172": {
+    "name": "Steadfast Breath",
+    "icon": ""
+  },
+  "2201240": {
+    "name": "Shield Echo",
+    "icon": ""
+  },
+  "2201362": {
+    "name": "Sand Crystal Shock",
+    "icon": ""
+  },
+  "2201410": {
+    "name": "Sandstone Revival",
+    "icon": ""
+  },
+  "2201493": {
+    "name": "Heal (Rock Shield)",
+    "icon": ""
+  },
+  "2201570": {
+    "name": "Rock Protection",
+    "icon": ""
+  },
+  "2202091": {
+    "name": "Heal: Healing Link",
+    "icon": ""
+  },
+  "2202120": {
+    "name": "Eluna Shield",
+    "icon": ""
+  },
+  "2202211": {
+    "name": "Green Essence Outburst (Heal)",
+    "icon": ""
+  },
+  "2202262": {
+    "name": "Revival Aura HoT BUFF",
+    "icon": ""
+  },
+  "2202271": {
+    "name": "Heavenly Light Activation BUFF",
+    "icon": ""
+  },
+  "2202291": {
+    "name": "Life Gift - Heal Sub-buff",
+    "icon": ""
+  },
+  "2202311": {
+    "name": "Heal: Nourishing Seed",
+    "icon": ""
+  },
+  "2002440": {
+    "name": "Secret Art！ Lightning Prison（Thunder Demon）",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      200244001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "2202581": {
+    "name": "Collapse! boom~",
+    "icon": ""
+  },
+  "2202582": {
+    "name": "Collapse! boom~",
+    "icon": ""
+  },
+  "2203091": {
+    "name": "Life Drain (Pounce Bite Detonation)",
+    "icon": ""
+  },
+  "2203101": {
+    "name": "Life Drain",
+    "icon": ""
+  },
+  "2203102": {
+    "name": "Life Drain (Synergy Attack Detonation)",
+    "icon": ""
+  },
+  "2203141": {
+    "name": "Life Drain (Light Pursuit Arrow Detonation)",
+    "icon": ""
+  },
+  "2203181": {
+    "name": "Lightning Impact",
+    "icon": ""
+  },
+  "2203291": {
+    "name": "Eagle Sortie",
+    "icon": ""
+  },
+  "2203302": {
+    "name": "Life Drain (Tail Sweep Detonation)",
+    "icon": ""
+  },
+  "2203311": {
+    "name": "Explosive Arrow (Splash)",
+    "icon": "blast_shot.webp"
+  },
+  "2203512": {
+    "name": "Stampede",
+    "icon": ""
+  },
+  "2203521": {
+    "name": "Implosion (Steel Beak Trigger)",
+    "icon": ""
+  },
+  "2203621": {
+    "name": "Light Prism",
+    "icon": ""
+  },
+  "2203622": {
+    "name": "Light Prism Splash",
+    "icon": ""
+  },
+  "2204081": {
+    "name": "Ice Arrow Explosion",
+    "icon": ""
+  },
+  "2204241": {
+    "name": "Frost Impact",
+    "icon": ""
+  },
+  "2204320": {
+    "name": "Frigid Pulse",
+    "icon": ""
+  },
+  "2205060": {
+    "name": "Fierce Strike",
+    "icon": ""
+  },
+  "2205071": {
+    "name": "Rend",
+    "icon": ""
+  },
+  "2205450": {
+    "name": "Courage Wind Ring Life Steal",
+    "icon": ""
+  },
+  "2406140": {
+    "name": "AOE on Shield Gain (Set)",
+    "icon": ""
+  },
+  "2206240": {
+    "name": "Divine Radiance",
+    "icon": ""
+  },
+  "2206241": {
+    "name": "Holy Mark",
+    "icon": ""
+  },
+  "2206243": {
+    "name": "Holy Mark Damage",
+    "icon": ""
+  },
+  "2206401": {
+    "name": "Holy Strike",
+    "icon": ""
+  },
+  "2206460": {
+    "name": "Shield Bash Guardian",
+    "icon": ""
+  },
+  "2206552": {
+    "name": "Light Core",
+    "icon": ""
+  },
+  "2207141": {
+    "name": "Note",
+    "icon": ""
+  },
+  "2207151": {
+    "name": "Blazing Heal",
+    "icon": ""
+  },
+  "2207431": {
+    "name": "Blazing Law Stomp Heal",
+    "icon": ""
+  },
+  "2207500": {
+    "name": "Ultimate Will Center of Attention",
+    "icon": ""
+  },
+  "2207620": {
+    "name": "Vitality Release",
+    "icon": ""
+  },
+  "2207660": {
+    "name": "Ultimate Will Center of Attention",
+    "icon": ""
+  },
+  "2207681": {
+    "name": "Spiral Performance",
+    "icon": ""
+  },
+  "2900540": {
+    "name": "Secret Art！ Instant Slash (Orvira)",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      290054001
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "3001031": {
+    "name": "Erosion Aura",
+    "icon": ""
+  },
+  "3001170": {
+    "name": "Erosion Wave Heal",
+    "icon": ""
+  },
+  "3081023": {
+    "name": "Ultimate Skill! Overhead Slash (Shadow Swordsman Captain)",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      308102301
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "3210021": {
+    "name": "Secret Art！ Meteor Fall (Wind Brother)(Active)",
+    "icon": ""
+  },
+  "3210031": {
+    "name": "Thunder Demon Passive",
+    "icon": ""
+  },
+  "3210051": {
+    "name": "Bandit Passive",
+    "icon": ""
+  },
+  "3210061": {
+    "name": "Mook Squad Leader Passive",
+    "icon": ""
+  },
+  "3210081": {
+    "name": "Lizardman Hunter Passive",
+    "icon": ""
+  },
+  "3210092": {
+    "name": "Lizardman King Passive",
+    "icon": ""
+  },
+  "3210101": {
+    "name": "Mook King - Shield",
+    "icon": ""
+  },
+  "3913001": {
+    "name": "Ultimate Skill! Electromagnetic Bomb (Gunner)",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      391300101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "3936001": {
+    "name": "Ultimate Skill！ Silent Water (Lizardman Mage)",
+    "icon": "",
+    "SkillLevelGroup": 0,
+    "SkillPreloadGroup": [],
+    "EffectIDs": [
+      393600101
+    ],
+    "SwitchSkillId": 0,
+    "NextSkillId": 0
+  },
+  "10040102": {
+    "name": "Sword Shield Goblin - Wind Blade Slash Resonance",
+    "icon": ""
+  }
+}

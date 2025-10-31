@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Skill Details - BPSR-PSO</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap"
+        rel="stylesheet"
+    />
+    <link rel="stylesheet" href="skill-details.css" />
+</head>
+<body>
+    <div id="app-wrapper">
+        <div class="skill-details-container">
+            <div class="header">
+                <div class="title-container">
+                    <span id="playerName" class="player-name">Skill Details</span>
+                    <span id="totalInfo" class="total-damage">Total: 0</span>
+                </div>
+                <div class="button-group">
+                    <button id="closeButton" onclick="closeWindow()" title="Close">X</button>
+                </div>
+            </div>
+            
+            <div class="tabs-container">
+                <div class="tab active" data-tab="damage">Damage Skills</div>
+                <div class="tab" data-tab="healing">Healing Skills</div>
+                <div class="tab" data-tab="buffs">Buff Skills</div>
+                <div class="tab" data-tab="all">All Skills</div>
+            </div>
+            
+            <div class="skill-table-container">
+                <table id="skillTable">
+                    <thead id="skillTableHeader">
+                        <tr>
+                            <th>Skill Name</th>
+                            <th>Damage %</th>
+                            <th>Total Damage</th>
+                            <th>Hits</th>
+                            <th>Hits/Min</th>
+                            <th>Avg Damage</th>
+                            <th>Crit Rate</th>
+                            <th>Lucky Rate</th>
+                        </tr>
+                    </thead>
+                    <tbody id="skillTableBody">
+                        <tr>
+                            <td colspan="8" style="text-align: center; padding: 20px; color: #b0b0b0;">
+                                Loading skill data...
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div id="skillTooltip" class="skill-tooltip"></div>
+        </div>
+    </div>
+    <script src="skill-details.js"></script>
+</body>
+</html>

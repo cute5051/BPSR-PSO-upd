@@ -1,0 +1,13 @@
+const ProfessionType = {
+    Stormblade: 1,
+    FrostMage: 2,
+    FireWarrior: 3,
+    WindKnight: 4,
+    VerdantOracle: 5,
+    Marksman_Cannon: 8,
+    HeavyGuardian: 9,
+    SoulMusician_Scythe: 10,
+    Marksman: 11,
+    ShieldKnight: 12,
+    SoulMusician: 13,
+};

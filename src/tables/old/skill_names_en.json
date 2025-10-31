@@ -1,0 +1,1878 @@
+{
+    "1201": {
+        "name": "Raincall Surge 1",
+        "icon": "raincall_surge.webp"
+    },
+    "1202": {
+        "name": "Raincall Surge - Curving Bullet",
+        "icon": "raincall_surge.webp"
+    },
+    "1203": {
+        "name": "Raincall Surge - Final Blow",
+        "icon": "raincall_surge.webp"
+    },
+    "1204": {
+        "name": "Raincall Surge - Basic Attack 1st Hit",
+        "icon": "raincall_surge.webp"
+    },
+    "1210": {
+        "name": "Maelstrom",
+        "icon": "maelstrom.webp"
+    },
+    "1211": {
+        "name": "Crystal Veil",
+        "icon": "crystal_veil.webp"
+    },
+    "1216": {
+        "name": "Enhanced Clear Rapid Encircling Pearls",
+        "icon": ""
+    },
+    "1219": {
+        "name": "Ice Tornado",
+        "icon": ""
+    },
+    "1222": {
+        "name": "Phantom Charge",
+        "icon": ""
+    },
+    "1223": {
+        "name": "Phantom Dash",
+        "icon": "phantom_dash.webp"
+    },
+    "1238": {
+        "name": "Water Spout - Passive Version",
+        "icon": ""
+    },
+    "1239": {
+        "name": "Meteor Storm",
+        "icon": "meteor_storm.webp"
+    },
+    "1240": {
+        "name": "Frozen Gale",
+        "icon": "frozen_gale.webp"
+    },
+    "1241": {
+        "name": "Frostbeam",
+        "icon": "frostbeam.webp"
+    },
+    "1242": {
+        "name": "Frost Lance",
+        "icon": "frost_lance.webp"
+    },
+    "1243": {
+        "name": "Permafrost",
+        "icon": "permafrost.webp"
+    },
+    "1244": {
+        "name": "Blizzard",
+        "icon": "blizzard.webp"
+    },
+    "1245": {
+        "name": "Frost Shelter",
+        "icon": "frost_shelter.webp"
+    },
+    "1246": {
+        "name": "Tidepool",
+        "icon": "tidepool.webp"
+    },
+    "1247": {
+        "name": "Talent Triggered Comet",
+        "icon": ""
+    },
+    "1248": {
+        "name": "Glacier Hymn",
+        "icon": "glacier_hymn.webp"
+    },
+    "1249": {
+        "name": "Synergistic Ice Crystal",
+        "icon": ""
+    },
+    "1250": {
+        "name": "Water Vortex",
+        "icon": ""
+    },
+    "1251": {
+        "name": "Water Vortex",
+        "icon": ""
+    },
+    "1256": {
+        "name": "Tide Convergence - Water Spout",
+        "icon": ""
+    },
+    "1257": {
+        "name": "Ice Storm",
+        "icon": ""
+    },
+    "1258": {
+        "name": "Talent - Falling Ice Crystal",
+        "icon": ""
+    },
+    "1259": {
+        "name": "Frost Comet",
+        "icon": ""
+    },
+    "1261": {
+        "name": "Instant Ice Storm",
+        "icon": ""
+    },
+    "1262": {
+        "name": "Meteor Storm",
+        "icon": ""
+    },
+    "1263": {
+        "name": "Extreme Cold · Ice Snow Hymn",
+        "icon": ""
+    },
+    "1401": {
+        "name": "Windborne Grace 1",
+        "icon": "windborne_grace.webp"
+    },
+    "1402": {
+        "name": "Windborne Grace 2/3",
+        "icon": "windborne_grace.webp"
+    },
+    "1403": {
+        "name": "Windborne Grace - 4",
+        "icon": "windborne_grace.webp"
+    },
+    "1404": {
+        "name": "Windborne Grace - 5",
+        "icon": "windborne_grace.webp"
+    },
+    "1405": {
+        "name": "Gale Thrust",
+        "icon": "gale_thrust-1.webp"
+    },
+    "1406": {
+        "name": "Windborne Grace",
+        "icon": "windborne_grace.webp"
+    },
+    "1407": {
+        "name": "Wind God",
+        "icon": ""
+    },
+    "1409": {
+        "name": "Typhoon Cleave",
+        "icon": "typhoon_cleave-1.webp"
+    },
+    "1410": {
+        "name": "Typhoon Cleave",
+        "icon": "typhoon_cleave.webp"
+    },
+    "1411": {
+        "name": "Swift Blade",
+        "icon": "swift_blade.webp"
+    },
+    "1418": {
+        "name": "Gale Thrust",
+        "icon": "gale_thrust-1.webp"
+    },
+    "1419": {
+        "name": "Skyfall",
+        "icon": "skyfall.webp"
+    },
+    "1420": {
+        "name": "Galeform",
+        "icon": "galeform.webp"
+    },
+    "1421": {
+        "name": "Spiral Thrust",
+        "icon": "spiral_thrust.webp"
+    },
+    "1422": {
+        "name": "Breach Pursuit 1",
+        "icon": "breach_pursuit.webp"
+    },
+    "1423": {
+        "name": "Aegis Gale",
+        "icon": "aegis_gale.webp"
+    },
+    "1424": {
+        "name": "Instant Edge",
+        "icon": "instant_edge.webp"
+    },
+    "1425": {
+        "name": "Falcon Toss",
+        "icon": "falcon_toss.webp"
+    },
+    "1426": {
+        "name": "Typhoon Cleave",
+        "icon": "typhoon_cleave.webp"
+    },
+    "1427": {
+        "name": "Breach Pursuit 2",
+        "icon": "breach_pursuit.webp"
+    },
+    "1431": {
+        "name": "Sharp Impact",
+        "icon": "sharp_impact.webp"
+    },
+    "1433": {
+        "name": "Extreme · Storm Slash",
+        "icon": ""
+    },
+    "1434": {
+        "name": "Vortex Strike 1",
+        "icon": "vortex_strike.webp"
+    },
+    "1435": {
+        "name": "Drake Cannon",
+        "icon": ""
+    },
+    "1501": {
+        "name": "Vines' Embrace - 1st Hit",
+        "icon": "vines__embrace.webp"
+    },
+    "1502": {
+        "name": "Vines' Embrace - 2nd Hit",
+        "icon": "vines__embrace.webp"
+    },
+    "1503": {
+        "name": "Vines' Embrace - 3rd Hit",
+        "icon": "vines__embrace.webp"
+    },
+    "1504": {
+        "name": "Vines' Embrace - 4th Hit",
+        "icon": "vines__embrace.webp"
+    },
+    "1507": {
+        "name": "Life Bloom",
+        "icon": "life_bloom.webp"
+    },
+    "1509": {
+        "name": "Divine Circle Bloom",
+        "icon": "divine_circle_bloom.webp"
+    },
+    "1517": {
+        "name": "Vines' Embrace - Red Light Counter",
+        "icon": "vines__embrace.webp"
+    },
+    "1518": {
+        "name": "Wild Bloom",
+        "icon": "wild_bloom.webp"
+    },
+    "1519": {
+        "name": "Feral Seed",
+        "icon": "feral_seed.webp"
+    },
+    "1520": {
+        "name": "Infusion",
+        "icon": "infusion.webp"
+    },
+    "1521": {
+        "name": "Grove Wish",
+        "icon": "grove_wish.webp"
+    },
+    "1522": {
+        "name": "Nourish",
+        "icon": "nourish.webp"
+    },
+    "1523": {
+        "name": "Regen Pulse",
+        "icon": "regen_pulse.webp"
+    },
+    "1524": {
+        "name": "Growth Arcane",
+        "icon": "growth_arcane.webp"
+    },
+    "1527": {
+        "name": "Bloomheal",
+        "icon": "bloomheal.webp"
+    },
+    "1528": {
+        "name": "Vital Surge",
+        "icon": "vital_surge.webp"
+    },
+    "1529": {
+        "name": "blossomBlossom Charge",
+        "icon": "blossom_charge.webp"
+    },
+    "1531": {
+        "name": "Nature Ward",
+        "icon": "nature_ward.webp"
+    },
+    "1541": {
+        "name": "Wild Bloom",
+        "icon": ""
+    },
+    "1550": {
+        "name": "Unruly Seed 3rd Hit (Meteor)",
+        "icon": ""
+    },
+    "1551": {
+        "name": "Wild Seed",
+        "icon": ""
+    },
+    "1556": {
+        "name": "Flower Language Recovery",
+        "icon": ""
+    },
+    "1560": {
+        "name": "Regeneration Pulse - Spread Heal",
+        "icon": ""
+    },
+    "1561": {
+        "name": "Regeneration Pulse - Back and Forth Damage Heal",
+        "icon": ""
+    },
+    "1562": {
+        "name": "Regeneration Pulse - Spread Heal",
+        "icon": ""
+    },
+    "1701": {
+        "name": "Judgment Cut 1",
+        "icon": "judgment_cut.webp"
+    },
+    "1702": {
+        "name": "Judgment Cut 2",
+        "icon": "judgment_cut.webp"
+    },
+    "1703": {
+        "name": "Judgment Cut 3",
+        "icon": "judgment_cut.webp"
+    },
+    "1704": {
+        "name": "Judgment Cut 4",
+        "icon": "judgment_cut.webp"
+    },
+    "1705": {
+        "name": "Overdrive",
+        "icon": "overdrive.webp"
+    },
+    "1711": {
+        "name": "My Style Secret Blade Technique",
+        "icon": ""
+    },
+    "1712": {
+        "name": "My Style Secret Blade Technique 2",
+        "icon": ""
+    },
+    "1713": {
+        "name": "Oblivion Combo",
+        "icon": "oblivion_combo.webp"
+    },
+    "1714": {
+        "name": "Iaido Slash",
+        "icon": "iaido_slash.webp"
+    },
+    "1715": {
+        "name": "Moonstrike",
+        "icon": "moonstrike.webp"
+    },
+    "1716": {
+        "name": "Super High Output",
+        "icon": ""
+    },
+    "1717": {
+        "name": "Flash strike",
+        "icon": "flash_strike.webp"
+    },
+    "1718": {
+        "name": "Raijin Dash",
+        "icon": "raijin_dash.webp"
+    },
+    "1719": {
+        "name": "Scythe Wheel",
+        "icon": "scythe_wheel.webp"
+    },
+    "1720": {
+        "name": "True Sight",
+        "icon": "true_sight.webp"
+    },
+    "1721": {
+        "name": "Judgment Cut I",
+        "icon": "judgment_cut_i.webp"
+    },
+    "1722": {
+        "name": "Judgment Cut II",
+        "icon": "judgment_cut_ii.webp"
+    },
+    "1724": {
+        "name": "Thundercut",
+        "icon": "thundercut.webp"
+    },
+    "1725": {
+        "name": "Thundercut 2",
+        "icon": "thundercut-1.webp"
+    },
+    "1726": {
+        "name": "Thundercut 3",
+        "icon": "thundercut-2.webp"
+    },
+    "1728": {
+        "name": "Oblivion Combo",
+        "icon": "oblivion_combo-1.webp"
+    },
+    "1730": {
+        "name": "Volt Surge",
+        "icon": "volt_surge.webp"
+    },
+    "1731": {
+        "name": "Stormflash",
+        "icon": "stormflash.webp"
+    },
+    "1732": {
+        "name": "Stormflash",
+        "icon": "stormflash.webp"
+    },
+    "1733": {
+        "name": "Thunder Scythe",
+        "icon": ""
+    },
+    "1734": {
+        "name": "Thunder Iaido Slash",
+        "icon": ""
+    },
+    "1735": {
+        "name": "Falling Dragon Flash",
+        "icon": ""
+    },
+    "1736": {
+        "name": "Raijin Dash Slash",
+        "icon": "raijin_dash_slash.webp"
+    },
+    "1737": {
+        "name": "Divine Punishment Scythe",
+        "icon": ""
+    },
+    "1738": {
+        "name": "Chaotic Helmet Split",
+        "icon": ""
+    },
+    "1739": {
+        "name": "Insight Slash",
+        "icon": ""
+    },
+    "1740": {
+        "name": "Thunder Scythe (Triggered during Thunder Rising Dragon Slash)",
+        "icon": ""
+    },
+    "1741": {
+        "name": "Thunder Scythe",
+        "icon": ""
+    },
+    "1742": {
+        "name": "Thundercut - Final Slash",
+        "icon": "thundercut___final_slash.webp"
+    },
+    "1901": {
+        "name": "Halberd's Edge 1",
+        "icon": "halberd_s_edge.webp"
+    },
+    "1902": {
+        "name": "Halberd's Edge 2",
+        "icon": "halberd_s_edge.webp"
+    },
+    "1903": {
+        "name": "Halberd's Edge 3",
+        "icon": "halberd_s_edge.webp"
+    },
+    "1904": {
+        "name": "Halberd's Edge 4",
+        "icon": "halberd_s_edge.webp"
+    },
+    "1905": {
+        "name": "Dragon Slashing Style",
+        "icon": ""
+    },
+    "1906": {
+        "name": "Backstep Slash",
+        "icon": ""
+    },
+    "1907": {
+        "name": "Tectonic Ring",
+        "icon": "tectonic_ring.webp"
+    },
+    "1909": {
+        "name": "Halberd's Edge (Jump)",
+        "icon": "halberd_s_edge.webp"
+    },
+    "1912": {
+        "name": "Halberd's Edge - Red Light Counter",
+        "icon": "halberd_s_edge.webp"
+    },
+    "1917": {
+        "name": "Titan Charge",
+        "icon": "titan_charge.webp"
+    },
+    "1922": {
+        "name": "Shield Bash",
+        "icon": "shield_bash.webp"
+    },
+    "1923": {
+        "name": "Sandward.",
+        "icon": "sandward.webp"
+    },
+    "1924": {
+        "name": "Star Shatter",
+        "icon": "star_shatter.webp"
+    },
+    "1925": {
+        "name": "Rage Burst",
+        "icon": "rage_burst.webp"
+    },
+    "1926": {
+        "name": "Sandgrip",
+        "icon": "sandgrip.webp"
+    },
+    "1927": {
+        "name": "Sandshroud",
+        "icon": "sandshroud.webp"
+    },
+    "1928": {
+        "name": "Rock Protection",
+        "icon": ""
+    },
+    "1929": {
+        "name": "Immovable as a Mountain",
+        "icon": ""
+    },
+    "1930": {
+        "name": "Countercrush 2",
+        "icon": "countercrush-1.webp"
+    },
+    "1931": {
+        "name": "Countercrush 1",
+        "icon": "countercrush.webp"
+    },
+    "1932": {
+        "name": "Shield Bash",
+        "icon": "shield_bash.webp"
+    },
+    "1933": {
+        "name": "War-Halting Vanguard",
+        "icon": ""
+    },
+    "1934": {
+        "name": "Countercrush 3",
+        "icon": "countercrush-2.webp"
+    },
+    "1935": {
+        "name": "Countercrush - Furious Strike",
+        "icon": "countercrush-3.webp"
+    },
+    "1936": {
+        "name": "Stoneform",
+        "icon": "stoneform.webp"
+    },
+    "1937": {
+        "name": "Granite Fury",
+        "icon": "granite_fury.webp"
+    },
+    "1938": {
+        "name": "Brave Bastion",
+        "icon": "brave_bastion.webp"
+    },
+    "1939": {
+        "name": "Granite Fury",
+        "icon": "granite_fury-1.webp"
+    },
+    "1940": {
+        "name": "Rage Burst",
+        "icon": "rage_burst.webp"
+    },
+    "1941": {
+        "name": "Star Shattering Collapse",
+        "icon": ""
+    },
+    "1942": {
+        "name": "Collapse",
+        "icon": ""
+    },
+    "1943": {
+        "name": "Boulder Smash",
+        "icon": ""
+    },
+    "1944": {
+        "name": "Rage Burst",
+        "icon": "rage_burst.webp"
+    },
+    "1999": {
+        "name": "Rock Power",
+        "icon": ""
+    },
+    "2201": {
+        "name": "Bullseye",
+        "icon": "bullseye.webp"
+    },
+    "2209": {
+        "name": "Luminary Bolt",
+        "icon": "luminary_bolt.webp"
+    },
+    "2220": {
+        "name": "Storm Arrow",
+        "icon": "storm_arrow.webp"
+    },
+    "2221": {
+        "name": "Storm Arrow SP",
+        "icon": "storm_arrow-1.webp"
+    },
+    "2222": {
+        "name": "Double Arrow",
+        "icon": "double_arrow.webp"
+    },
+    "2224": {
+        "name": "Fatal Shot - Quadruple Shot",
+        "icon": ""
+    },
+    "2230": {
+        "name": "Torrent Volley",
+        "icon": "torrent_volley.webp"
+    },
+    "2231": {
+        "name": "Focus",
+        "icon": "focus.webp"
+    },
+    "2232": {
+        "name": "Arrow Rain",
+        "icon": "arrow_rain.webp"
+    },
+    "2233": {
+        "name": "Powerdraw",
+        "icon": "powerdraw.webp"
+    },
+    "2234": {
+        "name": "Radiance Barrage",
+        "icon": "radiance_barrage.webp"
+    },
+    "2235": {
+        "name": "Deter Shot",
+        "icon": "deter_shot.webp"
+    },
+    "2237": {
+        "name": "Wildcall",
+        "icon": "wildcall.webp"
+    },
+    "2238": {
+        "name": "Blast Shot",
+        "icon": "blast_shot.webp"
+    },
+    "2239": {
+        "name": "Explosive Arrow 2nd Hit",
+        "icon": "blast_shot.webp"
+    },
+    "2240": {
+        "name": "Sky Soaring Star Piercer - Enhanced Torrential Shot",
+        "icon": ""
+    },
+    "2241": {
+        "name": "Celestial Eagle",
+        "icon": ""
+    },
+    "2242": {
+        "name": "Beast Stampede",
+        "icon": ""
+    },
+    "2288": {
+        "name": "Light Bombardment",
+        "icon": ""
+    },
+    "2289": {
+        "name": "Arrow Rain",
+        "icon": ""
+    },
+    "2290": {
+        "name": "Sharp Eye · Light Giant Arrow - Group Pull (Talent)",
+        "icon": ""
+    },
+    "2291": {
+        "name": "Twin Star Arrow",
+        "icon": ""
+    },
+    "2292": {
+        "name": "Phantom Demon Wolf - Pounce Bite",
+        "icon": ""
+    },
+    "2293": {
+        "name": "Talent - Light Fissure",
+        "icon": ""
+    },
+    "2294": {
+        "name": "Light Will · Quadruple Shot",
+        "icon": ""
+    },
+    "2295": {
+        "name": "Sharp Eye · Light Giant Arrow (Arrow Formation Damage)",
+        "icon": ""
+    },
+    "2296": {
+        "name": "Phantom Eagle",
+        "icon": ""
+    },
+    "2301": {
+        "name": "Resonant Strings - 1",
+        "icon": "resonant_strings.webp"
+    },
+    "2302": {
+        "name": "Resonant Strings - 2",
+        "icon": "resonant_strings.webp"
+    },
+    "2303": {
+        "name": "Resonant Strings - 3",
+        "icon": "resonant_strings.webp"
+    },
+    "2304": {
+        "name": "Resonant Strings - 4",
+        "icon": "resonant_strings.webp"
+    },
+    "2306": {
+        "name": "Amplified Beat",
+        "icon": "amplified_beat.webp"
+    },
+    "2307": {
+        "name": "Healing Beat",
+        "icon": "healing_beat.webp"
+    },
+    "2308": {
+        "name": "Harmonic Anthem",
+        "icon": "harmonic_anthem.webp"
+    },
+    "2309": {
+        "name": "Rhapsody of Flame",
+        "icon": "rhapsody_of_flame.webp"
+    },
+    "2310": {
+        "name": "Heroic Melody",
+        "icon": "heroic_melody.webp"
+    },
+    "2311": {
+        "name": "Healing Melody",
+        "icon": "healing_melody.webp"
+    },
+    "2312": {
+        "name": "Fivefold Crescendo",
+        "icon": "fivefold_crescendo.webp"
+    },
+    "2313": {
+        "name": "Passion Burst",
+        "icon": "passion_burst.webp"
+    },
+    "2314": {
+        "name": "Rock the Stage",
+        "icon": "rock_the_stage.webp"
+    },
+    "2315": {
+        "name": "Encore",
+        "icon": "encore.webp"
+    },
+    "2316": {
+        "name": "Center Stage",
+        "icon": "center_stage.webp"
+    },
+    "2317": {
+        "name": "String Strike 1",
+        "icon": "string_strike.webp"
+    },
+    "2318": {
+        "name": "Finish! Healing Movement",
+        "icon": ""
+    },
+    "2319": {
+        "name": "Soundwave Surge",
+        "icon": ""
+    },
+    "2320": {
+        "name": "Sound Tower Blaze Impact",
+        "icon": ""
+    },
+    "2321": {
+        "name": "String Strike 2",
+        "icon": "string_strike.webp"
+    },
+    "2322": {
+        "name": "String Strike 3",
+        "icon": "string_strike.webp"
+    },
+    "2323": {
+        "name": "String Strike 4",
+        "icon": "string_strike.webp"
+    },
+    "2324": {
+        "name": "String Strike 5",
+        "icon": "string_strike.webp"
+    },
+    "2329": {
+        "name": "Flame Dancer Performer",
+        "icon": ""
+    },
+    "2330": {
+        "name": "Pillar Impact - Flame Dancer Performer Enhanced",
+        "icon": ""
+    },
+    "2331": {
+        "name": "Soundwave Blaze",
+        "icon": ""
+    },
+    "2332": {
+        "name": "Ardent · Passionate Flourish",
+        "icon": ""
+    },
+    "2335": {
+        "name": "Infinite Rhapsody",
+        "icon": ""
+    },
+    "2336": {
+        "name": "Concert Circuit",
+        "icon": "concert_circuit.webp"
+    },
+    "2352": {
+        "name": "Celestial Eagle",
+        "icon": "infinite_rhapsody.webp"
+    },
+    "2361": {
+        "name": "Healing Beat copy",
+        "icon": ""
+    },
+    "2362": {
+        "name": "Soundwave Judgment",
+        "icon": ""
+    },
+    "2363": {
+        "name": "Surge Quintet copy",
+        "icon": ""
+    },
+    "2364": {
+        "name": "Ascension · Explosive全场 copy",
+        "icon": ""
+    },
+    "2365": {
+        "name": "Ascension · Infinite Rhapsody copy",
+        "icon": ""
+    },
+    "2366": {
+        "name": "Ascension · Tour曲 copy",
+        "icon": ""
+    },
+    "2399": {
+        "name": "Sound System Healing Stick",
+        "icon": ""
+    },
+    "2401": {
+        "name": "Blade of Justice - 1st Hit",
+        "icon": "blade_of_justice.webp"
+    },
+    "2402": {
+        "name": "Blade of Justice - 2nd Hit",
+        "icon": "blade_of_justice.webp"
+    },
+    "2403": {
+        "name": "Blade of Justice - 3rd Hit",
+        "icon": "blade_of_justice.webp"
+    },
+    "2404": {
+        "name": "Blade of Justice - 4th Hit",
+        "icon": "blade_of_justice.webp"
+    },
+    "2405": {
+        "name": "Valor Bash",
+        "icon": "valor_bash.webp"
+    },
+    "2406": {
+        "name": "Vanguard Strike",
+        "icon": "vanguard_strike.webp"
+    },
+    "2407": {
+        "name": "Radiant Infusion",
+        "icon": "radiant_infusion.webp"
+    },
+    "2408": {
+        "name": "Shield Toss",
+        "icon": "shield_toss.webp"
+    },
+    "2409": {
+        "name": "Divine Circle",
+        "icon": "divine_circle.webp"
+    },
+    "2410": {
+        "name": "Judgment",
+        "icon": "judgment.webp"
+    },
+    "2411": {
+        "name": "Scorching Judgment",
+        "icon": ""
+    },
+    "2412": {
+        "name": "Reckoning",
+        "icon": "reckoning.webp"
+    },
+    "2413": {
+        "name": "Blazing Reckoning",
+        "icon": ""
+    },
+    "2414": {
+        "name": "Holy Barrier",
+        "icon": "holy_barrier.webp"
+    },
+    "2415": {
+        "name": "Aegis Ward",
+        "icon": "aegis_ward.webp"
+    },
+    "2416": {
+        "name": "Condemnation",
+        "icon": ""
+    },
+    "2417": {
+        "name": "Enhanced Condemnation",
+        "icon": ""
+    },
+    "2419": {
+        "name": "Zeal Crusade",
+        "icon": "zeal_crusade.webp"
+    },
+    "2420": {
+        "name": "Radiance",
+        "icon": "radiance.webp"
+    },
+    "2421": {
+        "name": "Sacred Blade",
+        "icon": "sacred_blade.webp"
+    },
+    "2425": {
+        "name": "Shield Toss",
+        "icon": "shield_toss.webp"
+    },
+    "2450": {
+        "name": "Light Impact",
+        "icon": ""
+    },
+    "2451": {
+        "name": "Judgment (Holy Trigger)",
+        "icon": ""
+    },
+    "2452": {
+        "name": "Scorching Judgment Holy Sword",
+        "icon": ""
+    },
+    "3698": {
+        "name": "Goblin King (Passive)",
+        "icon": ""
+    },
+    "3901": {
+        "name": "Secret Art! Flowing Fire Roar (Fire Demon)",
+        "icon": ""
+    },
+    "3925": {
+        "name": "Ultimate Skill! Formless Impact (Ogre)",
+        "icon": ""
+    },
+    "20301": {
+        "name": "Life Bloom",
+        "icon": ""
+    },
+    "21402": {
+        "name": "Wild Bloom",
+        "icon": ""
+    },
+    "21404": {
+        "name": "Nourish",
+        "icon": ""
+    },
+    "21406": {
+        "name": "Forest's Wish",
+        "icon": ""
+    },
+    "21414": {
+        "name": "Hope Barrier Duration",
+        "icon": ""
+    },
+    "21418": {
+        "name": "Deer's Gallop",
+        "icon": ""
+    },
+    "21423": {
+        "name": "Symbiosis Mark",
+        "icon": ""
+    },
+    "21424": {
+        "name": "Thorns",
+        "icon": ""
+    },
+    "21427": {
+        "name": "Punishment Heal Empty A 1st Hit",
+        "icon": ""
+    },
+    "21428": {
+        "name": "Punishment Heal Empty A 2nd Hit",
+        "icon": ""
+    },
+    "21429": {
+        "name": "Punishment Heal Empty A 3rd Hit",
+        "icon": ""
+    },
+    "21430": {
+        "name": "Punishment Heal Empty A 4th Hit",
+        "icon": ""
+    },
+    "27009": {
+        "name": "Ice Block BUFF",
+        "icon": ""
+    },
+    "31901": {
+        "name": "Valor Cyclone",
+        "icon": "valor_cyclone.webp"
+    },
+    "44701": {
+        "name": "Moon Blade",
+        "icon": ""
+    },
+    "50033": {
+        "name": "Group Pull",
+        "icon": ""
+    },
+    "50036": {
+        "name": "Weak Point Strike",
+        "icon": ""
+    },
+    "50037": {
+        "name": "Block Counter",
+        "icon": ""
+    },
+    "50049": {
+        "name": "Sandstone Cloak (Duration)",
+        "icon": ""
+    },
+    "50068": {
+        "name": "Block Counter -- Strong",
+        "icon": ""
+    },
+    "55231": {
+        "name": "Explosive Arrow BUFF Detonation",
+        "icon": ""
+    },
+    "55235": {
+        "name": "Light Will · Quadruple Shot (Splash Damage)",
+        "icon": ""
+    },
+    "55236": {
+        "name": "Enhanced Special Attack Final Hit Virtual Body",
+        "icon": ""
+    },
+    "55238": {
+        "name": "Bow - Ultimate Gravity",
+        "icon": ""
+    },
+    "55239": {
+        "name": "Light Stasis Root BUFF",
+        "icon": ""
+    },
+    "55240": {
+        "name": "Light Bombardment Damage Area BUFF",
+        "icon": ""
+    },
+    "55301": {
+        "name": "Blazing Rhapsody",
+        "icon": ""
+    },
+    "55302": {
+        "name": "Healing Beat",
+        "icon": ""
+    },
+    "55304": {
+        "name": "Surge Quintet",
+        "icon": ""
+    },
+    "55311": {
+        "name": "Encore曲 Transformation",
+        "icon": ""
+    },
+    "55314": {
+        "name": "Encore",
+        "icon": ""
+    },
+    "55328": {
+        "name": "Center of Attention Surge Quintet Performance Doubled",
+        "icon": ""
+    },
+    "55335": {
+        "name": "Center of Attention Passionate Flourish Stage 3",
+        "icon": ""
+    },
+    "55339": {
+        "name": "Ascension · Tour曲",
+        "icon": ""
+    },
+    "55341": {
+        "name": "Heroic Movement",
+        "icon": ""
+    },
+    "55342": {
+        "name": "Healing Movement",
+        "icon": ""
+    },
+    "55344": {
+        "name": "Ascension · Explosive全场",
+        "icon": ""
+    },
+    "55346": {
+        "name": "Ascension · Infinite Rhapsody",
+        "icon": ""
+    },
+    "55355": {
+        "name": "Resting Heal",
+        "icon": ""
+    },
+    "55404": {
+        "name": "Divine Circle",
+        "icon": "divine_circle.webp"
+    },
+    "55412": {
+        "name": "Zeal Crusade",
+        "icon": "zeal_crusade.webp"
+    },
+    "55417": {
+        "name": "Zeal Crusade",
+        "icon": "zeal_crusade.webp"
+    },
+    "55421": {
+        "name": "Judgment",
+        "icon": ""
+    },
+    "55431": {
+        "name": "Zeal Crusade buff",
+        "icon": "zeal_crusade.webp"
+    },
+    "55432": {
+        "name": "Zeal Crusade buff",
+        "icon": "zeal_crusade.webp"
+    },
+    "100730": {
+        "name": "Goblin Crossbowman Active",
+        "icon": ""
+    },
+    "102640": {
+        "name": "Ultimate Skill! Charge (Fierce Wild Boar)",
+        "icon": ""
+    },
+    "101112": {
+        "name": "Pet Eagle Quick Spin",
+        "icon": ""
+    },
+    "120201": {
+        "name": "Rain Strikes, Tide Rises - Curving Bullet",
+        "icon": ""
+    },
+    "120301": {
+        "name": "Rain Strikes, Tide Rises - Final Blow",
+        "icon": ""
+    },
+    "120401": {
+        "name": "Rain Strikes, Tide Rises - Basic Attack 1st Hit",
+        "icon": ""
+    },
+    "120501": {
+        "name": "Rain Strikes, Tide Rises",
+        "icon": ""
+    },
+    "120901": {
+        "name": "Piercing Ice Spear",
+        "icon": ""
+    },
+    "120902": {
+        "name": "Ice Spear",
+        "icon": ""
+    },
+    "121302": {
+        "name": "Ice Arrow",
+        "icon": ""
+    },
+    "121501": {
+        "name": "Clear Rapid Encircling Pearls",
+        "icon": ""
+    },
+    "140301": {
+        "name": "Vortex Strike 2",
+        "icon": "vortex_strike.webp"
+    },
+    "140401": {
+        "name": "Drake Cannon",
+        "icon": "drake_cannon.webp"
+    },
+    "140501": {
+        "name": "Tornado",
+        "icon": ""
+    },
+    "141104": {
+        "name": "Mutant Bee Active a1",
+        "icon": ""
+    },
+    "149901": {
+        "name": "Wind Spiral",
+        "icon": ""
+    },
+    "149902": {
+        "name": "Spear Pierce",
+        "icon": ""
+    },
+    "149904": {
+        "name": "Tina Tornado",
+        "icon": ""
+    },
+    "149905": {
+        "name": "Flying Bird Throw",
+        "icon": ""
+    },
+    "149906": {
+        "name": "Extreme · Storm Slash",
+        "icon": ""
+    },
+    "149907": {
+        "name": "Sharp Impact (Wind God)",
+        "icon": ""
+    },
+    "150101": {
+        "name": "Deer's Gallop",
+        "icon": ""
+    },
+    "150103": {
+        "name": "Unruly Seed 1st Hit",
+        "icon": ""
+    },
+    "150104": {
+        "name": "Unruly Seed 2nd Hit",
+        "icon": ""
+    },
+    "150106": {
+        "name": "Infusion (Left Hand)",
+        "icon": ""
+    },
+    "150107": {
+        "name": "Infusion (Right Hand)",
+        "icon": ""
+    },
+    "150110": {
+        "name": "Infusion (Dual Infusion Extra Part)",
+        "icon": ""
+    },
+    "155101": {
+        "name": "Lightning Cutter",
+        "icon": ""
+    },
+    "155102": {
+        "name": "Lightning Cutter - Final Hit",
+        "icon": ""
+    },
+    "179906": {
+        "name": "Moon Blade Spin",
+        "icon": ""
+    },
+    "179907": {
+        "name": "Blade Wind Domain",
+        "icon": ""
+    },
+    "179904": {
+        "name": "God Shadow Slash - Final Hit",
+        "icon": ""
+    },
+    "179908": {
+        "name": "Blade Will Lightning Strike",
+        "icon": ""
+    },
+    "199902": {
+        "name": "Earth Collapse, Mountain Destroyed",
+        "icon": ""
+    },
+    "199903": {
+        "name": "Boulder Smash",
+        "icon": ""
+    },
+    "220101": {
+        "name": "No Miss Shot",
+        "icon": ""
+    },
+    "220102": {
+        "name": "Torrential Shot",
+        "icon": ""
+    },
+    "220103": {
+        "name": "No Miss Shot - Final Hit",
+        "icon": ""
+    },
+    "220104": {
+        "name": "Twin Shot/Storm Arrow",
+        "icon": ""
+    },
+    "220105": {
+        "name": "Light Pursuit Arrow",
+        "icon": ""
+    },
+    "220106": {
+        "name": "Aerial Shot",
+        "icon": ""
+    },
+    "220107": {
+        "name": "Magic Arrow",
+        "icon": ""
+    },
+    "220108": {
+        "name": "Explosive Arrow",
+        "icon": "blast_shot.webp"
+    },
+    "220109": {
+        "name": "Deterrence Shot",
+        "icon": ""
+    },
+    "220110": {
+        "name": "Explosive Arrow",
+        "icon": "blast_shot.webp"
+    },
+    "220111": {
+        "name": "Light Will · Quadruple Shot",
+        "icon": ""
+    },
+    "220112": {
+        "name": "Light Fissure",
+        "icon": ""
+    },
+    "220113": {
+        "name": "Phantom Eagle",
+        "icon": ""
+    },
+    "220203": {
+        "name": "Light Will · Quadruple Shot",
+        "icon": ""
+    },
+    "220301": {
+        "name": "Sharp Eye · Light Giant Arrow (Arrow Damage)",
+        "icon": ""
+    },
+    "221101": {
+        "name": "No Miss Shot - Red Light Counter",
+        "icon": ""
+    },
+    "230101": {
+        "name": "Convergence Movement Single Hit",
+        "icon": ""
+    },
+    "230102": {
+        "name": "Convergence Movement Second Hit",
+        "icon": ""
+    },
+    "230103": {
+        "name": "Convergence Movement Third Hit",
+        "icon": ""
+    },
+    "230104": {
+        "name": "Convergence Movement Fourth Hit",
+        "icon": ""
+    },
+    "230105": {
+        "name": "Blazing Law Stomp Damage",
+        "icon": ""
+    },
+    "230106": {
+        "name": "Blazing Note Damage",
+        "icon": ""
+    },
+    "230401": {
+        "name": "Encore Damage",
+        "icon": ""
+    },
+    "230501": {
+        "name": "Infinite Performance Encore Damage",
+        "icon": ""
+    },
+    "231001": {
+        "name": "Blazing Rhapsody Damage",
+        "icon": ""
+    },
+    "240101": {
+        "name": "Shield Toss",
+        "icon": "shield_toss.webp"
+    },
+    "240102": {
+        "name": "Light Resolve",
+        "icon": ""
+    },
+    "391001": {
+        "name": "Ultimate Skill! Chaotic Missile (Erosion Ogre) 1",
+        "icon": ""
+    },
+    "391002": {
+        "name": "Ultimate Skill! Chaotic Missile (Erosion Ogre) 2",
+        "icon": ""
+    },
+    "391003": {
+        "name": "Ultimate Skill! Chaotic Missile (Erosion Ogre) 3",
+        "icon": ""
+    },
+    "391004": {
+        "name": "Ultimate Skill! Chaotic Missile (Erosion Ogre) 4",
+        "icon": ""
+    },
+    "391005": {
+        "name": "Ultimate Skill! Chaotic Missile (Erosion Ogre) 5",
+        "icon": ""
+    },
+    "391006": {
+        "name": "Ultimate Skill! Chaotic Missile (Erosion Ogre) 6",
+        "icon": ""
+    },
+    "391007": {
+        "name": "Goblin Crossbowman Passive",
+        "icon": ""
+    },
+    "391008": {
+        "name": "Mutant Bee Passive",
+        "icon": ""
+    },
+    "391301": {
+        "name": "Ultimate Skill! Electromagnetic Bomb (Gunner)",
+        "icon": ""
+    },
+    "391401": {
+        "name": "Erosion Pulse",
+        "icon": ""
+    },
+    "683624": {
+        "name": "Continuous HP Recovery BUFF",
+        "icon": ""
+    },
+    "700013": {
+        "name": "Dark Corruption",
+        "icon": ""
+    },
+    "701001": {
+        "name": "Erosion Shadow Explosion",
+        "icon": ""
+    },
+    "701002": {
+        "name": "Erosion Wave Explosion",
+        "icon": ""
+    },
+    "1002440": {
+        "name": "Ultimate Skill! Super Critical (Mook Squad Leader)",
+        "icon": ""
+    },
+    "1002830": {
+        "name": "Secret Art! Frost Shock (Ice Demon)",
+        "icon": ""
+    },
+    "1005240": {
+        "name": "Ultimate Skill! Hunting Slash (Vanguard)",
+        "icon": ""
+    },
+    "1005940": {
+        "name": "Mook Berserker - Whirlwind Charge",
+        "icon": ""
+    },
+    "1006940": {
+        "name": "Secret Art! Cocoon (Spider)",
+        "icon": ""
+    },
+    "1007601": {
+        "name": "Mutant Bee Skill 12",
+        "icon": ""
+    },
+    "1007602": {
+        "name": "Mutant Bee Skill 3",
+        "icon": ""
+    },
+    "1007741": {
+        "name": "Poisonous Hive (Initial)",
+        "icon": ""
+    },
+    "1008040": {
+        "name": "Ultimate Skill! Lightning Ball (Lightning Boar)",
+        "icon": ""
+    },
+    "1008140": {
+        "name": "Secret Art！ Hell Thrust (Iron Tusk)",
+        "icon": ""
+    },
+    "1008440": {
+        "name": "Secret Art! Blue Storm Howl (Flying Fish)",
+        "icon": ""
+    },
+    "1008540": {
+        "name": "Secret Art！ Silent Tide (Lizardman King)",
+        "icon": ""
+    },
+    "1008641": {
+        "name": "Stunt! Whirlwind Strike",
+        "icon": ""
+    },
+    "1010440": {
+        "name": "Ultimate Skill！ Suppressing Thunder (Lizardman Hunter)(Active)",
+        "icon": ""
+    },
+    "1700440": {
+        "name": "Secret Art！ Heavy Hammer Assault（Mook Head）",
+        "icon": ""
+    },
+    "1700820": {
+        "name": "Wolf Synergy Attack",
+        "icon": ""
+    },
+    "1700824": {
+        "name": "Tail Whip",
+        "icon": ""
+    },
+    "1700825": {
+        "name": "Wolf Assault",
+        "icon": ""
+    },
+    "1700826": {
+        "name": "Wild Call",
+        "icon": ""
+    },
+    "1700827": {
+        "name": "Wolf Basic Attack",
+        "icon": ""
+    },
+    "2001740": {
+        "name": "Ultimate Skill！ Instant Step Surprise Attack（Bandit Scout）",
+        "icon": ""
+    },
+    "2002853": {
+        "name": "Ultimate Skill！ Shattering Star Fall（Fire Brother）",
+        "icon": ""
+    },
+    "2031101": {
+        "name": "Lucky Hit (Katana)",
+        "icon": ""
+    },
+    "2031102": {
+        "name": "Lucky Hit (Ice Mage)",
+        "icon": ""
+    },
+    "2031104": {
+        "name": "Lucky Hit (Spear)",
+        "icon": ""
+    },
+    "2031105": {
+        "name": "Lucky Hit (Forest Language)",
+        "icon": ""
+    },
+    "2031106": {
+        "name": "Lucky Hit (Hand Cannon)",
+        "icon": ""
+    },
+    "2031107": {
+        "name": "Lucky Hit (Great Blade)",
+        "icon": ""
+    },
+    "2031108": {
+        "name": "Lucky Hit (Ritual Blade)",
+        "icon": ""
+    },
+    "2031109": {
+        "name": "Lucky Hit (Bow)",
+        "icon": ""
+    },
+    "2031110": {
+        "name": "Lucky Hit (Sword and Shield)",
+        "icon": ""
+    },
+    "2031111": {
+        "name": "Lucky Hit (Guitar)",
+        "icon": ""
+    },
+    "2110012": {
+        "name": "Secret Art！ Pulse Prayer（Mook King）",
+        "icon": ""
+    },
+    "2110062": {
+        "name": "Roar Command (Goblin King Summons Axe Goblin)",
+        "icon": ""
+    },
+    "2110066": {
+        "name": "Ultimate Skill！ Earth Shield (Bandit Guard Captain)",
+        "icon": ""
+    },
+    "2110071": {
+        "name": "Boar King Lightning Chain Main Buff",
+        "icon": ""
+    },
+    "2110072": {
+        "name": "Boar King Lightning Chain Derivative A",
+        "icon": ""
+    },
+    "2110073": {
+        "name": "Boar King Lightning Chain Derivative B",
+        "icon": ""
+    },
+    "2110074": {
+        "name": "Boar King Lightning Chain Derivative C - Hit Effect",
+        "icon": ""
+    },
+    "2110083": {
+        "name": "Fire Demon Heal",
+        "icon": ""
+    },
+    "2110085": {
+        "name": "Lightning Seed (Orvira)",
+        "icon": ""
+    },
+    "2110090": {
+        "name": "Erosion Ogre",
+        "icon": ""
+    },
+    "2110091": {
+        "name": "Erosion Damage Converted to Heal",
+        "icon": ""
+    },
+    "2110096": {
+        "name": "Secret Art！ Thunderous Roar (Gold Tusk)(Lightning Strike)",
+        "icon": ""
+    },
+    "2110099": {
+        "name": "Poisonous Hive (Duration)",
+        "icon": ""
+    },
+    "2201070": {
+        "name": "Block Damage Reduction",
+        "icon": ""
+    },
+    "2201080": {
+        "name": "Block Heal",
+        "icon": ""
+    },
+    "2201172": {
+        "name": "Steadfast Breath",
+        "icon": ""
+    },
+    "2201240": {
+        "name": "Shield Echo",
+        "icon": ""
+    },
+    "2201362": {
+        "name": "Sand Crystal Shock",
+        "icon": ""
+    },
+    "2201410": {
+        "name": "Sandstone Revival",
+        "icon": ""
+    },
+    "2201493": {
+        "name": "Heal (Rock Shield)",
+        "icon": ""
+    },
+    "2201570": {
+        "name": "Rock Protection",
+        "icon": ""
+    },
+    "2202091": {
+        "name": "Heal: Healing Link",
+        "icon": ""
+    },
+    "2202120": {
+        "name": "Eluna Shield",
+        "icon": ""
+    },
+    "2202211": {
+        "name": "Green Essence Outburst (Heal)",
+        "icon": ""
+    },
+    "2202262": {
+        "name": "Revival Aura HoT BUFF",
+        "icon": ""
+    },
+    "2202271": {
+        "name": "Heavenly Light Activation BUFF",
+        "icon": ""
+    },
+    "2202291": {
+        "name": "Life Gift - Heal Sub-buff",
+        "icon": ""
+    },
+    "2202311": {
+        "name": "Heal: Nourishing Seed",
+        "icon": ""
+    },
+    "2002440": {
+        "name": "Secret Art！ Lightning Prison（Thunder Demon）",
+        "icon": ""
+    },
+    "2202581": {
+        "name": "Collapse! boom~",
+        "icon": ""
+    },
+    "2202582": {
+        "name": "Collapse! boom~",
+        "icon": ""
+    },
+    "2203091": {
+        "name": "Life Drain (Pounce Bite Detonation)",
+        "icon": ""
+    },
+    "2203101": {
+        "name": "Life Drain",
+        "icon": ""
+    },
+    "2203102": {
+        "name": "Life Drain (Synergy Attack Detonation)",
+        "icon": ""
+    },
+    "2203141": {
+        "name": "Life Drain (Light Pursuit Arrow Detonation)",
+        "icon": ""
+    },
+    "2203181": {
+        "name": "Lightning Impact",
+        "icon": ""
+    },
+    "2203291": {
+        "name": "Eagle Sortie",
+        "icon": ""
+    },
+    "2203302": {
+        "name": "Life Drain (Tail Sweep Detonation)",
+        "icon": ""
+    },
+    "2203311": {
+        "name": "Explosive Arrow (Splash)",
+        "icon": "blast_shot.webp"
+    },
+    "2203512": {
+        "name": "Stampede",
+        "icon": ""
+    },
+    "2203521": {
+        "name": "Implosion (Steel Beak Trigger)",
+        "icon": ""
+    },
+    "2203621": {
+        "name": "Light Prism",
+        "icon": ""
+    },
+    "2203622": {
+        "name": "Light Prism Splash",
+        "icon": ""
+    },
+    "2204081": {
+        "name": "Ice Arrow Explosion",
+        "icon": ""
+    },
+    "2204241": {
+        "name": "Frost Impact",
+        "icon": ""
+    },
+    "2204320": {
+        "name": "Frigid Pulse",
+        "icon": ""
+    },
+    "2205060": {
+        "name": "Fierce Strike",
+        "icon": ""
+    },
+    "2205071": {
+        "name": "Rend",
+        "icon": ""
+    },
+    "2205450": {
+        "name": "Courage Wind Ring Life Steal",
+        "icon": ""
+    },
+    "2406140": {
+        "name": "AOE on Shield Gain (Set)",
+        "icon": ""
+    },
+    "2206240": {
+        "name": "Divine Radiance",
+        "icon": ""
+    },
+    "2206241": {
+        "name": "Holy Mark",
+        "icon": ""
+    },
+    "2206243": {
+        "name": "Holy Mark Damage",
+        "icon": ""
+    },
+    "2206401": {
+        "name": "Holy Strike",
+        "icon": ""
+    },
+    "2206460": {
+        "name": "Shield Bash Guardian",
+        "icon": ""
+    },
+    "2206552": {
+        "name": "Light Core",
+        "icon": ""
+    },
+    "2207141": {
+        "name": "Note",
+        "icon": ""
+    },
+    "2207151": {
+        "name": "Blazing Heal",
+        "icon": ""
+    },
+    "2207431": {
+        "name": "Blazing Law Stomp Heal",
+        "icon": ""
+    },
+    "2207500": {
+        "name": "Ultimate Will Center of Attention",
+        "icon": ""
+    },
+    "2207620": {
+        "name": "Vitality Release",
+        "icon": ""
+    },
+    "2207660": {
+        "name": "Ultimate Will Center of Attention",
+        "icon": ""
+    },
+    "2207681": {
+        "name": "Spiral Performance",
+        "icon": ""
+    },
+    "2900540": {
+        "name": "Secret Art！ Instant Slash (Orvira)",
+        "icon": ""
+    },
+    "3001031": {
+        "name": "Erosion Aura",
+        "icon": ""
+    },
+    "3001170": {
+        "name": "Erosion Wave Heal",
+        "icon": ""
+    },
+    "3081023": {
+        "name": "Ultimate Skill! Overhead Slash (Shadow Swordsman Captain)",
+        "icon": ""
+    },
+    "3210021": {
+        "name": "Secret Art！ Meteor Fall (Wind Brother)(Active)",
+        "icon": ""
+    },
+    "3210031": {
+        "name": "Thunder Demon Passive",
+        "icon": ""
+    },
+    "3210051": {
+        "name": "Bandit Passive",
+        "icon": ""
+    },
+    "3210061": {
+        "name": "Mook Squad Leader Passive",
+        "icon": ""
+    },
+    "3210081": {
+        "name": "Lizardman Hunter Passive",
+        "icon": ""
+    },
+    "3210092": {
+        "name": "Lizardman King Passive",
+        "icon": ""
+    },
+    "3210101": {
+        "name": "Mook King - Shield",
+        "icon": ""
+    },
+    "3913001": {
+        "name": "Ultimate Skill! Electromagnetic Bomb (Gunner)",
+        "icon": ""
+    },
+    "3936001": {
+        "name": "Ultimate Skill！ Silent Water (Lizardman Mage)",
+        "icon": ""
+    },
+    "10040102": {
+        "name": "Sword Shield Goblin - Wind Blade Slash Resonance",
+        "icon": ""
+    }
+}

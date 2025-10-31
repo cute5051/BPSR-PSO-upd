@@ -1,0 +1,8030 @@
+{
+  "101": {
+    "Name": "Dummy (Flame Orc)",
+    "MonsterType": 1
+  },
+  "102": {
+    "Name": "Test Dummy (Enemy)",
+    "MonsterType": 1
+  },
+  "103": {
+    "Name": "Rathalos",
+    "MonsterType": 2
+  },
+  "104": {
+    "Name": "Rathalos",
+    "MonsterType": 0
+  },
+  "105": {
+    "Name": "Test Dummy (Ally)",
+    "MonsterType": 1
+  },
+  "106": {
+    "Name": "Test Dummy (Neutral)",
+    "MonsterType": 1
+  },
+  "107": {
+    "Name": "Kartgriff",
+    "MonsterType": 2
+  },
+  "108": {
+    "Name": "Frost Ogre",
+    "MonsterType": 2
+  },
+  "109": {
+    "Name": "Muku Warrior",
+    "MonsterType": 2
+  },
+  "110": {
+    "Name": "Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "111": {
+    "Name": "Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "112": {
+    "Name": "Boss - Goblin King",
+    "MonsterType": 2
+  },
+  "113": {
+    "Name": "Tatta",
+    "MonsterType": 1
+  },
+  "114": {
+    "Name": "Dummy",
+    "MonsterType": 0
+  },
+  "115": {
+    "Name": "Dummy",
+    "MonsterType": 1
+  },
+  "116": {
+    "Name": "Wooden Dummy",
+    "MonsterType": 2
+  },
+  "117": {
+    "Name": "Wooden Dummy",
+    "MonsterType": 2
+  },
+  "118": {
+    "Name": "Wooden Dummy",
+    "MonsterType": 2
+  },
+  "119": {
+    "Name": "Wooden Dummy",
+    "MonsterType": 2
+  },
+  "120": {
+    "Name": "Wooden Dummy",
+    "MonsterType": 2
+  },
+  "200": {
+    "Name": "Transformation Exclusive - Void Tina",
+    "MonsterType": 0
+  },
+  "201": {
+    "Name": "Transformation Exclusive - Goblin Axe",
+    "MonsterType": 0
+  },
+  "202": {
+    "Name": "Transformation Exclusive - Airona",
+    "MonsterType": 0
+  },
+  "203": {
+    "Name": "Goblin King - AegisTransformation",
+    "MonsterType": 2
+  },
+  "204": {
+    "Name": "Goblin King - Staff Transformation",
+    "MonsterType": 2
+  },
+  "205": {
+    "Name": "Void Bzzar",
+    "MonsterType": 1
+  },
+  "206": {
+    "Name": "Nitro Bzzar",
+    "MonsterType": 0
+  },
+  "1012": {
+    "Name": "Flame Orc",
+    "MonsterType": 2
+  },
+  "1013": {
+    "Name": "Rathalos",
+    "MonsterType": 2
+  },
+  "1100": {
+    "Name": "Defensive Type 04",
+    "MonsterType": 0
+  },
+  "1101": {
+    "Name": "Defensive Type 06",
+    "MonsterType": 0
+  },
+  "1102": {
+    "Name": "Defensive Type 04",
+    "MonsterType": 0
+  },
+  "1103": {
+    "Name": "Defensive Type 06",
+    "MonsterType": 0
+  },
+  "1104": {
+    "Name": "Sentinel Type 01",
+    "MonsterType": 0
+  },
+  "1105": {
+    "Name": "Suicidal Soldier 02",
+    "MonsterType": 0
+  },
+  "1106": {
+    "Name": "Battle Mech 03",
+    "MonsterType": 0
+  },
+  "1107": {
+    "Name": "Super Battle Mech 99",
+    "MonsterType": 1
+  },
+  "1108": {
+    "Name": "Battle Mech Remains",
+    "MonsterType": 0
+  },
+  "1109": {
+    "Name": "Battle Mech Remains",
+    "MonsterType": 0
+  },
+  "1110": {
+    "Name": "Kartgriff",
+    "MonsterType": 2
+  },
+  "1111": {
+    "Name": "Dark Mist Swordsman",
+    "MonsterType": 0
+  },
+  "1112": {
+    "Name": "Soldier",
+    "MonsterType": 0
+  },
+  "1113": {
+    "Name": "Jayden",
+    "MonsterType": 0
+  },
+  "1114": {
+    "Name": "Soldier",
+    "MonsterType": 0
+  },
+  "1115": {
+    "Name": "Defensive Type 04",
+    "MonsterType": 0
+  },
+  "1116": {
+    "Name": "Defensive Type 05",
+    "MonsterType": 0
+  },
+  "1117": {
+    "Name": "Undead Sword",
+    "MonsterType": 0
+  },
+  "1118": {
+    "Name": "Soul Essence",
+    "MonsterType": 0
+  },
+  "1119": {
+    "Name": "Sentinel Type 01",
+    "MonsterType": 0
+  },
+  "1120": {
+    "Name": "Self-Destruct Type 02",
+    "MonsterType": 0
+  },
+  "1121": {
+    "Name": "Battle Mech 03",
+    "MonsterType": 0
+  },
+  "1122": {
+    "Name": "Super Battle Mech 99",
+    "MonsterType": 1
+  },
+  "1123": {
+    "Name": "Super Battle Mech 99",
+    "MonsterType": 0
+  },
+  "1124": {
+    "Name": "Laser Cannon",
+    "MonsterType": 0
+  },
+  "1130": {
+    "Name": "Defensive Type 04",
+    "MonsterType": 0
+  },
+  "1134": {
+    "Name": "Sentinel Type 01",
+    "MonsterType": 0
+  },
+  "1135": {
+    "Name": "Suicidal Soldier 02",
+    "MonsterType": 0
+  },
+  "1136": {
+    "Name": "Battle Mech 03",
+    "MonsterType": 0
+  },
+  "1137": {
+    "Name": "Sentinel Type 01",
+    "MonsterType": 0
+  },
+  "1140": {
+    "Name": "Defensive Type 04",
+    "MonsterType": 0
+  },
+  "1141": {
+    "Name": "Defensive Type 06",
+    "MonsterType": 0
+  },
+  "1142": {
+    "Name": "Sentinel Type 01",
+    "MonsterType": 0
+  },
+  "1143": {
+    "Name": "Suicidal Soldier 02",
+    "MonsterType": 0
+  },
+  "1144": {
+    "Name": "Battle Mech 03",
+    "MonsterType": 0
+  },
+  "1145": {
+    "Name": "Power Supply Statue",
+    "MonsterType": 0
+  },
+  "1146": {
+    "Name": "Battle Mech 03",
+    "MonsterType": 0
+  },
+  "1147": {
+    "Name": "Sentinel Type 01",
+    "MonsterType": 0
+  },
+  "1148": {
+    "Name": "Mech Core",
+    "MonsterType": 1
+  },
+  "1150": {
+    "Name": "Kartgriff",
+    "MonsterType": 2
+  },
+  "1170": {
+    "Name": "Defensive Type 04",
+    "MonsterType": 0
+  },
+  "1171": {
+    "Name": "Defensive Type 05",
+    "MonsterType": 0
+  },
+  "1172": {
+    "Name": "Sentinel Type 01",
+    "MonsterType": 0
+  },
+  "1173": {
+    "Name": "Super Battle Mech 99",
+    "MonsterType": 1
+  },
+  "1174": {
+    "Name": "Kartgriff",
+    "MonsterType": 2
+  },
+  "1175": {
+    "Name": "Corridor Laser Special Effect",
+    "MonsterType": 0
+  },
+  "1200": {
+    "Name": "Defensive Type 04",
+    "MonsterType": 0
+  },
+  "1201": {
+    "Name": "Defensive Type 06",
+    "MonsterType": 1
+  },
+  "1202": {
+    "Name": "Edge Blade",
+    "MonsterType": 0
+  },
+  "1203": {
+    "Name": "Soul Essence",
+    "MonsterType": 0
+  },
+  "1204": {
+    "Name": "Sentinel Type 01",
+    "MonsterType": 0
+  },
+  "1205": {
+    "Name": "Suicidal Soldier 02",
+    "MonsterType": 0
+  },
+  "1206": {
+    "Name": "Battle Mech 03",
+    "MonsterType": 0
+  },
+  "1207": {
+    "Name": "Super Battle Mech 99",
+    "MonsterType": 1
+  },
+  "1208": {
+    "Name": "Defensive Type 04",
+    "MonsterType": 0
+  },
+  "1209": {
+    "Name": "Defensive Type 05",
+    "MonsterType": 1
+  },
+  "1210": {
+    "Name": "Edge Blade",
+    "MonsterType": 0
+  },
+  "1211": {
+    "Name": "Soul Essence",
+    "MonsterType": 0
+  },
+  "1212": {
+    "Name": "Sentinel Type 01",
+    "MonsterType": 0
+  },
+  "1213": {
+    "Name": "Suicidal Soldier 02",
+    "MonsterType": 0
+  },
+  "1214": {
+    "Name": "Battle Mech 03",
+    "MonsterType": 1
+  },
+  "1215": {
+    "Name": "Super Battle Mech 99",
+    "MonsterType": 2
+  },
+  "1216": {
+    "Name": "Battle Mech Remains",
+    "MonsterType": 1
+  },
+  "1218": {
+    "Name": "Super Battle Mech 99",
+    "MonsterType": 1
+  },
+  "1219": {
+    "Name": "Sentinel Type 01",
+    "MonsterType": 1
+  },
+  "1220": {
+    "Name": "Defensive Type 04",
+    "MonsterType": 0
+  },
+  "1221": {
+    "Name": "Defensive Type 06",
+    "MonsterType": 0
+  },
+  "1222": {
+    "Name": "Edge Blade",
+    "MonsterType": 0
+  },
+  "1223": {
+    "Name": "Soul Essence",
+    "MonsterType": 0
+  },
+  "1224": {
+    "Name": "Sentinel Type 01",
+    "MonsterType": 0
+  },
+  "1225": {
+    "Name": "Suicidal Soldier 02",
+    "MonsterType": 0
+  },
+  "1226": {
+    "Name": "Battle Mech 03",
+    "MonsterType": 0
+  },
+  "1230": {
+    "Name": "Kartgriff",
+    "MonsterType": 2
+  },
+  "1231": {
+    "Name": "Defensive Type 06",
+    "MonsterType": 0
+  },
+  "1232": {
+    "Name": "Super Battle Mech 99",
+    "MonsterType": 2
+  },
+  "1233": {
+    "Name": "Lost Villager",
+    "MonsterType": 0
+  },
+  "1234": {
+    "Name": "Sentinel Type 01",
+    "MonsterType": 1
+  },
+  "1300": {
+    "Name": "Defensive Type 04",
+    "MonsterType": 0
+  },
+  "1301": {
+    "Name": "Defensive Type 06",
+    "MonsterType": 1
+  },
+  "1302": {
+    "Name": "Edge Blade",
+    "MonsterType": 0
+  },
+  "1303": {
+    "Name": "Soul Essence",
+    "MonsterType": 0
+  },
+  "1304": {
+    "Name": "Sentinel Type 01",
+    "MonsterType": 0
+  },
+  "1305": {
+    "Name": "Suicidal Soldier 02",
+    "MonsterType": 0
+  },
+  "1306": {
+    "Name": "Battle Mech 03",
+    "MonsterType": 1
+  },
+  "1307": {
+    "Name": "Super Battle Mech 99",
+    "MonsterType": 1
+  },
+  "1308": {
+    "Name": "Battle Mech Remains",
+    "MonsterType": 0
+  },
+  "1309": {
+    "Name": "Kartgriff",
+    "MonsterType": 2
+  },
+  "1310": {
+    "Name": "Defensive Type 04",
+    "MonsterType": 0
+  },
+  "1311": {
+    "Name": "Defensive Type 06",
+    "MonsterType": 1
+  },
+  "1312": {
+    "Name": "Edge Blade",
+    "MonsterType": 0
+  },
+  "1313": {
+    "Name": "Soul Essence",
+    "MonsterType": 0
+  },
+  "1314": {
+    "Name": "Sentinel Type 01",
+    "MonsterType": 0
+  },
+  "1315": {
+    "Name": "Suicidal Soldier 02",
+    "MonsterType": 0
+  },
+  "1316": {
+    "Name": "Battle Mech 03",
+    "MonsterType": 0
+  },
+  "1317": {
+    "Name": "Super Battle Mech 99",
+    "MonsterType": 2
+  },
+  "1318": {
+    "Name": "Super Battle Mech 99",
+    "MonsterType": 1
+  },
+  "1319": {
+    "Name": "Lost Villager",
+    "MonsterType": 0
+  },
+  "1320": {
+    "Name": "Sentinel Type 01",
+    "MonsterType": 1
+  },
+  "1321": {
+    "Name": "Sentinel Type 01",
+    "MonsterType": 1
+  },
+  "1322": {
+    "Name": "Dimensional Ruins",
+    "MonsterType": 0
+  },
+  "1330": {
+    "Name": "Sentinel Type 01",
+    "MonsterType": 0
+  },
+  "1331": {
+    "Name": "Defensive Type 04",
+    "MonsterType": 0
+  },
+  "1332": {
+    "Name": "Defensive Type 06",
+    "MonsterType": 0
+  },
+  "1333": {
+    "Name": "Self-destruct Robot 02",
+    "MonsterType": 0
+  },
+  "1334": {
+    "Name": "Laser Cannon",
+    "MonsterType": 0
+  },
+  "1335": {
+    "Name": "Edge Blade",
+    "MonsterType": 0
+  },
+  "1336": {
+    "Name": "Soul Essence",
+    "MonsterType": 0
+  },
+  "1337": {
+    "Name": "Battle Mech 03",
+    "MonsterType": 0
+  },
+  "1338": {
+    "Name": "Self-destruct Robot 08",
+    "MonsterType": 0
+  },
+  "1341": {
+    "Name": "Elite Defensive Type 06",
+    "MonsterType": 1
+  },
+  "1342": {
+    "Name": "Boss - Battle Mech 03",
+    "MonsterType": 1
+  },
+  "1343": {
+    "Name": "Boss - Super Mech 07",
+    "MonsterType": 1
+  },
+  "1344": {
+    "Name": "Elite Sentinel Type 01",
+    "MonsterType": 1
+  },
+  "1345": {
+    "Name": "Elite Defensive Type 06",
+    "MonsterType": 1
+  },
+  "1351": {
+    "Name": "Battle Mech 03",
+    "MonsterType": 1
+  },
+  "1352": {
+    "Name": "Defensive Type 04",
+    "MonsterType": 1
+  },
+  "1353": {
+    "Name": "Sentinel Type 01",
+    "MonsterType": 1
+  },
+  "1354": {
+    "Name": "Suicidal Soldier 02",
+    "MonsterType": 1
+  },
+  "1355": {
+    "Name": "Sentinel Type 01",
+    "MonsterType": 1
+  },
+  "1356": {
+    "Name": "Defensive Type 06",
+    "MonsterType": 1
+  },
+  "1357": {
+    "Name": "Self-Destruct Type 02",
+    "MonsterType": 1
+  },
+  "1358": {
+    "Name": "Boss - Blazing Mech 05",
+    "MonsterType": 1
+  },
+  "1360": {
+    "Name": "Kartgriff",
+    "MonsterType": 2
+  },
+  "1361": {
+    "Name": "Defensive Type 04",
+    "MonsterType": 0
+  },
+  "1362": {
+    "Name": "[Disruptor] Super Mech 07",
+    "MonsterType": 1
+  },
+  "1363": {
+    "Name": "Self-destruct Robot 08 (wide range)",
+    "MonsterType": 0
+  },
+  "1364": {
+    "Name": "[Repairer] Elite Defensive Type 06",
+    "MonsterType": 1
+  },
+  "1365": {
+    "Name": "Link Test Model",
+    "MonsterType": 1
+  },
+  "1400": {
+    "Name": "Goblin King - Void",
+    "MonsterType": 2
+  },
+  "1401": {
+    "Name": "Igoreus",
+    "MonsterType": 2
+  },
+  "1402": {
+    "Name": "Wind Dragon Falling Rock",
+    "MonsterType": 1
+  },
+  "1403": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 1
+  },
+  "1404": {
+    "Name": "Goblin Mage",
+    "MonsterType": 1
+  },
+  "1405": {
+    "Name": "Goblin Axe",
+    "MonsterType": 1
+  },
+  "1406": {
+    "Name": "Goblin Sword",
+    "MonsterType": 1
+  },
+  "1407": {
+    "Name": "Goblin Grand Mage",
+    "MonsterType": 2
+  },
+  "1408": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 1
+  },
+  "1409": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "1410": {
+    "Name": "Goblin King - Void",
+    "MonsterType": 2
+  },
+  "1411": {
+    "Name": "Dark Mist Swordsman",
+    "MonsterType": 0
+  },
+  "1412": {
+    "Name": "Dark Mist Legion Rifleman",
+    "MonsterType": 0
+  },
+  "1413": {
+    "Name": "Goblin King - Void",
+    "MonsterType": 1
+  },
+  "1414": {
+    "Name": "Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "1415": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "1416": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "1417": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 1
+  },
+  "1418": {
+    "Name": "Goblin Mage",
+    "MonsterType": 1
+  },
+  "1419": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 1
+  },
+  "1420": {
+    "Name": "Jim",
+    "MonsterType": 0
+  },
+  "1421": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 1
+  },
+  "1422": {
+    "Name": "Goblin Mage",
+    "MonsterType": 1
+  },
+  "1423": {
+    "Name": "Goblin Axe",
+    "MonsterType": 1
+  },
+  "1424": {
+    "Name": "Goblin Sword",
+    "MonsterType": 1
+  },
+  "1425": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 1
+  },
+  "1426": {
+    "Name": "Goblin Mage",
+    "MonsterType": 1
+  },
+  "1427": {
+    "Name": "Goblin Axe",
+    "MonsterType": 1
+  },
+  "1428": {
+    "Name": "Goblin Sword",
+    "MonsterType": 1
+  },
+  "1429": {
+    "Name": "Soul Essence",
+    "MonsterType": 0
+  },
+  "1430": {
+    "Name": "Boss - Goblin King - Void",
+    "MonsterType": 1
+  },
+  "1431": {
+    "Name": "Brigand",
+    "MonsterType": 0
+  },
+  "1432": {
+    "Name": "Brigand Archer",
+    "MonsterType": 0
+  },
+  "1433": {
+    "Name": "Dark Mist Swordsman",
+    "MonsterType": 0
+  },
+  "1434": {
+    "Name": "Dark Mist Legion Rifleman",
+    "MonsterType": 0
+  },
+  "1435": {
+    "Name": "Dark Mist Legion Shield Bearer",
+    "MonsterType": 0
+  },
+  "1436": {
+    "Name": "Dark Mist Legion Officer Swordsman",
+    "MonsterType": 0
+  },
+  "1437": {
+    "Name": "Igoreus",
+    "MonsterType": 2
+  },
+  "1438": {
+    "Name": "Olvera",
+    "MonsterType": 0
+  },
+  "1439": {
+    "Name": "Tina",
+    "MonsterType": 0
+  },
+  "1440": {
+    "Name": "Rorola",
+    "MonsterType": 0
+  },
+  "1441": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "1442": {
+    "Name": "Dark Mist Legion Rifleman",
+    "MonsterType": 0
+  },
+  "1443": {
+    "Name": "Dark Mist Swordsman",
+    "MonsterType": 0
+  },
+  "1444": {
+    "Name": "Dark Mist Legion Shield Bearer",
+    "MonsterType": 0
+  },
+  "1445": {
+    "Name": "Goblin Sword",
+    "MonsterType": 1
+  },
+  "1446": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "1447": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "1448": {
+    "Name": "Dark Mist Legion Rifleman",
+    "MonsterType": 0
+  },
+  "1449": {
+    "Name": "Dark Mist Legion Officer Swordsman",
+    "MonsterType": 1
+  },
+  "1450": {
+    "Name": "Olvera",
+    "MonsterType": 0
+  },
+  "1451": {
+    "Name": "Tina",
+    "MonsterType": 0
+  },
+  "1452": {
+    "Name": "Rorola",
+    "MonsterType": 0
+  },
+  "1453": {
+    "Name": "Goblin Sword",
+    "MonsterType": 0
+  },
+  "1454": {
+    "Name": "Kanamia Warrior",
+    "MonsterType": 0
+  },
+  "1455": {
+    "Name": "Kanamia Hunter",
+    "MonsterType": 0
+  },
+  "1456": {
+    "Name": "Kanamia Archer",
+    "MonsterType": 0
+  },
+  "1457": {
+    "Name": "Soldier",
+    "MonsterType": 0
+  },
+  "1458": {
+    "Name": "Soldier",
+    "MonsterType": 0
+  },
+  "1459": {
+    "Name": "Soldier",
+    "MonsterType": 0
+  },
+  "1460": {
+    "Name": "Goblin Mage",
+    "MonsterType": 1
+  },
+  "1461": {
+    "Name": "Goblin Axe",
+    "MonsterType": 1
+  },
+  "1462": {
+    "Name": "Goblin Sword",
+    "MonsterType": 1
+  },
+  "1463": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 1
+  },
+  "1464": {
+    "Name": "Goblin Mage",
+    "MonsterType": 1
+  },
+  "1465": {
+    "Name": "Goblin Axe",
+    "MonsterType": 0
+  },
+  "1466": {
+    "Name": "Goblin Sword",
+    "MonsterType": 0
+  },
+  "1467": {
+    "Name": "Goblin Mage",
+    "MonsterType": 1
+  },
+  "1468": {
+    "Name": "Goblin Axe",
+    "MonsterType": 1
+  },
+  "1469": {
+    "Name": "Storm Goblin Sword",
+    "MonsterType": 1
+  },
+  "1470": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "1471": {
+    "Name": "Storm Goblin Crossbow",
+    "MonsterType": 1
+  },
+  "1472": {
+    "Name": "Void Goblin Axe",
+    "MonsterType": 1
+  },
+  "1473": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "1474": {
+    "Name": "Void Goblin Axe",
+    "MonsterType": 1
+  },
+  "1475": {
+    "Name": "Storm Goblin Sword",
+    "MonsterType": 1
+  },
+  "1476": {
+    "Name": "Void Goblin Axe",
+    "MonsterType": 1
+  },
+  "1477": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "1478": {
+    "Name": "Storm Goblin Sword",
+    "MonsterType": 1
+  },
+  "1479": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "1480": {
+    "Name": "Void Boarrierrier",
+    "MonsterType": 1
+  },
+  "1481": {
+    "Name": "Rolling Stone Mechanism 1",
+    "MonsterType": 0
+  },
+  "1482": {
+    "Name": "Common Bee",
+    "MonsterType": 0
+  },
+  "1483": {
+    "Name": "Henry",
+    "MonsterType": 1
+  },
+  "1484": {
+    "Name": "Small Gold Coin Pig",
+    "MonsterType": 1
+  },
+  "1485": {
+    "Name": "Boss - Void Boarrier King",
+    "MonsterType": 1
+  },
+  "1486": {
+    "Name": "Henry",
+    "MonsterType": 1
+  },
+  "1487": {
+    "Name": "Dark Mist Legion Male Scout Elite",
+    "MonsterType": 0
+  },
+  "1488": {
+    "Name": "Dark Mist Legion Male Scout",
+    "MonsterType": 0
+  },
+  "1489": {
+    "Name": "Dark Mist Legion Male Scout",
+    "MonsterType": 0
+  },
+  "1490": {
+    "Name": "Dark Mist Legion Rifleman",
+    "MonsterType": 0
+  },
+  "1491": {
+    "Name": "Dark Mist Legion Shield Bearer",
+    "MonsterType": 0
+  },
+  "1492": {
+    "Name": "Explosive Bee",
+    "MonsterType": 0
+  },
+  "1493": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "1495": {
+    "Name": "Void Goblin Crossbow",
+    "MonsterType": 1
+  },
+  "1496": {
+    "Name": "Void Goblin Mage",
+    "MonsterType": 1
+  },
+  "1497": {
+    "Name": "Boss - Void Goblin Axe",
+    "MonsterType": 1
+  },
+  "1498": {
+    "Name": "Void Goblin Sword",
+    "MonsterType": 1
+  },
+  "1499": {
+    "Name": "Rock Lizard",
+    "MonsterType": 1
+  },
+  "1500": {
+    "Name": "Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "1501": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "1502": {
+    "Name": "Wind Spirit",
+    "MonsterType": 0
+  },
+  "1701": {
+    "Name": "Denvel",
+    "MonsterType": 2
+  },
+  "1702": {
+    "Name": "Void Denvel",
+    "MonsterType": 2
+  },
+  "1703": {
+    "Name": "Denvel",
+    "MonsterType": 2
+  },
+  "1704": {
+    "Name": "Golden Ghost",
+    "MonsterType": 0
+  },
+  "1705": {
+    "Name": "Void Denvel",
+    "MonsterType": 2
+  },
+  "1706": {
+    "Name": "Hruga's Marionettes",
+    "MonsterType": 1
+  },
+  "1707": {
+    "Name": "Lingering Soul",
+    "MonsterType": 0
+  },
+  "2101": {
+    "Name": "Spirit Possession",
+    "MonsterType": 0
+  },
+  "3000": {
+    "Name": "Tina - Void Reverie",
+    "MonsterType": 2
+  },
+  "3002": {
+    "Name": "Tina - Void Reverie",
+    "MonsterType": 2
+  },
+  "3003": {
+    "Name": "Void Corruption Banner",
+    "MonsterType": 1
+  },
+  "3004": {
+    "Name": "Asterleeds Trooper",
+    "MonsterType": 0
+  },
+  "3005": {
+    "Name": "Asterleeds Trooper",
+    "MonsterType": 0
+  },
+  "3006": {
+    "Name": "Asterleeds Trooper",
+    "MonsterType": 0
+  },
+  "3007": {
+    "Name": "Byrnhald Swordsman",
+    "MonsterType": 0
+  },
+  "3008": {
+    "Name": "Byrnhald Rifleman",
+    "MonsterType": 0
+  },
+  "3009": {
+    "Name": "Byrnhald Swordsman",
+    "MonsterType": 0
+  },
+  "3010": {
+    "Name": "Byrnhald Shield Bearer",
+    "MonsterType": 0
+  },
+  "3011": {
+    "Name": "Byrnhald Spearman",
+    "MonsterType": 0
+  },
+  "3013": {
+    "Name": "Byrnhald Shield Bearer",
+    "MonsterType": 0
+  },
+  "3014": {
+    "Name": "Byrnhald Rifleman",
+    "MonsterType": 0
+  },
+  "3015": {
+    "Name": "Byrnhald Tank",
+    "MonsterType": 1
+  },
+  "3016": {
+    "Name": "Byrnhald Rifleman",
+    "MonsterType": 0
+  },
+  "3017": {
+    "Name": "Byrnhald Golem",
+    "MonsterType": 0
+  },
+  "3018": {
+    "Name": "Byrnhald Shield Bearer",
+    "MonsterType": 0
+  },
+  "3019": {
+    "Name": "Byrnhald Rifleman",
+    "MonsterType": 0
+  },
+  "3020": {
+    "Name": "Asterleeds Trooper",
+    "MonsterType": 0
+  },
+  "3023": {
+    "Name": "Asterleeds Guard",
+    "MonsterType": 0
+  },
+  "3024": {
+    "Name": "Asterleeds Guard",
+    "MonsterType": 0
+  },
+  "3025": {
+    "Name": "Tina",
+    "MonsterType": 0
+  },
+  "3026": {
+    "Name": "Byrnhald Tank",
+    "MonsterType": 1
+  },
+  "3027": {
+    "Name": "Byrnhald Shield Bearer",
+    "MonsterType": 0
+  },
+  "3028": {
+    "Name": "Byrnhald Spearman",
+    "MonsterType": 0
+  },
+  "3029": {
+    "Name": "Byrnhald Tank",
+    "MonsterType": 1
+  },
+  "3030": {
+    "Name": "Byrnhald Rifleman",
+    "MonsterType": 0
+  },
+  "3031": {
+    "Name": "Byrnhald Shield Bearer",
+    "MonsterType": 0
+  },
+  "3032": {
+    "Name": "Byrnhald Shield Bearer",
+    "MonsterType": 0
+  },
+  "3033": {
+    "Name": "Byrnhald Rifleman",
+    "MonsterType": 0
+  },
+  "3034": {
+    "Name": "Byrnhald Rifleman",
+    "MonsterType": 0
+  },
+  "3036": {
+    "Name": "Kanamia Undead Warrior",
+    "MonsterType": 0
+  },
+  "3037": {
+    "Name": "Kanamia Undead Hunter",
+    "MonsterType": 1
+  },
+  "3038": {
+    "Name": "Kanamia Undead Archer",
+    "MonsterType": 0
+  },
+  "3039": {
+    "Name": "Kanamia Undead Warrior",
+    "MonsterType": 0
+  },
+  "3040": {
+    "Name": "Kanamia Undead Hunter",
+    "MonsterType": 1
+  },
+  "3041": {
+    "Name": "Kanamia Undead Archer",
+    "MonsterType": 0
+  },
+  "3042": {
+    "Name": "Kanamia Triber Spirit",
+    "MonsterType": 0
+  },
+  "3043": {
+    "Name": "Kanamia Triber Spirit",
+    "MonsterType": 0
+  },
+  "3049": {
+    "Name": "Jerrad",
+    "MonsterType": 2
+  },
+  "3050": {
+    "Name": "Jerrad",
+    "MonsterType": 2
+  },
+  "3060": {
+    "Name": "Tina",
+    "MonsterType": 0
+  },
+  "3061": {
+    "Name": "Lost Tina",
+    "MonsterType": 0
+  },
+  "3062": {
+    "Name": "Lost Tina",
+    "MonsterType": 0
+  },
+  "3063": {
+    "Name": "Tina",
+    "MonsterType": 0
+  },
+  "3991": {
+    "Name": "Olvera's Shadow",
+    "MonsterType": 0
+  },
+  "3992": {
+    "Name": "Kanamia Youth",
+    "MonsterType": 0
+  },
+  "3993": {
+    "Name": "Void Corruption Banner",
+    "MonsterType": 1
+  },
+  "3994": {
+    "Name": "Void Corruption Banner",
+    "MonsterType": 1
+  },
+  "3995": {
+    "Name": "Tina - Void Reverie Phantom",
+    "MonsterType": 1
+  },
+  "3996": {
+    "Name": "Tina - Void Reverie",
+    "MonsterType": 2
+  },
+  "3997": {
+    "Name": "Tina - Void Reverie",
+    "MonsterType": 2
+  },
+  "3998": {
+    "Name": "Tina - Void Reverie",
+    "MonsterType": 2
+  },
+  "4000": {
+    "Name": "Man in Black Clone",
+    "MonsterType": 0
+  },
+  "4001": {
+    "Name": "Man in Black Clone",
+    "MonsterType": 0
+  },
+  "4002": {
+    "Name": "Man in Black",
+    "MonsterType": 2
+  },
+  "4003": {
+    "Name": "Man in Black",
+    "MonsterType": 2
+  },
+  "4004": {
+    "Name": "Airona",
+    "MonsterType": 0
+  },
+  "4005": {
+    "Name": "Tina (Investigation Copy)",
+    "MonsterType": 0
+  },
+  "4006": {
+    "Name": "Olvera",
+    "MonsterType": 0
+  },
+  "4007": {
+    "Name": "Tina",
+    "MonsterType": 0
+  },
+  "4008": {
+    "Name": "Man in Black Clone",
+    "MonsterType": 0
+  },
+  "4009": {
+    "Name": "Man in Black Clone",
+    "MonsterType": 0
+  },
+  "4010": {
+    "Name": "Airona",
+    "MonsterType": 0
+  },
+  "4011": {
+    "Name": "Void - Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "4012": {
+    "Name": "Void - Goblin Mage",
+    "MonsterType": 1
+  },
+  "4015": {
+    "Name": "Void - Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "4016": {
+    "Name": "Void - Goblin Dagger",
+    "MonsterType": 0
+  },
+  "4017": {
+    "Name": "Void - Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "4018": {
+    "Name": "Airona",
+    "MonsterType": 0
+  },
+  "4019": {
+    "Name": "Tina",
+    "MonsterType": 0
+  },
+  "4020": {
+    "Name": "Void - Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "4021": {
+    "Name": "Void - Goblin Dagger",
+    "MonsterType": 0
+  },
+  "4022": {
+    "Name": "Void - Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "4023": {
+    "Name": "Void - Goblin Mage",
+    "MonsterType": 0
+  },
+  "4024": {
+    "Name": "Void - Goblin Sword",
+    "MonsterType": 0
+  },
+  "4025": {
+    "Name": "Void - Goblin Mage",
+    "MonsterType": 1
+  },
+  "4026": {
+    "Name": "Void - Goblin Mage",
+    "MonsterType": 1
+  },
+  "4027": {
+    "Name": "Void - Goblin Mage",
+    "MonsterType": 1
+  },
+  "4028": {
+    "Name": "Void - Goblin Axe",
+    "MonsterType": 1
+  },
+  "4029": {
+    "Name": "Void - Goblin Dagger",
+    "MonsterType": 0
+  },
+  "4030": {
+    "Name": "Void - Goblin Sword",
+    "MonsterType": 0
+  },
+  "4031": {
+    "Name": "Void - Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "4032": {
+    "Name": "Void - Goblin Sword",
+    "MonsterType": 0
+  },
+  "4033": {
+    "Name": "Void Demi-Human",
+    "MonsterType": 2
+  },
+  "4034": {
+    "Name": "Man in Black Clone",
+    "MonsterType": 0
+  },
+  "4035": {
+    "Name": "Man in Black Clone",
+    "MonsterType": 0
+  },
+  "4036": {
+    "Name": "Man in Black Clone",
+    "MonsterType": 0
+  },
+  "4037": {
+    "Name": "Man in Black Clone",
+    "MonsterType": 0
+  },
+  "4100": {
+    "Name": "Airona",
+    "MonsterType": 0
+  },
+  "4101": {
+    "Name": "Tina",
+    "MonsterType": 0
+  },
+  "4102": {
+    "Name": "Void - Goblin Axe",
+    "MonsterType": 0
+  },
+  "4103": {
+    "Name": "Void - Goblin Axe",
+    "MonsterType": 0
+  },
+  "4104": {
+    "Name": "Goblin Axe",
+    "MonsterType": 0
+  },
+  "4105": {
+    "Name": "Escaping Nappo",
+    "MonsterType": 0
+  },
+  "4106": {
+    "Name": "Bubble Messenger",
+    "MonsterType": 0
+  },
+  "4111": {
+    "Name": "Narulu",
+    "MonsterType": 1
+  },
+  "4112": {
+    "Name": "Olvera",
+    "MonsterType": 0
+  },
+  "4113": {
+    "Name": "Jerrad",
+    "MonsterType": 0
+  },
+  "4120": {
+    "Name": "Dark Mist Soldier",
+    "MonsterType": 0
+  },
+  "4121": {
+    "Name": "Olvera",
+    "MonsterType": 0
+  },
+  "4122": {
+    "Name": "Airona",
+    "MonsterType": 0
+  },
+  "4201": {
+    "Name": "Void Demi-Human",
+    "MonsterType": 2
+  },
+  "4202": {
+    "Name": "Airona",
+    "MonsterType": 0
+  },
+  "4204": {
+    "Name": "Tina",
+    "MonsterType": 0
+  },
+  "4205": {
+    "Name": "Airona",
+    "MonsterType": 0
+  },
+  "4206": {
+    "Name": "Goblin Sword",
+    "MonsterType": 0
+  },
+  "4207": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "4301": {
+    "Name": "Seabreeze Festival - Chibi Tempest Ogre Standee",
+    "MonsterType": 0
+  },
+  "4400": {
+    "Name": "Reckless Asterleeds Defense Corps soldier",
+    "MonsterType": 0
+  },
+  "4401": {
+    "Name": "Confident Asterleeds Defense Corps soldier",
+    "MonsterType": 0
+  },
+  "4402": {
+    "Name": "Onlooking Asterleeds Defense Corps soldier",
+    "MonsterType": 0
+  },
+  "4403": {
+    "Name": "Onlooking Asterleeds Defense Corps soldier",
+    "MonsterType": 0
+  },
+  "4404": {
+    "Name": "Strong Asterleeds Defense Corps soldier",
+    "MonsterType": 1
+  },
+  "4405": {
+    "Name": "Strong Asterleeds Defense Corps soldier",
+    "MonsterType": 1
+  },
+  "4406": {
+    "Name": "Onlooking Asterleeds Defense Corps soldier",
+    "MonsterType": 0
+  },
+  "4407": {
+    "Name": "Devon",
+    "MonsterType": 1
+  },
+  "4408": {
+    "Name": "Spar Zone",
+    "MonsterType": 0
+  },
+  "7001": {
+    "Name": "Unknown Monster",
+    "MonsterType": 2
+  },
+  "7002": {
+    "Name": "Goblin",
+    "MonsterType": 0
+  },
+  "7003": {
+    "Name": "Young Girl",
+    "MonsterType": 0
+  },
+  "7004": {
+    "Name": "Goblin",
+    "MonsterType": 0
+  },
+  "7005": {
+    "Name": "Airona",
+    "MonsterType": 0
+  },
+  "7006": {
+    "Name": "Calamity Puppet",
+    "MonsterType": 2
+  },
+  "8001": {
+    "Name": "Synster",
+    "MonsterType": 1
+  },
+  "8002": {
+    "Name": "Sinister's Assistant",
+    "MonsterType": 0
+  },
+  "8003": {
+    "Name": "Muku Scout",
+    "MonsterType": 1
+  },
+  "8004": {
+    "Name": "Muku Duelblade",
+    "MonsterType": 0
+  },
+  "8007": {
+    "Name": "Suspicious Vendor",
+    "MonsterType": 0
+  },
+  "8008": {
+    "Name": "Suspicious Vendor",
+    "MonsterType": 0
+  },
+  "8009": {
+    "Name": "Suspicious Vendor",
+    "MonsterType": 0
+  },
+  "8010": {
+    "Name": "Constantine's Underling",
+    "MonsterType": 0
+  },
+  "8011": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "8012": {
+    "Name": "Charles",
+    "MonsterType": 1
+  },
+  "8013": {
+    "Name": "Charles's Companion",
+    "MonsterType": 0
+  },
+  "8014": {
+    "Name": "Daniel",
+    "MonsterType": 1
+  },
+  "8015": {
+    "Name": "Citizen",
+    "MonsterType": 0
+  },
+  "8016": {
+    "Name": "Citizen",
+    "MonsterType": 0
+  },
+  "8017": {
+    "Name": "Citizen",
+    "MonsterType": 0
+  },
+  "8018": {
+    "Name": "Citizen",
+    "MonsterType": 0
+  },
+  "8019": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "8020": {
+    "Name": "Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "8021": {
+    "Name": "Constantine's Underling",
+    "MonsterType": 0
+  },
+  "8022": {
+    "Name": "Arlin",
+    "MonsterType": 0
+  },
+  "8023": {
+    "Name": "Nelson",
+    "MonsterType": 1
+  },
+  "8024": {
+    "Name": "Constantine's Underling",
+    "MonsterType": 0
+  },
+  "8030": {
+    "Name": "Battle Mech 03",
+    "MonsterType": 1
+  },
+  "8031": {
+    "Name": "Mysterious Researcher",
+    "MonsterType": 0
+  },
+  "8041": {
+    "Name": "Rooney",
+    "MonsterType": 0
+  },
+  "8042": {
+    "Name": "Wounded Soldier",
+    "MonsterType": 0
+  },
+  "8043": {
+    "Name": "Legion Soldier",
+    "MonsterType": 0
+  },
+  "8044": {
+    "Name": "Legion Soldier",
+    "MonsterType": 0
+  },
+  "8045": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "8046": {
+    "Name": "Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "8049": {
+    "Name": "Caprahorn Attacking Air Model",
+    "MonsterType": 0
+  },
+  "8050": {
+    "Name": "Goblin Dagger Attracted by Street Lamp",
+    "MonsterType": 0
+  },
+  "8051": {
+    "Name": "Boarrier Tyrant",
+    "MonsterType": 0
+  },
+  "8052": {
+    "Name": "Brigand Axeman",
+    "MonsterType": 0
+  },
+  "8053": {
+    "Name": "Caprahorn Attacking Street Lamp",
+    "MonsterType": 0
+  },
+  "8054": {
+    "Name": "Brigand Archer",
+    "MonsterType": 0
+  },
+  "8055": {
+    "Name": "Brigand Scout",
+    "MonsterType": 0
+  },
+  "8056": {
+    "Name": "Brigand Thug",
+    "MonsterType": 0
+  },
+  "8057": {
+    "Name": "Brigand Guard",
+    "MonsterType": 0
+  },
+  "8058": {
+    "Name": "Arachnocrab",
+    "MonsterType": 0
+  },
+  "8061": {
+    "Name": "Battle Mech 03",
+    "MonsterType": 1
+  },
+  "8062": {
+    "Name": "Defensive Type 04",
+    "MonsterType": 1
+  },
+  "8063": {
+    "Name": "Sentinel Type 01",
+    "MonsterType": 1
+  },
+  "8064": {
+    "Name": "Suicidal Soldier 02",
+    "MonsterType": 1
+  },
+  "8066": {
+    "Name": "Heritage Dealer",
+    "MonsterType": 0
+  },
+  "8067": {
+    "Name": "Heritage Robot",
+    "MonsterType": 1
+  },
+  "8068": {
+    "Name": "Heritage Robot",
+    "MonsterType": 1
+  },
+  "8069": {
+    "Name": "Heritage Robot",
+    "MonsterType": 1
+  },
+  "8070": {
+    "Name": "Goblin King",
+    "MonsterType": 1
+  },
+  "8071": {
+    "Name": "Pirlo",
+    "MonsterType": 1
+  },
+  "8072": {
+    "Name": "Naira",
+    "MonsterType": 0
+  },
+  "8073": {
+    "Name": "Buddy",
+    "MonsterType": 0
+  },
+  "8074": {
+    "Name": "Blaze Gang Member",
+    "MonsterType": 0
+  },
+  "8075": {
+    "Name": "Blaze Gang Member",
+    "MonsterType": 0
+  },
+  "8076": {
+    "Name": "Blaze Gang Member",
+    "MonsterType": 0
+  },
+  "8077": {
+    "Name": "Void Spawnerer",
+    "MonsterType": 0
+  },
+  "8078": {
+    "Name": "Void Spawnerer",
+    "MonsterType": 0
+  },
+  "8079": {
+    "Name": "Void Spawnerer",
+    "MonsterType": 0
+  },
+  "8080": {
+    "Name": "Grace (Void Spawnerer)",
+    "MonsterType": 1
+  },
+  "8101": {
+    "Name": "Muku Cudgel",
+    "MonsterType": 0
+  },
+  "8102": {
+    "Name": "Muku Axe",
+    "MonsterType": 0
+  },
+  "8103": {
+    "Name": "Crossbow Muku",
+    "MonsterType": 0
+  },
+  "8104": {
+    "Name": "Muku Warrior",
+    "MonsterType": 0
+  },
+  "8110": {
+    "Name": "Foxen",
+    "MonsterType": 0
+  },
+  "8111": {
+    "Name": "Crimson Sprayer",
+    "MonsterType": 0
+  },
+  "8120": {
+    "Name": "Gigantic Automaton?",
+    "MonsterType": 0
+  },
+  "8121": {
+    "Name": "Goblin",
+    "MonsterType": 0
+  },
+  "8122": {
+    "Name": "Thug",
+    "MonsterType": 0
+  },
+  "8123": {
+    "Name": "Abeku",
+    "MonsterType": 0
+  },
+  "8124": {
+    "Name": "Airona",
+    "MonsterType": 0
+  },
+  "8125": {
+    "Name": "Abeku's Underling",
+    "MonsterType": 0
+  },
+  "8126": {
+    "Name": "Lizardman Warrior",
+    "MonsterType": 0
+  },
+  "8127": {
+    "Name": "Mysterious Machine Statue",
+    "MonsterType": 1
+  },
+  "8128": {
+    "Name": "Goblin Wind Mage",
+    "MonsterType": 1
+  },
+  "8129": {
+    "Name": "Wind Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "8130": {
+    "Name": "???",
+    "MonsterType": 0
+  },
+  "8131": {
+    "Name": "Misty",
+    "MonsterType": 0
+  },
+  "8132": {
+    "Name": "Heritage Robot",
+    "MonsterType": 0
+  },
+  "8133": {
+    "Name": "Scorpion",
+    "MonsterType": 0
+  },
+  "8134": {
+    "Name": "Dumb Hammer",
+    "MonsterType": 0
+  },
+  "8135": {
+    "Name": "Volkmann",
+    "MonsterType": 0
+  },
+  "8136": {
+    "Name": "Robber Gang Member",
+    "MonsterType": 0
+  },
+  "8137": {
+    "Name": "Robber Gang Member",
+    "MonsterType": 0
+  },
+  "8138": {
+    "Name": "Robber Gang Member",
+    "MonsterType": 0
+  },
+  "8139": {
+    "Name": "Burly Robber",
+    "MonsterType": 0
+  },
+  "8140": {
+    "Name": "Sneering Robber",
+    "MonsterType": 0
+  },
+  "8141": {
+    "Name": "Abeku's Underling",
+    "MonsterType": 0
+  },
+  "8142": {
+    "Name": "Abeku's Underling",
+    "MonsterType": 0
+  },
+  "8143": {
+    "Name": "Irritable Mercenary",
+    "MonsterType": 0
+  },
+  "8144": {
+    "Name": "Mean Mercenary",
+    "MonsterType": 0
+  },
+  "8401": {
+    "Name": "Kanamia Warrior",
+    "MonsterType": 0
+  },
+  "8402": {
+    "Name": "Kanamia Resistance",
+    "MonsterType": 0
+  },
+  "8403": {
+    "Name": "Kanamia Resistance",
+    "MonsterType": 0
+  },
+  "8501": {
+    "Name": "Void - Legion Soldier",
+    "MonsterType": 0
+  },
+  "8502": {
+    "Name": "Void - Legion Soldier",
+    "MonsterType": 0
+  },
+  "8503": {
+    "Name": "Olvera",
+    "MonsterType": 0
+  },
+  "8504": {
+    "Name": "Tina",
+    "MonsterType": 0
+  },
+  "8505": {
+    "Name": "Airona",
+    "MonsterType": 0
+  },
+  "8506": {
+    "Name": "Dark Mist Legion Swordsman",
+    "MonsterType": 0
+  },
+  "8507": {
+    "Name": "Asterleeds Trooper A",
+    "MonsterType": 0
+  },
+  "8508": {
+    "Name": "Void - Legion Soldier",
+    "MonsterType": 0
+  },
+  "8509": {
+    "Name": "Void - Legion Soldier",
+    "MonsterType": 0
+  },
+  "8510": {
+    "Name": "Airona",
+    "MonsterType": 0
+  },
+  "8511": {
+    "Name": "Void - Legion Soldier",
+    "MonsterType": 0
+  },
+  "8512": {
+    "Name": "Void - Legion Soldier",
+    "MonsterType": 0
+  },
+  "8513": {
+    "Name": "Asterleeds Trooper",
+    "MonsterType": 0
+  },
+  "8515": {
+    "Name": "Void Goblin",
+    "MonsterType": 0
+  },
+  "8516": {
+    "Name": "Olvera",
+    "MonsterType": 0
+  },
+  "8517": {
+    "Name": "Tina",
+    "MonsterType": 0
+  },
+  "8518": {
+    "Name": "Airona",
+    "MonsterType": 0
+  },
+  "8519": {
+    "Name": "Dark Mist Legion Shield Bearer",
+    "MonsterType": 0
+  },
+  "8520": {
+    "Name": "Asterleeds Trooper B",
+    "MonsterType": 0
+  },
+  "8521": {
+    "Name": "Dark Mist Legion Dual Swordsman",
+    "MonsterType": 0
+  },
+  "8522": {
+    "Name": "Asterleeds Trooper C",
+    "MonsterType": 0
+  },
+  "8601": {
+    "Name": "Dasha",
+    "MonsterType": 0
+  },
+  "8602": {
+    "Name": "Lito Shark",
+    "MonsterType": 0
+  },
+  "8603": {
+    "Name": "Terry Shark",
+    "MonsterType": 0
+  },
+  "8604": {
+    "Name": "Ferocious Debtor",
+    "MonsterType": 0
+  },
+  "8605": {
+    "Name": "Suffering Debtor",
+    "MonsterType": 0
+  },
+  "8606": {
+    "Name": "Floating Party Member",
+    "MonsterType": 0
+  },
+  "8607": {
+    "Name": "Floating Party Member",
+    "MonsterType": 0
+  },
+  "8608": {
+    "Name": "Floating Party Member",
+    "MonsterType": 0
+  },
+  "8609": {
+    "Name": "Skarl",
+    "MonsterType": 1
+  },
+  "8610": {
+    "Name": "Nemolais",
+    "MonsterType": 1
+  },
+  "8611": {
+    "Name": "Iron Fang",
+    "MonsterType": 1
+  },
+  "8615": {
+    "Name": "Wilbert",
+    "MonsterType": 0
+  },
+  "8616": {
+    "Name": "Goven",
+    "MonsterType": 0
+  },
+  "8617": {
+    "Name": "Esmond",
+    "MonsterType": 0
+  },
+  "8618": {
+    "Name": "Wilbert",
+    "MonsterType": 0
+  },
+  "8619": {
+    "Name": "Pirate Henchman",
+    "MonsterType": 0
+  },
+  "8620": {
+    "Name": "Pirate Henchman",
+    "MonsterType": 0
+  },
+  "8625": {
+    "Name": "Misty",
+    "MonsterType": 0
+  },
+  "8626": {
+    "Name": "???",
+    "MonsterType": 0
+  },
+  "8627": {
+    "Name": "Misty",
+    "MonsterType": 0
+  },
+  "8628": {
+    "Name": "???",
+    "MonsterType": 0
+  },
+  "8629": {
+    "Name": "Grayson",
+    "MonsterType": 0
+  },
+  "8630": {
+    "Name": "Storm Goblin Dagger",
+    "MonsterType": 0
+  },
+  "8631": {
+    "Name": "Storm Goblin Elder",
+    "MonsterType": 0
+  },
+  "8632": {
+    "Name": "Brigand",
+    "MonsterType": 0
+  },
+  "8701": {
+    "Name": "Lizardman Warrior",
+    "MonsterType": 0
+  },
+  "8702": {
+    "Name": "Lizardman Shaman",
+    "MonsterType": 0
+  },
+  "8703": {
+    "Name": "Illusion of the Sunflower Worker",
+    "MonsterType": 0
+  },
+  "8711": {
+    "Name": "Brazer Member",
+    "MonsterType": 0
+  },
+  "8712": {
+    "Name": "Brazer Member",
+    "MonsterType": 0
+  },
+  "8713": {
+    "Name": "Brazer Member",
+    "MonsterType": 0
+  },
+  "8720": {
+    "Name": "Red Foam Goblin",
+    "MonsterType": 0
+  },
+  "8721": {
+    "Name": "Muku Duelblade",
+    "MonsterType": 0
+  },
+  "8722": {
+    "Name": "Crazy Muku Crossbowman",
+    "MonsterType": 0
+  },
+  "8723": {
+    "Name": "Gold Foam Goblin",
+    "MonsterType": 0
+  },
+  "8801": {
+    "Name": "Giant Sea Monster",
+    "MonsterType": 1
+  },
+  "8802": {
+    "Name": "Ryan",
+    "MonsterType": 1
+  },
+  "8803": {
+    "Name": "??????",
+    "MonsterType": 1
+  },
+  "8888": {
+    "Name": "Random Monster Configuration",
+    "MonsterType": 0
+  },
+  "9001": {
+    "Name": "Void Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "9002": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "9003": {
+    "Name": "Goblin Sword",
+    "MonsterType": 0
+  },
+  "9004": {
+    "Name": "Goblin Mage",
+    "MonsterType": 0
+  },
+  "9005": {
+    "Name": "Void Goblin Mage",
+    "MonsterType": 0
+  },
+  "9006": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "9007": {
+    "Name": "Goblin Axe",
+    "MonsterType": 0
+  },
+  "9008": {
+    "Name": "Void - Goblin Axe",
+    "MonsterType": 0
+  },
+  "9009": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "9010": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "9011": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "9999": {
+    "Name": "Monster Drop Function Test Data",
+    "MonsterType": 0
+  },
+  "10000": {
+    "Name": "Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "10001": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "10002": {
+    "Name": "Staff Forest Goblin",
+    "MonsterType": 0
+  },
+  "10003": {
+    "Name": "Storm Goblin Elder",
+    "MonsterType": 0
+  },
+  "10004": {
+    "Name": "Blazing Goblin Elder",
+    "MonsterType": 0
+  },
+  "10005": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "10006": {
+    "Name": "Goblin Sword",
+    "MonsterType": 0
+  },
+  "10007": {
+    "Name": "Storm Goblin King",
+    "MonsterType": 2
+  },
+  "10008": {
+    "Name": "Jungle Goblin Warrior",
+    "MonsterType": 1
+  },
+  "10009": {
+    "Name": "Frost Ogre",
+    "MonsterType": 2
+  },
+  "10010": {
+    "Name": "Tempest Ogre",
+    "MonsterType": 2
+  },
+  "10011": {
+    "Name": "Caprahorn",
+    "MonsterType": 0
+  },
+  "10012": {
+    "Name": "Inferno Goblin Mage",
+    "MonsterType": 1
+  },
+  "10013": {
+    "Name": "Storm Goblin Mage",
+    "MonsterType": 1
+  },
+  "10014": {
+    "Name": "Arachnocrab",
+    "MonsterType": 0
+  },
+  "10015": {
+    "Name": "Beehive",
+    "MonsterType": 0
+  },
+  "10016": {
+    "Name": "Bzzar",
+    "MonsterType": 0
+  },
+  "10017": {
+    "Name": "Eagle",
+    "MonsterType": 0
+  },
+  "10018": {
+    "Name": "Inferno Ogre",
+    "MonsterType": 2
+  },
+  "10019": {
+    "Name": "Goblin Warrior",
+    "MonsterType": 1
+  },
+  "10020": {
+    "Name": "Goblin Mage",
+    "MonsterType": 0
+  },
+  "10021": {
+    "Name": "Muku Cudgel",
+    "MonsterType": 0
+  },
+  "10022": {
+    "Name": "Muku Hammerer",
+    "MonsterType": 0
+  },
+  "10023": {
+    "Name": "Muku Axemaster",
+    "MonsterType": 0
+  },
+  "10024": {
+    "Name": "Muku Cleaver",
+    "MonsterType": 0
+  },
+  "10025": {
+    "Name": "Brutal Boarrier",
+    "MonsterType": 0
+  },
+  "10026": {
+    "Name": "Boarlet",
+    "MonsterType": 0
+  },
+  "10027": {
+    "Name": "Brigand Axeman",
+    "MonsterType": 0
+  },
+  "10028": {
+    "Name": "Brigand Archer",
+    "MonsterType": 0
+  },
+  "10029": {
+    "Name": "Muku King",
+    "MonsterType": 2
+  },
+  "10030": {
+    "Name": "Boarrier Tyrant",
+    "MonsterType": 0
+  },
+  "10031": {
+    "Name": "Boarrier Tyrant",
+    "MonsterType": 1
+  },
+  "10032": {
+    "Name": "Golden Juggernaut",
+    "MonsterType": 2
+  },
+  "10033": {
+    "Name": "Void Arachnocrab",
+    "MonsterType": 0
+  },
+  "10034": {
+    "Name": "Void Arachnocrab",
+    "MonsterType": 1
+  },
+  "10035": {
+    "Name": "Goblin Guard",
+    "MonsterType": 1
+  },
+  "10036": {
+    "Name": "Goblin Axe",
+    "MonsterType": 0
+  },
+  "10037": {
+    "Name": "Brigand Scout",
+    "MonsterType": 0
+  },
+  "10038": {
+    "Name": "Brigand Scout Leader",
+    "MonsterType": 1
+  },
+  "10039": {
+    "Name": "Brigand Thug",
+    "MonsterType": 0
+  },
+  "10040": {
+    "Name": "Brigand Guard",
+    "MonsterType": 0
+  },
+  "10041": {
+    "Name": "Boss - Crimson Foxen",
+    "MonsterType": 2
+  },
+  "10042": {
+    "Name": "Mighty Colossus",
+    "MonsterType": 1
+  },
+  "10043": {
+    "Name": "Elite - Mutant Flesh Mountain",
+    "MonsterType": 1
+  },
+  "10044": {
+    "Name": "Elite - Mutant Foxen",
+    "MonsterType": 1
+  },
+  "10045": {
+    "Name": "Foxen",
+    "MonsterType": 0
+  },
+  "10046": {
+    "Name": "Mutant Foxen",
+    "MonsterType": 0
+  },
+  "10047": {
+    "Name": "Scorching Yeti",
+    "MonsterType": 0
+  },
+  "10048": {
+    "Name": "Mutant Flesh Mountain",
+    "MonsterType": 0
+  },
+  "10049": {
+    "Name": "Crazy Muku Crossbowman",
+    "MonsterType": 0
+  },
+  "10050": {
+    "Name": "Scout Muku",
+    "MonsterType": 0
+  },
+  "10051": {
+    "Name": "Red Foam Goblin",
+    "MonsterType": 0
+  },
+  "10052": {
+    "Name": "Muku Scout",
+    "MonsterType": 1
+  },
+  "10053": {
+    "Name": "Gold Foam Goblin",
+    "MonsterType": 0
+  },
+  "10054": {
+    "Name": "Elite - Brigand Archer",
+    "MonsterType": 1
+  },
+  "10055": {
+    "Name": "Brigand Guard Captain",
+    "MonsterType": 1
+  },
+  "10056": {
+    "Name": "Brigand Leader",
+    "MonsterType": 2
+  },
+  "10057": {
+    "Name": "Muku Warrior",
+    "MonsterType": 1
+  },
+  "10058": {
+    "Name": "Muku Vanguard",
+    "MonsterType": 1
+  },
+  "10059": {
+    "Name": "Muku Chief",
+    "MonsterType": 2
+  },
+  "10060": {
+    "Name": "Shadow Scout",
+    "MonsterType": 0
+  },
+  "10061": {
+    "Name": "Shadow Warden",
+    "MonsterType": 0
+  },
+  "10062": {
+    "Name": "Shadow Gunner",
+    "MonsterType": 0
+  },
+  "10063": {
+    "Name": "Shadow Blade",
+    "MonsterType": 0
+  },
+  "10064": {
+    "Name": "Shadow Captain",
+    "MonsterType": 1
+  },
+  "10065": {
+    "Name": "Shadow Commander",
+    "MonsterType": 1
+  },
+  "10066": {
+    "Name": "Storm Goblin Warrior",
+    "MonsterType": 1
+  },
+  "10069": {
+    "Name": "Phantom Arachnocrab",
+    "MonsterType": 2
+  },
+  "10070": {
+    "Name": "The Bear",
+    "MonsterType": 0
+  },
+  "10071": {
+    "Name": "Venomous Arachnocrab",
+    "MonsterType": 0
+  },
+  "10072": {
+    "Name": "Blazing Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "10073": {
+    "Name": "Blazing Goblin Cutlass",
+    "MonsterType": 0
+  },
+  "10074": {
+    "Name": "Deadly Bzzar",
+    "MonsterType": 0
+  },
+  "10075": {
+    "Name": "Nitro Bzzar",
+    "MonsterType": 0
+  },
+  "10076": {
+    "Name": "Void Bzzar",
+    "MonsterType": 1
+  },
+  "10077": {
+    "Name": "Venobzzar Incubator",
+    "MonsterType": 2
+  },
+  "10078": {
+    "Name": "Storm Goblin Dagger",
+    "MonsterType": 0
+  },
+  "10079": {
+    "Name": "Boarrier Storm",
+    "MonsterType": 0
+  },
+  "10080": {
+    "Name": "Great Warhog",
+    "MonsterType": 1
+  },
+  "10081": {
+    "Name": "Iron Fang",
+    "MonsterType": 2
+  },
+  "10082": {
+    "Name": "Skyfish",
+    "MonsterType": 0
+  },
+  "10083": {
+    "Name": "Jade Skyfish",
+    "MonsterType": 0
+  },
+  "10084": {
+    "Name": "Celestial Flier",
+    "MonsterType": 2
+  },
+  "10085": {
+    "Name": "Lizardman King",
+    "MonsterType": 2
+  },
+  "10086": {
+    "Name": "Goblin King",
+    "MonsterType": 2
+  },
+  "10087": {
+    "Name": "Muku Duelblade",
+    "MonsterType": 0
+  },
+  "10099": {
+    "Name": "Princess Arachnocrab",
+    "MonsterType": 0
+  },
+  "10100": {
+    "Name": "Lizardman Warrior",
+    "MonsterType": 0
+  },
+  "10101": {
+    "Name": "Lizardman Shaman",
+    "MonsterType": 0
+  },
+  "10102": {
+    "Name": "Mutant Murloc Warrior",
+    "MonsterType": 0
+  },
+  "10103": {
+    "Name": "Mutant Murloc Shaman",
+    "MonsterType": 0
+  },
+  "10104": {
+    "Name": "Lizardman Hunter",
+    "MonsterType": 1
+  },
+  "10105": {
+    "Name": "Lizardman Mage",
+    "MonsterType": 1
+  },
+  "10106": {
+    "Name": "Elite Blackrock Legion Engram Gunner",
+    "MonsterType": 1
+  },
+  "10107": {
+    "Name": "Elite Blackrock Legion Mage",
+    "MonsterType": 1
+  },
+  "10108": {
+    "Name": "Blackrock Legion Guard",
+    "MonsterType": 0
+  },
+  "10109": {
+    "Name": "Blackrock Legion Trooper",
+    "MonsterType": 0
+  },
+  "10110": {
+    "Name": "Blackrock Legion Spearman",
+    "MonsterType": 0
+  },
+  "10111": {
+    "Name": "Blackrock Legion Swordsman",
+    "MonsterType": 0
+  },
+  "10112": {
+    "Name": "Elite Cabbage Mission Scholar",
+    "MonsterType": 0
+  },
+  "10113": {
+    "Name": "Elite Cabbage Mission Greatswordsman",
+    "MonsterType": 0
+  },
+  "10114": {
+    "Name": "Cabbage Mission Vanguard",
+    "MonsterType": 0
+  },
+  "10115": {
+    "Name": "Cabbage Mission Archer",
+    "MonsterType": 0
+  },
+  "10116": {
+    "Name": "Cabbage Mission Mage",
+    "MonsterType": 0
+  },
+  "10117": {
+    "Name": "Cabbage Mission Vanguard",
+    "MonsterType": 0
+  },
+  "10200": {
+    "Name": "Eyeball 1",
+    "MonsterType": 0
+  },
+  "10201": {
+    "Name": "Eyeball 2",
+    "MonsterType": 0
+  },
+  "10202": {
+    "Name": "Eyeball 2",
+    "MonsterType": 0
+  },
+  "10900": {
+    "Name": "Golden Nappo",
+    "MonsterType": 0
+  },
+  "10901": {
+    "Name": "Silver Nappo",
+    "MonsterType": 0
+  },
+  "10902": {
+    "Name": "Lovely Boarlet",
+    "MonsterType": 0
+  },
+  "10903": {
+    "Name": "Breezy Boarlet",
+    "MonsterType": 0
+  },
+  "10904": {
+    "Name": "Loyal Boarlet",
+    "MonsterType": 0
+  },
+  "11001": {
+    "Name": "Lizard",
+    "MonsterType": 0
+  },
+  "11002": {
+    "Name": "Rock Lizard",
+    "MonsterType": 0
+  },
+  "11003": {
+    "Name": "Highland Boarrierrier",
+    "MonsterType": 0
+  },
+  "11004": {
+    "Name": "Highland Boarrierrier 2",
+    "MonsterType": 0
+  },
+  "11005": {
+    "Name": "Elite - Mutant Lizard",
+    "MonsterType": 1
+  },
+  "11006": {
+    "Name": "Elite - Mutant Boarrierrier",
+    "MonsterType": 1
+  },
+  "11007": {
+    "Name": "Boss - Basilisk",
+    "MonsterType": 2
+  },
+  "11008": {
+    "Name": "Warrior Goblin",
+    "MonsterType": 0
+  },
+  "11009": {
+    "Name": "Deceptive Goblin",
+    "MonsterType": 0
+  },
+  "11010": {
+    "Name": "Guardian Goblin",
+    "MonsterType": 0
+  },
+  "11011": {
+    "Name": "Sage Goblin",
+    "MonsterType": 0
+  },
+  "11012": {
+    "Name": "Elite - Deceptive Goblin",
+    "MonsterType": 1
+  },
+  "11013": {
+    "Name": "Elite - Witch Doctor Goblin",
+    "MonsterType": 1
+  },
+  "11014": {
+    "Name": "Boss - Highland Goblin King",
+    "MonsterType": 2
+  },
+  "11015": {
+    "Name": "White Viper",
+    "MonsterType": 0
+  },
+  "11016": {
+    "Name": "Yellow Viper",
+    "MonsterType": 0
+  },
+  "11017": {
+    "Name": "Elite - Mutant White Viper",
+    "MonsterType": 1
+  },
+  "11018": {
+    "Name": "Elite - Mutant Yellow Viper",
+    "MonsterType": 1
+  },
+  "11019": {
+    "Name": "Boss - Darkened Python",
+    "MonsterType": 2
+  },
+  "11020": {
+    "Name": "Netherworld Caprahorn",
+    "MonsterType": 0
+  },
+  "11021": {
+    "Name": "Caesar Caprahorn",
+    "MonsterType": 0
+  },
+  "11022": {
+    "Name": "Elite - Emerald Caprahorn",
+    "MonsterType": 1
+  },
+  "11023": {
+    "Name": "Elite - Burning Caprahorn",
+    "MonsterType": 1
+  },
+  "11024": {
+    "Name": "Boss - Nightmare Caprahorn",
+    "MonsterType": 2
+  },
+  "11025": {
+    "Name": "Highland Foxen",
+    "MonsterType": 0
+  },
+  "11026": {
+    "Name": "Elite - Highland Foxen",
+    "MonsterType": 1
+  },
+  "11027": {
+    "Name": "Glimmering Boar",
+    "MonsterType": 0
+  },
+  "11028": {
+    "Name": "Colorful Harrier",
+    "MonsterType": 0
+  },
+  "11029": {
+    "Name": "Elite - Snow Boar",
+    "MonsterType": 1
+  },
+  "11030": {
+    "Name": "Elite - Void Colorful Harrier",
+    "MonsterType": 1
+  },
+  "11031": {
+    "Name": "Boss - Flame Boarrier",
+    "MonsterType": 2
+  },
+  "11032": {
+    "Name": "Boss - Queen Harrier",
+    "MonsterType": 2
+  },
+  "11033": {
+    "Name": "Ice and Snow Mountain",
+    "MonsterType": 0
+  },
+  "11034": {
+    "Name": "Giant-beaked Trogon",
+    "MonsterType": 0
+  },
+  "11035": {
+    "Name": "Elite - Frozen Mountain",
+    "MonsterType": 1
+  },
+  "11036": {
+    "Name": "Elite - Crowned Trogon",
+    "MonsterType": 1
+  },
+  "11037": {
+    "Name": "Boss - Tyrant Mountain",
+    "MonsterType": 2
+  },
+  "11038": {
+    "Name": "Boss - King Tuo Kong",
+    "MonsterType": 2
+  },
+  "11039": {
+    "Name": "Blue Gem Foxen",
+    "MonsterType": 0
+  },
+  "11040": {
+    "Name": "Gray Rock Dragonfly",
+    "MonsterType": 0
+  },
+  "11041": {
+    "Name": "Elite - Blue Gem Foxen",
+    "MonsterType": 1
+  },
+  "11042": {
+    "Name": "Elite - Yellow Rock Dragonfly",
+    "MonsterType": 1
+  },
+  "11043": {
+    "Name": "Boss - Howling Foxen",
+    "MonsterType": 2
+  },
+  "11044": {
+    "Name": "Boss - Ground Wing",
+    "MonsterType": 2
+  },
+  "11045": {
+    "Name": "Swift Great Eagle",
+    "MonsterType": 0
+  },
+  "11046": {
+    "Name": "Shrimp Mushroom",
+    "MonsterType": 0
+  },
+  "11110": {
+    "Name": "Kartgriff",
+    "MonsterType": 2
+  },
+  "12000": {
+    "Name": "Arachnocrab",
+    "MonsterType": 1
+  },
+  "12001": {
+    "Name": "Small Arachnocrab",
+    "MonsterType": 0
+  },
+  "12002": {
+    "Name": "Small Arachnocrab",
+    "MonsterType": 0
+  },
+  "17000": {
+    "Name": "Mighty Boarrierrier",
+    "MonsterType": 0
+  },
+  "17001": {
+    "Name": "Boss - Boarrier King",
+    "MonsterType": 2
+  },
+  "17002": {
+    "Name": "Arachnocrab",
+    "MonsterType": 0
+  },
+  "17003": {
+    "Name": "Void Arachnocrab",
+    "MonsterType": 0
+  },
+  "17004": {
+    "Name": "Boss - Muku Chief",
+    "MonsterType": 2
+  },
+  "17005": {
+    "Name": "Muku Scout",
+    "MonsterType": 0
+  },
+  "17006": {
+    "Name": "Muku Crossbowman",
+    "MonsterType": 0
+  },
+  "17007": {
+    "Name": "Foxen",
+    "MonsterType": 0
+  },
+  "17008": {
+    "Name": "Boss - Crimson Foxen",
+    "MonsterType": 2
+  },
+  "17009": {
+    "Name": "Scorching Yeti",
+    "MonsterType": 0
+  },
+  "17010": {
+    "Name": "Boss - Dogorman",
+    "MonsterType": 2
+  },
+  "17011": {
+    "Name": "Crimson Sprayer",
+    "MonsterType": 0
+  },
+  "17012": {
+    "Name": "Elite - Mighty Boarrierrier",
+    "MonsterType": 1
+  },
+  "17013": {
+    "Name": "Elite - Void Arachnocrab",
+    "MonsterType": 1
+  },
+  "17014": {
+    "Name": "Mutant Foxen",
+    "MonsterType": 0
+  },
+  "17015": {
+    "Name": "Elite - Mutant Foxen",
+    "MonsterType": 1
+  },
+  "17016": {
+    "Name": "Mutant Flesh Mountain",
+    "MonsterType": 0
+  },
+  "17017": {
+    "Name": "Elite - Mutant Flesh Mountain",
+    "MonsterType": 1
+  },
+  "17018": {
+    "Name": "Elite - Muku Scout",
+    "MonsterType": 1
+  },
+  "17019": {
+    "Name": "Elite - Crimson Sprayer",
+    "MonsterType": 1
+  },
+  "20000": {
+    "Name": "Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "20001": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "20002": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "20003": {
+    "Name": "Goblin Axe",
+    "MonsterType": 0
+  },
+  "20004": {
+    "Name": "Rathalos",
+    "MonsterType": 2
+  },
+  "20005": {
+    "Name": "Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "20006": {
+    "Name": "Void Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "20007": {
+    "Name": "Goblin Mage",
+    "MonsterType": 0
+  },
+  "20008": {
+    "Name": "Void Goblin Mage",
+    "MonsterType": 0
+  },
+  "20009": {
+    "Name": "Goblin Axe",
+    "MonsterType": 0
+  },
+  "20010": {
+    "Name": "Void - Goblin Axe",
+    "MonsterType": 0
+  },
+  "20011": {
+    "Name": "Murky Memory Residue",
+    "MonsterType": 0
+  },
+  "20012": {
+    "Name": "Super Battle Mech 99",
+    "MonsterType": 1
+  },
+  "20013": {
+    "Name": "Pure Memory Residue",
+    "MonsterType": 0
+  },
+  "20014": {
+    "Name": "Survival Mechanism Tornado",
+    "MonsterType": 0
+  },
+  "20015": {
+    "Name": "Brigand",
+    "MonsterType": 0
+  },
+  "20016": {
+    "Name": "Brigand Archer",
+    "MonsterType": 0
+  },
+  "20017": {
+    "Name": "Brigand Scout",
+    "MonsterType": 0
+  },
+  "20018": {
+    "Name": "Rock Lizard",
+    "MonsterType": 0
+  },
+  "20019": {
+    "Name": "Bzzar",
+    "MonsterType": 0
+  },
+  "20020": {
+    "Name": "Flame Orc",
+    "MonsterType": 2
+  },
+  "20021": {
+    "Name": "Super Battle Mech 99",
+    "MonsterType": 2
+  },
+  "20022": {
+    "Name": "Goblin Mage",
+    "MonsterType": 1
+  },
+  "20023": {
+    "Name": "Goblin Mage",
+    "MonsterType": 1
+  },
+  "20024": {
+    "Name": "Tempest Ogre",
+    "MonsterType": 2
+  },
+  "20025": {
+    "Name": "Battle Mech 03",
+    "MonsterType": 1
+  },
+  "20026": {
+    "Name": "Void - Goblin Axe",
+    "MonsterType": 2
+  },
+  "20027": {
+    "Name": "Muku King",
+    "MonsterType": 2
+  },
+  "20028": {
+    "Name": "Goblin King",
+    "MonsterType": 2
+  },
+  "20029": {
+    "Name": "The Bear",
+    "MonsterType": 2
+  },
+  "20030": {
+    "Name": "Murky Memory Residue",
+    "MonsterType": 0
+  },
+  "20031": {
+    "Name": "Murky Memory Residue",
+    "MonsterType": 0
+  },
+  "20051": {
+    "Name": "Defensive Type 05",
+    "MonsterType": 0
+  },
+  "20052": {
+    "Name": "Defensive Type 04",
+    "MonsterType": 0
+  },
+  "20053": {
+    "Name": "Sentinel Type 01",
+    "MonsterType": 0
+  },
+  "20054": {
+    "Name": "Self-Destruct Type 02",
+    "MonsterType": 0
+  },
+  "20055": {
+    "Name": "Battle Mech 03",
+    "MonsterType": 1
+  },
+  "20056": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "20057": {
+    "Name": "Goblin Sword",
+    "MonsterType": 0
+  },
+  "20058": {
+    "Name": "Goblin Mage",
+    "MonsterType": 1
+  },
+  "20059": {
+    "Name": "Goblin Mage",
+    "MonsterType": 1
+  },
+  "20060": {
+    "Name": "Goblin Mage",
+    "MonsterType": 1
+  },
+  "20061": {
+    "Name": "Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "20062": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "20063": {
+    "Name": "Goblin Axe",
+    "MonsterType": 1
+  },
+  "20064": {
+    "Name": "Void Goblin Cudgel",
+    "MonsterType": 1
+  },
+  "20065": {
+    "Name": "Void Goblin Mage",
+    "MonsterType": 1
+  },
+  "20066": {
+    "Name": "Void - Goblin Axe",
+    "MonsterType": 1
+  },
+  "20067": {
+    "Name": "Brigand",
+    "MonsterType": 0
+  },
+  "20068": {
+    "Name": "Brigand Archer",
+    "MonsterType": 0
+  },
+  "20069": {
+    "Name": "Brigand Scout",
+    "MonsterType": 0
+  },
+  "20070": {
+    "Name": "Goblin King",
+    "MonsterType": 2
+  },
+  "20071": {
+    "Name": "Muku King",
+    "MonsterType": 2
+  },
+  "20072": {
+    "Name": "Tempest Ogre",
+    "MonsterType": 2
+  },
+  "20073": {
+    "Name": "The Bear",
+    "MonsterType": 2
+  },
+  "20074": {
+    "Name": "Kanamia Warrior",
+    "MonsterType": 0
+  },
+  "20075": {
+    "Name": "Kanamia Hunter",
+    "MonsterType": 1
+  },
+  "20076": {
+    "Name": "Kanamia Archer",
+    "MonsterType": 0
+  },
+  "20077": {
+    "Name": "Manned Mech",
+    "MonsterType": 0
+  },
+  "20078": {
+    "Name": "Manned Mech",
+    "MonsterType": 0
+  },
+  "20079": {
+    "Name": "Byrnhald Shield Bearer",
+    "MonsterType": 0
+  },
+  "20080": {
+    "Name": "Byrnhald Rifleman",
+    "MonsterType": 0
+  },
+  "20081": {
+    "Name": "Byrnhald Swordsman",
+    "MonsterType": 0
+  },
+  "20082": {
+    "Name": "Byrnhald Spearman",
+    "MonsterType": 0
+  },
+  "20083": {
+    "Name": "Edge Blade",
+    "MonsterType": 0
+  },
+  "20084": {
+    "Name": "Soul Essence",
+    "MonsterType": 0
+  },
+  "20085": {
+    "Name": "Rock Lizard",
+    "MonsterType": 0
+  },
+  "20086": {
+    "Name": "Super Battle Mech 99",
+    "MonsterType": 2
+  },
+  "20087": {
+    "Name": "Flame Orc",
+    "MonsterType": 2
+  },
+  "20088": {
+    "Name": "Boss - Tempest Ogre",
+    "MonsterType": 2
+  },
+  "20089": {
+    "Name": "Kanamia Archer",
+    "MonsterType": 0
+  },
+  "20090": {
+    "Name": "Manned Mech",
+    "MonsterType": 0
+  },
+  "20091": {
+    "Name": "Manned Mech",
+    "MonsterType": 0
+  },
+  "20092": {
+    "Name": "Tempest Ogre",
+    "MonsterType": 2
+  },
+  "20093": {
+    "Name": "Wooden Dummy",
+    "MonsterType": 1
+  },
+  "20094": {
+    "Name": "Wooden Dummy",
+    "MonsterType": 1
+  },
+  "20095": {
+    "Name": "Wooden Dummy",
+    "MonsterType": 1
+  },
+  "20096": {
+    "Name": "Wooden Dummy",
+    "MonsterType": 1
+  },
+  "20097": {
+    "Name": "Wooden Dummy",
+    "MonsterType": 1
+  },
+  "20098": {
+    "Name": "Wooden Dummy",
+    "MonsterType": 1
+  },
+  "20099": {
+    "Name": "Suicidal Soldier 03",
+    "MonsterType": 0
+  },
+  "20100": {
+    "Name": "Frost Ogre",
+    "MonsterType": 2
+  },
+  "20101": {
+    "Name": "Wooden Dummy",
+    "MonsterType": 0
+  },
+  "20102": {
+    "Name": "Goblin Axe",
+    "MonsterType": 1
+  },
+  "20103": {
+    "Name": "Murky Memory Residue",
+    "MonsterType": 0
+  },
+  "20104": {
+    "Name": "Goblin Mage",
+    "MonsterType": 1
+  },
+  "20105": {
+    "Name": "Goblin Mage",
+    "MonsterType": 1
+  },
+  "20106": {
+    "Name": "Goblin Mage",
+    "MonsterType": 1
+  },
+  "20107": {
+    "Name": "Goblin King",
+    "MonsterType": 2
+  },
+  "20108": {
+    "Name": "Muku King",
+    "MonsterType": 2
+  },
+  "20109": {
+    "Name": "Brigand",
+    "MonsterType": 0
+  },
+  "20110": {
+    "Name": "Brigand Archer",
+    "MonsterType": 0
+  },
+  "20111": {
+    "Name": "Brigand Scout",
+    "MonsterType": 0
+  },
+  "20112": {
+    "Name": "Kanamia Warrior",
+    "MonsterType": 0
+  },
+  "20113": {
+    "Name": "Kanamia Hunter",
+    "MonsterType": 1
+  },
+  "20114": {
+    "Name": "Kanamia Archer",
+    "MonsterType": 0
+  },
+  "20115": {
+    "Name": "Defensive Type 04",
+    "MonsterType": 0
+  },
+  "20116": {
+    "Name": "Sentinel Type 01",
+    "MonsterType": 0
+  },
+  "20117": {
+    "Name": "Self-Destruct Type 02",
+    "MonsterType": 0
+  },
+  "20118": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "20119": {
+    "Name": "Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "20120": {
+    "Name": "Kanamia Hunter",
+    "MonsterType": 1
+  },
+  "20121": {
+    "Name": "Kanamia Archer",
+    "MonsterType": 0
+  },
+  "20122": {
+    "Name": "Byrnhald Shield Bearer",
+    "MonsterType": 0
+  },
+  "20123": {
+    "Name": "Edge Blade",
+    "MonsterType": 0
+  },
+  "20124": {
+    "Name": "Soul Essence",
+    "MonsterType": 0
+  },
+  "20125": {
+    "Name": "Flame Orc",
+    "MonsterType": 2
+  },
+  "20126": {
+    "Name": "Goblin Axe",
+    "MonsterType": 1
+  },
+  "20127": {
+    "Name": "Frost Ogre",
+    "MonsterType": 2
+  },
+  "20128": {
+    "Name": "Stubborn Youth",
+    "MonsterType": 0
+  },
+  "28001": {
+    "Name": "Support Team Member",
+    "MonsterType": 0
+  },
+  "28002": {
+    "Name": "Guardian Team Member",
+    "MonsterType": 0
+  },
+  "28003": {
+    "Name": "Damage Dealer Team Member",
+    "MonsterType": 0
+  },
+  "28004": {
+    "Name": "Damage Dealer Team Member",
+    "MonsterType": 0
+  },
+  "28010": {
+    "Name": "Trial Officer - Moonstrike",
+    "MonsterType": 1
+  },
+  "28011": {
+    "Name": "Trial Officer - Moonstrike",
+    "MonsterType": 0
+  },
+  "28012": {
+    "Name": "Trial Officer - Hanna",
+    "MonsterType": 1
+  },
+  "28013": {
+    "Name": "Trial Officer - Drew",
+    "MonsterType": 0
+  },
+  "28014": {
+    "Name": "Trial Officer - Tao Yu",
+    "MonsterType": 0
+  },
+  "28015": {
+    "Name": "Trial Officer - Ren Wen",
+    "MonsterType": 0
+  },
+  "28016": {
+    "Name": "Trial Officer - Yvonne",
+    "MonsterType": 0
+  },
+  "28021": {
+    "Name": "Trial Officer - Hanna",
+    "MonsterType": 0
+  },
+  "28022": {
+    "Name": "Trial Officer - Drew",
+    "MonsterType": 0
+  },
+  "28023": {
+    "Name": "Trial Officer - Tao Yu",
+    "MonsterType": 0
+  },
+  "28024": {
+    "Name": "Trial Officer - Ren Wen",
+    "MonsterType": 0
+  },
+  "29001": {
+    "Name": "Jerrad",
+    "MonsterType": 0
+  },
+  "29002": {
+    "Name": "Airona",
+    "MonsterType": 0
+  },
+  "29003": {
+    "Name": "Tina",
+    "MonsterType": 0
+  },
+  "29004": {
+    "Name": "Dorothy",
+    "MonsterType": 0
+  },
+  "29005": {
+    "Name": "Olvera",
+    "MonsterType": 0
+  },
+  "29006": {
+    "Name": "Tatta",
+    "MonsterType": 0
+  },
+  "29007": {
+    "Name": "Boyce",
+    "MonsterType": 0
+  },
+  "29008": {
+    "Name": "Rorola",
+    "MonsterType": 0
+  },
+  "29009": {
+    "Name": "Fafala",
+    "MonsterType": 0
+  },
+  "29010": {
+    "Name": "Darya",
+    "MonsterType": 0
+  },
+  "30100": {
+    "Name": "Grey Crow",
+    "MonsterType": 2
+  },
+  "30101": {
+    "Name": "Minion",
+    "MonsterType": 0
+  },
+  "30102": {
+    "Name": "Tina",
+    "MonsterType": 0
+  },
+  "30120": {
+    "Name": "Noisy Demi-Human",
+    "MonsterType": 0
+  },
+  "30121": {
+    "Name": "Wheat-Stealing Goblin",
+    "MonsterType": 0
+  },
+  "30122": {
+    "Name": "Daniel's Accomplice",
+    "MonsterType": 0
+  },
+  "30123": {
+    "Name": "Daniel's Accomplice",
+    "MonsterType": 0
+  },
+  "30301": {
+    "Name": "Scenery Guard",
+    "MonsterType": 0
+  },
+  "30303": {
+    "Name": "Escort Unit - Civilian 1",
+    "MonsterType": 0
+  },
+  "30304": {
+    "Name": "Escort Unit - Civilian 2",
+    "MonsterType": 0
+  },
+  "30305": {
+    "Name": "Escort Unit - Civilian 3 Children",
+    "MonsterType": 0
+  },
+  "30306": {
+    "Name": "Escort Unit - Civilian 4 Center",
+    "MonsterType": 0
+  },
+  "30309": {
+    "Name": "Combat - Void Human - Young Male",
+    "MonsterType": 0
+  },
+  "30310": {
+    "Name": "Combat - Void Human - Young Male",
+    "MonsterType": 0
+  },
+  "30311": {
+    "Name": "Combat - Void Human - Soldier",
+    "MonsterType": 0
+  },
+  "30312": {
+    "Name": "Diorama - Void Human - Struggle 1 - Young Male",
+    "MonsterType": 0
+  },
+  "30313": {
+    "Name": "Diorama - Void Human - Confrontation",
+    "MonsterType": 0
+  },
+  "30314": {
+    "Name": "Diorama - Legion Soldier Confrontation",
+    "MonsterType": 0
+  },
+  "30315": {
+    "Name": "Diorama - Legion Soldier Vigilance",
+    "MonsterType": 0
+  },
+  "30316": {
+    "Name": "Diorama - Void Human - Struggle 2 - Young Male",
+    "MonsterType": 0
+  },
+  "30317": {
+    "Name": "Diorama - Void Human - Middle-aged Male",
+    "MonsterType": 0
+  },
+  "30318": {
+    "Name": "Diorama - Void Human - Elderly Male",
+    "MonsterType": 0
+  },
+  "30319": {
+    "Name": "Diorama - Void Human - Elderly Female",
+    "MonsterType": 0
+  },
+  "30320": {
+    "Name": "Diorama - Void Human - Struggle 1 - Middle-aged Male",
+    "MonsterType": 0
+  },
+  "30321": {
+    "Name": "Diorama - Void Human - Struggle 2 - Middle-aged Male",
+    "MonsterType": 0
+  },
+  "30322": {
+    "Name": "Diorama - Void Human - Struggle 1 - Middle-aged Female",
+    "MonsterType": 0
+  },
+  "30323": {
+    "Name": "Diorama - Void Human - Struggle 2 - Middle-aged Female",
+    "MonsterType": 0
+  },
+  "30324": {
+    "Name": "Diorama - Void Human - Struggle 1 - Elderly Male",
+    "MonsterType": 0
+  },
+  "30325": {
+    "Name": "Diorama - Void Human - Struggle 2 - Elderly Male",
+    "MonsterType": 0
+  },
+  "30326": {
+    "Name": "Diorama - Void Human - Struggle 1 - Elderly Female",
+    "MonsterType": 0
+  },
+  "30327": {
+    "Name": "Scene - Void- Human - Struggle 2 - Elderly Woman",
+    "MonsterType": 0
+  },
+  "30344": {
+    "Name": "Combat - Void Human - Soldier",
+    "MonsterType": 0
+  },
+  "30350": {
+    "Name": "Battle - Melee Young Man",
+    "MonsterType": 0
+  },
+  "30351": {
+    "Name": "Battle - Melee Elderly Woman",
+    "MonsterType": 0
+  },
+  "30352": {
+    "Name": "Battle - Ranged Soldier",
+    "MonsterType": 0
+  },
+  "30353": {
+    "Name": "Battle - Explosive Middle-aged Man",
+    "MonsterType": 0
+  },
+  "30360": {
+    "Name": "Battle Third Wave - Melee Young Man",
+    "MonsterType": 0
+  },
+  "30361": {
+    "Name": "Battle Third Wave - Melee Elderly Woman",
+    "MonsterType": 0
+  },
+  "30362": {
+    "Name": "Battle Third Wave - Ranged Soldier",
+    "MonsterType": 0
+  },
+  "30363": {
+    "Name": "Battle Third Wave - Explosive Middle-aged Man",
+    "MonsterType": 0
+  },
+  "30401": {
+    "Name": "Soldier",
+    "MonsterType": 0
+  },
+  "30402": {
+    "Name": "Soldier",
+    "MonsterType": 0
+  },
+  "30403": {
+    "Name": "Soldier",
+    "MonsterType": 0
+  },
+  "30404": {
+    "Name": "Olvera",
+    "MonsterType": 0
+  },
+  "30405": {
+    "Name": "Ancient City of Vill - Ryan",
+    "MonsterType": 0
+  },
+  "30406": {
+    "Name": "Tatta",
+    "MonsterType": 0
+  },
+  "30407": {
+    "Name": "Tina",
+    "MonsterType": 0
+  },
+  "30408": {
+    "Name": "Denvel",
+    "MonsterType": 0
+  },
+  "30409": {
+    "Name": "Tina",
+    "MonsterType": 0
+  },
+  "30410": {
+    "Name": "Mysterious Person",
+    "MonsterType": 0
+  },
+  "30411": {
+    "Name": "Initial Exploration of Dark Mist Trooper",
+    "MonsterType": 0
+  },
+  "30420": {
+    "Name": "Soldier",
+    "MonsterType": 1
+  },
+  "30421": {
+    "Name": "Denvel",
+    "MonsterType": 1
+  },
+  "30422": {
+    "Name": "Soldier",
+    "MonsterType": 1
+  },
+  "30423": {
+    "Name": "Soldier",
+    "MonsterType": 1
+  },
+  "30424": {
+    "Name": "Soldier",
+    "MonsterType": 1
+  },
+  "30425": {
+    "Name": "Soldier",
+    "MonsterType": 1
+  },
+  "30426": {
+    "Name": "Soldier",
+    "MonsterType": 1
+  },
+  "30501": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "30502": {
+    "Name": "Goblin Axe",
+    "MonsterType": 0
+  },
+  "30503": {
+    "Name": "Goblin Sword",
+    "MonsterType": 0
+  },
+  "30601": {
+    "Name": "Artisan",
+    "MonsterType": 1
+  },
+  "30602": {
+    "Name": "Artisan",
+    "MonsterType": 1
+  },
+  "30603": {
+    "Name": "Artisan",
+    "MonsterType": 1
+  },
+  "30604": {
+    "Name": "Artisan",
+    "MonsterType": 1
+  },
+  "30605": {
+    "Name": "Artisan",
+    "MonsterType": 1
+  },
+  "30606": {
+    "Name": "Artisan",
+    "MonsterType": 1
+  },
+  "30607": {
+    "Name": "Artisan",
+    "MonsterType": 1
+  },
+  "30608": {
+    "Name": "Artisan",
+    "MonsterType": 1
+  },
+  "30609": {
+    "Name": "Artisan",
+    "MonsterType": 1
+  },
+  "30610": {
+    "Name": "Female Artisan",
+    "MonsterType": 1
+  },
+  "30701": {
+    "Name": "Tina",
+    "MonsterType": 0
+  },
+  "30702": {
+    "Name": "Tina",
+    "MonsterType": 0
+  },
+  "30703": {
+    "Name": "Jerrad Lying Down",
+    "MonsterType": 0
+  },
+  "30704": {
+    "Name": "Soldier",
+    "MonsterType": 0
+  },
+  "30801": {
+    "Name": "Irritable Male Civilian",
+    "MonsterType": 0
+  },
+  "30802": {
+    "Name": "Irritable Male Civilian",
+    "MonsterType": 0
+  },
+  "30803": {
+    "Name": "Irritable Female Civilian",
+    "MonsterType": 0
+  },
+  "30804": {
+    "Name": "Irritable Female Civilian",
+    "MonsterType": 0
+  },
+  "30805": {
+    "Name": "Irritable Female Civilian",
+    "MonsterType": 0
+  },
+  "30806": {
+    "Name": "Irritable Female Civilian",
+    "MonsterType": 0
+  },
+  "30807": {
+    "Name": "Irritable Male Civilian",
+    "MonsterType": 0
+  },
+  "30808": {
+    "Name": "Irritable Male Civilian",
+    "MonsterType": 0
+  },
+  "30809": {
+    "Name": "Rabid Dog",
+    "MonsterType": 0
+  },
+  "30810": {
+    "Name": "Captain Gale",
+    "MonsterType": 2
+  },
+  "30811": {
+    "Name": "Dark Mist Sergeant",
+    "MonsterType": 0
+  },
+  "30812": {
+    "Name": "Dark Mist Sergeant",
+    "MonsterType": 0
+  },
+  "30813": {
+    "Name": "Tatta - Transform",
+    "MonsterType": 1
+  },
+  "30814": {
+    "Name": "Dark Mist Sergeant",
+    "MonsterType": 0
+  },
+  "31001": {
+    "Name": "Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "31002": {
+    "Name": "Goblin Sword",
+    "MonsterType": 0
+  },
+  "31003": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "31004": {
+    "Name": "Lyon",
+    "MonsterType": 0
+  },
+  "31101": {
+    "Name": "Dorothy",
+    "MonsterType": 2
+  },
+  "31902": {
+    "Name": "Ryan's Box",
+    "MonsterType": 0
+  },
+  "33201": {
+    "Name": "Rock Snake BOSS",
+    "MonsterType": 2
+  },
+  "33202": {
+    "Name": "Corrosive Little Snake",
+    "MonsterType": 0
+  },
+  "33203": {
+    "Name": "Rock Snake Little Snake",
+    "MonsterType": 0
+  },
+  "33204": {
+    "Name": "Life Little Snake",
+    "MonsterType": 0
+  },
+  "33205": {
+    "Name": "Corrosive Snake Egg",
+    "MonsterType": 0
+  },
+  "33206": {
+    "Name": "Rock Snake Egg",
+    "MonsterType": 0
+  },
+  "33207": {
+    "Name": "Life Snake Egg",
+    "MonsterType": 0
+  },
+  "33301": {
+    "Name": "Soul Devouring Armor",
+    "MonsterType": 2
+  },
+  "33401": {
+    "Name": "Plague Nappo",
+    "MonsterType": 2
+  },
+  "35000": {
+    "Name": "Main Fighter Type 99",
+    "MonsterType": 2
+  },
+  "35002": {
+    "Name": "Sub Fighter Type 03",
+    "MonsterType": 1
+  },
+  "35004": {
+    "Name": "Main Fighter Type 99",
+    "MonsterType": 0
+  },
+  "35006": {
+    "Name": "Sub Fighter Type 03",
+    "MonsterType": 0
+  },
+  "35007": {
+    "Name": "Suicidal Soldier 02",
+    "MonsterType": 0
+  },
+  "35008": {
+    "Name": "Defensive Type 04",
+    "MonsterType": 0
+  },
+  "35009": {
+    "Name": "Sentinel Type 01",
+    "MonsterType": 0
+  },
+  "35010": {
+    "Name": "Suicidal Soldier 02",
+    "MonsterType": 0
+  },
+  "35011": {
+    "Name": "Main Fighter Type 99",
+    "MonsterType": 0
+  },
+  "35012": {
+    "Name": "Sub Fighter Type 03",
+    "MonsterType": 0
+  },
+  "35013": {
+    "Name": "Suicidal Soldier 02",
+    "MonsterType": 0
+  },
+  "35014": {
+    "Name": "Suicidal Soldier 02",
+    "MonsterType": 0
+  },
+  "35050": {
+    "Name": "Main Fighter Type 99",
+    "MonsterType": 2
+  },
+  "35051": {
+    "Name": "Sub Fighter Type 03",
+    "MonsterType": 1
+  },
+  "35052": {
+    "Name": "Defensive Type 04",
+    "MonsterType": 0
+  },
+  "35053": {
+    "Name": "Sentinel Type 01",
+    "MonsterType": 0
+  },
+  "35054": {
+    "Name": "Suicidal Soldier 02",
+    "MonsterType": 0
+  },
+  "35055": {
+    "Name": "Main Fighter Type 99",
+    "MonsterType": 0
+  },
+  "35056": {
+    "Name": "Sub Fighter Type 03",
+    "MonsterType": 0
+  },
+  "35057": {
+    "Name": "Suicidal Soldier 02",
+    "MonsterType": 0
+  },
+  "35058": {
+    "Name": "Suicidal Soldier 02",
+    "MonsterType": 0
+  },
+  "35100": {
+    "Name": "Artisan",
+    "MonsterType": 0
+  },
+  "35101": {
+    "Name": "Artisan",
+    "MonsterType": 0
+  },
+  "35102": {
+    "Name": "Artisan",
+    "MonsterType": 0
+  },
+  "35103": {
+    "Name": "Artisan",
+    "MonsterType": 0
+  },
+  "35104": {
+    "Name": "Artisan",
+    "MonsterType": 0
+  },
+  "35105": {
+    "Name": "Meeting Scope",
+    "MonsterType": 0
+  },
+  "35106": {
+    "Name": "Spotlight",
+    "MonsterType": 0
+  },
+  "35107": {
+    "Name": "Dune Rock",
+    "MonsterType": 0
+  },
+  "35108": {
+    "Name": "Dune Rock Destination",
+    "MonsterType": 0
+  },
+  "40000": {
+    "Name": "Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "40001": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "40002": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "40003": {
+    "Name": "Goblin Sword",
+    "MonsterType": 0
+  },
+  "40004": {
+    "Name": "Goblin Mage",
+    "MonsterType": 0
+  },
+  "40005": {
+    "Name": "Goblin Mage (Forest)",
+    "MonsterType": 1
+  },
+  "40006": {
+    "Name": "Goblin Mage (Wind)",
+    "MonsterType": 1
+  },
+  "40007": {
+    "Name": "Goblin Mage (Fire)",
+    "MonsterType": 1
+  },
+  "40008": {
+    "Name": "Goblin Axe",
+    "MonsterType": 1
+  },
+  "40009": {
+    "Name": "Goblin Crossbow Captain",
+    "MonsterType": 1
+  },
+  "40010": {
+    "Name": "Shuro Barot",
+    "MonsterType": 2
+  },
+  "40011": {
+    "Name": "Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "40012": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "40013": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "40014": {
+    "Name": "Goblin Sword",
+    "MonsterType": 0
+  },
+  "40015": {
+    "Name": "Goblin Mage",
+    "MonsterType": 0
+  },
+  "40016": {
+    "Name": "Goblin Mage (Forest)",
+    "MonsterType": 1
+  },
+  "40017": {
+    "Name": "Goblin Mage (Wind)",
+    "MonsterType": 1
+  },
+  "40018": {
+    "Name": "Goblin Mage (Fire)",
+    "MonsterType": 1
+  },
+  "40019": {
+    "Name": "Goblin Axe",
+    "MonsterType": 1
+  },
+  "40020": {
+    "Name": "Goblin Crossbow Captain",
+    "MonsterType": 1
+  },
+  "40021": {
+    "Name": "Goblin Crossbow Captain",
+    "MonsterType": 1
+  },
+  "40022": {
+    "Name": "Goblin Sword",
+    "MonsterType": 1
+  },
+  "40023": {
+    "Name": "Goblin Mage (Wind)",
+    "MonsterType": 1
+  },
+  "40024": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "40025": {
+    "Name": "Goblin Sword",
+    "MonsterType": 1
+  },
+  "40026": {
+    "Name": "Boss - Goblin Chief",
+    "MonsterType": 2
+  },
+  "40027": {
+    "Name": "Thunder Crystal",
+    "MonsterType": 2
+  },
+  "40050": {
+    "Name": "Boss - Flame Orc",
+    "MonsterType": 1
+  },
+  "40051": {
+    "Name": "Goblin Axe",
+    "MonsterType": 1
+  },
+  "40052": {
+    "Name": "Wind Goblin Mage",
+    "MonsterType": 1
+  },
+  "40053": {
+    "Name": "Forest Goblin Mage",
+    "MonsterType": 1
+  },
+  "40054": {
+    "Name": "Fire Goblin Mage",
+    "MonsterType": 1
+  },
+  "40055": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "40056": {
+    "Name": "Goblin Sword",
+    "MonsterType": 0
+  },
+  "40057": {
+    "Name": "Crazy Goblin Dagger",
+    "MonsterType": 1
+  },
+  "40058": {
+    "Name": "Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "40059": {
+    "Name": "Broodmother Arachnocrab",
+    "MonsterType": 1
+  },
+  "40060": {
+    "Name": "Small Arachnocrab Baby",
+    "MonsterType": 0
+  },
+  "40061": {
+    "Name": "Venomous Arachnocrab",
+    "MonsterType": 1
+  },
+  "40062": {
+    "Name": "Arachnocrab",
+    "MonsterType": 0
+  },
+  "40063": {
+    "Name": "Venomous Arachnocrab",
+    "MonsterType": 0
+  },
+  "40064": {
+    "Name": "Rolling Stone Mechanism 1",
+    "MonsterType": 0
+  },
+  "40065": {
+    "Name": "Phantom Caster",
+    "MonsterType": 1
+  },
+  "40066": {
+    "Name": "Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "40067": {
+    "Name": "Wooden Dummy",
+    "MonsterType": 0
+  },
+  "40068": {
+    "Name": "Goblin Crossbow Captain",
+    "MonsterType": 1
+  },
+  "40069": {
+    "Name": "Goblin Sword Captain",
+    "MonsterType": 1
+  },
+  "40070": {
+    "Name": "Goblin Sword",
+    "MonsterType": 0
+  },
+  "40071": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "40072": {
+    "Name": "Aggressive Goblin Axe",
+    "MonsterType": 1
+  },
+  "40073": {
+    "Name": "Ambitious Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "40074": {
+    "Name": "Wind Goblin Mage",
+    "MonsterType": 1
+  },
+  "40075": {
+    "Name": "Forest Goblin Mage",
+    "MonsterType": 1
+  },
+  "40076": {
+    "Name": "Fire Goblin Mage",
+    "MonsterType": 1
+  },
+  "40077": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "40078": {
+    "Name": "Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "40079": {
+    "Name": "Phantom Caster",
+    "MonsterType": 1
+  },
+  "40080": {
+    "Name": "Rolling Stone Mechanism 2",
+    "MonsterType": 0
+  },
+  "40081": {
+    "Name": "Rolling Stone Mechanism 3",
+    "MonsterType": 0
+  },
+  "40082": {
+    "Name": "Rolling Stone Mechanism 4",
+    "MonsterType": 0
+  },
+  "40083": {
+    "Name": "Rolling Stone Mechanism 5",
+    "MonsterType": 0
+  },
+  "40084": {
+    "Name": "Large Arachnocrab Baby",
+    "MonsterType": 0
+  },
+  "40085": {
+    "Name": "Ordinary Arachnocrab Baby",
+    "MonsterType": 0
+  },
+  "40086": {
+    "Name": "Hard Shell Arachnocrab Baby",
+    "MonsterType": 0
+  },
+  "40087": {
+    "Name": "Venom Arachnocrab Baby",
+    "MonsterType": 0
+  },
+  "40088": {
+    "Name": "Juicy Arachnocrab Baby",
+    "MonsterType": 0
+  },
+  "40089": {
+    "Name": "Fast-footed Arachnocrab Baby",
+    "MonsterType": 0
+  },
+  "40090": {
+    "Name": "Goblin Mage - Spirit",
+    "MonsterType": 1
+  },
+  "40091": {
+    "Name": "Goblin Wind Mage - Spirit",
+    "MonsterType": 1
+  },
+  "40092": {
+    "Name": "Goblin Forest Mage - Spirit",
+    "MonsterType": 1
+  },
+  "40093": {
+    "Name": "Fire Goblin Mage",
+    "MonsterType": 1
+  },
+  "40094": {
+    "Name": "Common Arachnocrab Baby - Ecology",
+    "MonsterType": 0
+  },
+  "40095": {
+    "Name": "Hard Shell Arachnocrab Baby - Ecology",
+    "MonsterType": 0
+  },
+  "40096": {
+    "Name": "Venom Arachnocrab Baby - Ecology",
+    "MonsterType": 0
+  },
+  "40097": {
+    "Name": "Goblin Sword Captain",
+    "MonsterType": 1
+  },
+  "40300": {
+    "Name": "Boss - Quinin",
+    "MonsterType": 1
+  },
+  "40301": {
+    "Name": "Boss - Mercenary Graves",
+    "MonsterType": 1
+  },
+  "40302": {
+    "Name": "Radiant Amy",
+    "MonsterType": 1
+  },
+  "40303": {
+    "Name": "Silvermoon Orlando",
+    "MonsterType": 1
+  },
+  "40304": {
+    "Name": "Eagle Eye Vina",
+    "MonsterType": 1
+  },
+  "40305": {
+    "Name": "Kanamia Mage",
+    "MonsterType": 0
+  },
+  "40306": {
+    "Name": "Kanamia Mage",
+    "MonsterType": 0
+  },
+  "40307": {
+    "Name": "Kanamia Mage",
+    "MonsterType": 0
+  },
+  "40308": {
+    "Name": "Kanamia Warrior",
+    "MonsterType": 0
+  },
+  "40309": {
+    "Name": "Kanamia Hunter",
+    "MonsterType": 1
+  },
+  "40310": {
+    "Name": "Kanamia Archer",
+    "MonsterType": 1
+  },
+  "40311": {
+    "Name": "Necalli",
+    "MonsterType": 0
+  },
+  "40312": {
+    "Name": "Necalli's Star Binding",
+    "MonsterType": 1
+  },
+  "40313": {
+    "Name": "Kanamia Giant",
+    "MonsterType": 0
+  },
+  "40314": {
+    "Name": "Kanamia Undead Suicide Monster",
+    "MonsterType": 0
+  },
+  "40315": {
+    "Name": "Boss - Muku Warrior",
+    "MonsterType": 1
+  },
+  "40316": {
+    "Name": "Kanamia Suicide- Axe",
+    "MonsterType": 0
+  },
+  "40317": {
+    "Name": "Kanamia Suicide- Hunter",
+    "MonsterType": 0
+  },
+  "40318": {
+    "Name": "Kanamia Suicide- Archer",
+    "MonsterType": 0
+  },
+  "40319": {
+    "Name": "Boarrierrier",
+    "MonsterType": 0
+  },
+  "40320": {
+    "Name": "Rolling Stone",
+    "MonsterType": 0
+  },
+  "40321": {
+    "Name": "Rolling Stone - Self-directed Version",
+    "MonsterType": 0
+  },
+  "40322": {
+    "Name": "Kanamia Archer",
+    "MonsterType": 1
+  },
+  "40323": {
+    "Name": "Running Boarlet",
+    "MonsterType": 0
+  },
+  "40324": {
+    "Name": "Quinin",
+    "MonsterType": 0
+  },
+  "40325": {
+    "Name": "Invisible Monster",
+    "MonsterType": 0
+  },
+  "40326": {
+    "Name": "Quinin",
+    "MonsterType": 0
+  },
+  "40327": {
+    "Name": "Quinine Doppelganger",
+    "MonsterType": 0
+  },
+  "40328": {
+    "Name": "Kanamia Wraith",
+    "MonsterType": 0
+  },
+  "40329": {
+    "Name": "Kanamia Mage",
+    "MonsterType": 0
+  },
+  "40335": {
+    "Name": "Suspect",
+    "MonsterType": 0
+  },
+  "40336": {
+    "Name": "Middle-aged Woman",
+    "MonsterType": 0
+  },
+  "40337": {
+    "Name": "Suspect",
+    "MonsterType": 0
+  },
+  "40338": {
+    "Name": "Trash Can",
+    "MonsterType": 0
+  },
+  "40339": {
+    "Name": "Suspect",
+    "MonsterType": 0
+  },
+  "40394": {
+    "Name": "Maximo the Warrior",
+    "MonsterType": 2
+  },
+  "40395": {
+    "Name": "Soul Spear",
+    "MonsterType": 1
+  },
+  "40396": {
+    "Name": "Soul Pool",
+    "MonsterType": 1
+  },
+  "40397": {
+    "Name": "Soul Split",
+    "MonsterType": 1
+  },
+  "40398": {
+    "Name": "Kanamia Tribe Soul Binder",
+    "MonsterType": 0
+  },
+  "40399": {
+    "Name": "Kanamia Tribe Soul Hunter",
+    "MonsterType": 0
+  },
+  "40400": {
+    "Name": "Maximo the Warrior",
+    "MonsterType": 2
+  },
+  "40401": {
+    "Name": "Soul Pool <Soul Split>",
+    "MonsterType": 1
+  },
+  "40402": {
+    "Name": "Scene Soul Reaper",
+    "MonsterType": 1
+  },
+  "40403": {
+    "Name": "Kanamia Tribe Soul Binder",
+    "MonsterType": 2
+  },
+  "40404": {
+    "Name": "Kanamia Tribe Soul Hunter",
+    "MonsterType": 2
+  },
+  "40405": {
+    "Name": "Soul Pool",
+    "MonsterType": 1
+  },
+  "40406": {
+    "Name": "Kanamia Tribe Soul Binder",
+    "MonsterType": 1
+  },
+  "40407": {
+    "Name": "Kanamia Tribe Soul Hunter",
+    "MonsterType": 1
+  },
+  "40408": {
+    "Name": "Maximo the Warrior",
+    "MonsterType": 2
+  },
+  "40409": {
+    "Name": "Maximo the Warrior",
+    "MonsterType": 2
+  },
+  "40410": {
+    "Name": "Soul Spear",
+    "MonsterType": 1
+  },
+  "40411": {
+    "Name": "Soul Spear",
+    "MonsterType": 1
+  },
+  "50000": {
+    "Name": "Airona Spirit Deer_Left",
+    "MonsterType": 0
+  },
+  "50001": {
+    "Name": "Airona Spirit Deer_Right",
+    "MonsterType": 0
+  },
+  "60000": {
+    "Name": "Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "60001": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "60002": {
+    "Name": "Goblin Mage",
+    "MonsterType": 1
+  },
+  "60003": {
+    "Name": "Goblin Mage",
+    "MonsterType": 1
+  },
+  "60004": {
+    "Name": "Goblin Mage",
+    "MonsterType": 1
+  },
+  "60005": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "60006": {
+    "Name": "Goblin Sword",
+    "MonsterType": 0
+  },
+  "60008": {
+    "Name": "Goblin Axe",
+    "MonsterType": 1
+  },
+  "60010": {
+    "Name": "Asterleeds Trooper",
+    "MonsterType": 0
+  },
+  "60012": {
+    "Name": "Lightning Storm Core",
+    "MonsterType": 1
+  },
+  "60013": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "60017": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "60018": {
+    "Name": "Goblin Sword",
+    "MonsterType": 0
+  },
+  "60020": {
+    "Name": "Goblin Axe",
+    "MonsterType": 1
+  },
+  "60021": {
+    "Name": "Rathalos",
+    "MonsterType": 2
+  },
+  "60100": {
+    "Name": "Invader Type 04",
+    "MonsterType": 0
+  },
+  "60101": {
+    "Name": "Hunter Type 02",
+    "MonsterType": 0
+  },
+  "60102": {
+    "Name": "Annihilation Fortress Type 01",
+    "MonsterType": 0
+  },
+  "60103": {
+    "Name": "Invader Type 04",
+    "MonsterType": 0
+  },
+  "60104": {
+    "Name": "Invader Type 04",
+    "MonsterType": 0
+  },
+  "60105": {
+    "Name": "Annihilation Fortress Type 01",
+    "MonsterType": 0
+  },
+  "60106": {
+    "Name": "Invader Type 04",
+    "MonsterType": 0
+  },
+  "60107": {
+    "Name": "Hunter Type 02",
+    "MonsterType": 0
+  },
+  "60108": {
+    "Name": "Annihilation Fortress Type 01",
+    "MonsterType": 0
+  },
+  "60109": {
+    "Name": "Hunter Type 02",
+    "MonsterType": 0
+  },
+  "60110": {
+    "Name": "Invader Type 04",
+    "MonsterType": 0
+  },
+  "60111": {
+    "Name": "Hunter Type 02",
+    "MonsterType": 0
+  },
+  "60112": {
+    "Name": "Hunter Type 02",
+    "MonsterType": 0
+  },
+  "60113": {
+    "Name": "Annihilation Fortress Type 01",
+    "MonsterType": 0
+  },
+  "60114": {
+    "Name": "Apocalypse Destroyer",
+    "MonsterType": 1
+  },
+  "60120": {
+    "Name": "Invader Type 04",
+    "MonsterType": 0
+  },
+  "60121": {
+    "Name": "Hunter Type 02",
+    "MonsterType": 0
+  },
+  "60122": {
+    "Name": "Hunter Type 02",
+    "MonsterType": 0
+  },
+  "60123": {
+    "Name": "Annihilation Fortress Type 01",
+    "MonsterType": 0
+  },
+  "60124": {
+    "Name": "Annihilation Fortress Type 01",
+    "MonsterType": 0
+  },
+  "60125": {
+    "Name": "Invader Type 04",
+    "MonsterType": 0
+  },
+  "60126": {
+    "Name": "Invader Type 04",
+    "MonsterType": 0
+  },
+  "60127": {
+    "Name": "Hunter Type 02",
+    "MonsterType": 0
+  },
+  "60128": {
+    "Name": "Invader Type 04",
+    "MonsterType": 0
+  },
+  "60129": {
+    "Name": "Annihilation Fortress Type 01",
+    "MonsterType": 0
+  },
+  "60130": {
+    "Name": "Annihilation Fortress Type 01",
+    "MonsterType": 0
+  },
+  "60131": {
+    "Name": "Invader Type 04",
+    "MonsterType": 0
+  },
+  "60132": {
+    "Name": "Hunter Type 02",
+    "MonsterType": 0
+  },
+  "60133": {
+    "Name": "Invader Type 04",
+    "MonsterType": 0
+  },
+  "60134": {
+    "Name": "Annihilation Fortress Type 01",
+    "MonsterType": 0
+  },
+  "60135": {
+    "Name": "Hunter Type 02",
+    "MonsterType": 0
+  },
+  "60136": {
+    "Name": "Annihilation Fortress Type 01",
+    "MonsterType": 0
+  },
+  "60140": {
+    "Name": "Manned Mech",
+    "MonsterType": 0
+  },
+  "60141": {
+    "Name": "Apocalypse Destroyer",
+    "MonsterType": 2
+  },
+  "60150": {
+    "Name": "Melee Mech",
+    "MonsterType": 0
+  },
+  "60151": {
+    "Name": "Ranged Mech",
+    "MonsterType": 2
+  },
+  "60152": {
+    "Name": "Tank Mech",
+    "MonsterType": 0
+  },
+  "60153": {
+    "Name": "Ranged Mech Type 2",
+    "MonsterType": 0
+  },
+  "60154": {
+    "Name": "Support Mech",
+    "MonsterType": 0
+  },
+  "60200": {
+    "Name": "Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "60201": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "60202": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "60203": {
+    "Name": "Goblin Sword",
+    "MonsterType": 0
+  },
+  "60204": {
+    "Name": "Goblin Axe",
+    "MonsterType": 0
+  },
+  "60205": {
+    "Name": "Goblin Mage",
+    "MonsterType": 0
+  },
+  "60206": {
+    "Name": "Inferno Goblin Mage",
+    "MonsterType": 0
+  },
+  "60207": {
+    "Name": "Goblin Forest Mage",
+    "MonsterType": 0
+  },
+  "60208": {
+    "Name": "Goblin Wind Mage",
+    "MonsterType": 0
+  },
+  "60209": {
+    "Name": "Elite - Goblin Crossbow",
+    "MonsterType": 1
+  },
+  "60210": {
+    "Name": "Elite - Goblin Sword",
+    "MonsterType": 1
+  },
+  "60211": {
+    "Name": "Elite - Goblin Axe",
+    "MonsterType": 1
+  },
+  "60213": {
+    "Name": "Elite - Inferno Goblin Mage",
+    "MonsterType": 1
+  },
+  "60215": {
+    "Name": "Elite - Goblin Wind Mage",
+    "MonsterType": 1
+  },
+  "60216": {
+    "Name": "Boss - Goblin King",
+    "MonsterType": 2
+  },
+  "60220": {
+    "Name": "Void Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "60221": {
+    "Name": "Void Goblin Dagger",
+    "MonsterType": 0
+  },
+  "60222": {
+    "Name": "Void Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "60223": {
+    "Name": "Void Goblin Sword",
+    "MonsterType": 0
+  },
+  "60224": {
+    "Name": "Void Goblin Axe",
+    "MonsterType": 0
+  },
+  "60225": {
+    "Name": "Void Goblin Mage",
+    "MonsterType": 0
+  },
+  "60226": {
+    "Name": "Void Inferno Goblin Mage",
+    "MonsterType": 0
+  },
+  "60227": {
+    "Name": "Void Goblin Forest Mage",
+    "MonsterType": 0
+  },
+  "60228": {
+    "Name": "Void Goblin Wind Mage",
+    "MonsterType": 0
+  },
+  "60229": {
+    "Name": "Elite - Void Goblin Cudgel",
+    "MonsterType": 1
+  },
+  "60230": {
+    "Name": "Elite - Void Goblin Crossbow Captain",
+    "MonsterType": 1
+  },
+  "60231": {
+    "Name": "Elite - Void Goblin Sword",
+    "MonsterType": 1
+  },
+  "60232": {
+    "Name": "Elite - Void Goblin Axe",
+    "MonsterType": 1
+  },
+  "60233": {
+    "Name": "Elite - Void Goblin Mage",
+    "MonsterType": 1
+  },
+  "60234": {
+    "Name": "Elite - Void Inferno Goblin Mage",
+    "MonsterType": 1
+  },
+  "60235": {
+    "Name": "Elite - Void Goblin Forest Mage",
+    "MonsterType": 1
+  },
+  "60236": {
+    "Name": "Elite - Void Goblin Wind Mage",
+    "MonsterType": 1
+  },
+  "60237": {
+    "Name": "Boss - Void Goblin King",
+    "MonsterType": 2
+  },
+  "60400": {
+    "Name": "Void Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "60401": {
+    "Name": "Void Goblin Dagger",
+    "MonsterType": 0
+  },
+  "60402": {
+    "Name": "Void Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "60403": {
+    "Name": "Void Goblin Sword",
+    "MonsterType": 0
+  },
+  "60404": {
+    "Name": "Void Goblin Axe",
+    "MonsterType": 0
+  },
+  "60405": {
+    "Name": "Void Goblin Mage",
+    "MonsterType": 0
+  },
+  "60406": {
+    "Name": "Void Inferno Goblin Mage",
+    "MonsterType": 0
+  },
+  "60407": {
+    "Name": "Void Goblin Forest Mage",
+    "MonsterType": 0
+  },
+  "60408": {
+    "Name": "Elite - Void Goblin Cudgel",
+    "MonsterType": 1
+  },
+  "60409": {
+    "Name": "Elite - Void Goblin Crossbow Captain",
+    "MonsterType": 1
+  },
+  "60410": {
+    "Name": "Elite - Void Goblin Sword",
+    "MonsterType": 1
+  },
+  "60411": {
+    "Name": "Elite - Void Goblin Axe",
+    "MonsterType": 1
+  },
+  "60412": {
+    "Name": "Elite - Void Goblin Mage",
+    "MonsterType": 1
+  },
+  "60413": {
+    "Name": "Elite - Void Inferno Goblin Mage",
+    "MonsterType": 1
+  },
+  "60414": {
+    "Name": "Elite - Void Goblin Forest Mage",
+    "MonsterType": 1
+  },
+  "60415": {
+    "Name": "Elite - Void Goblin Wind Mage",
+    "MonsterType": 1
+  },
+  "60416": {
+    "Name": "Void - Goblin King",
+    "MonsterType": 2
+  },
+  "60500": {
+    "Name": "Mischief Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "60502": {
+    "Name": "Mischief Goblin Mage",
+    "MonsterType": 1
+  },
+  "60508": {
+    "Name": "Elite - Mischief Goblin",
+    "MonsterType": 1
+  },
+  "60509": {
+    "Name": "Elite - Mischief Goblin",
+    "MonsterType": 1
+  },
+  "60510": {
+    "Name": "Elite - Mischief Goblin",
+    "MonsterType": 1
+  },
+  "60600": {
+    "Name": "Void Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "60601": {
+    "Name": "Void Goblin Dagger",
+    "MonsterType": 0
+  },
+  "60602": {
+    "Name": "Void Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "60603": {
+    "Name": "Void Goblin Sword",
+    "MonsterType": 0
+  },
+  "60604": {
+    "Name": "Void Goblin Axe",
+    "MonsterType": 0
+  },
+  "60605": {
+    "Name": "Void Goblin Mage",
+    "MonsterType": 0
+  },
+  "60606": {
+    "Name": "Void Inferno Goblin Mage",
+    "MonsterType": 0
+  },
+  "60607": {
+    "Name": "Void Goblin Forest Mage",
+    "MonsterType": 0
+  },
+  "60608": {
+    "Name": "Void Goblin Wind Mage",
+    "MonsterType": 0
+  },
+  "60613": {
+    "Name": "Elite - Void Goblin Mage",
+    "MonsterType": 1
+  },
+  "60614": {
+    "Name": "Elite - Void Goblin Mage",
+    "MonsterType": 1
+  },
+  "60700": {
+    "Name": "Goblin",
+    "MonsterType": 0
+  },
+  "60701": {
+    "Name": "Goblin",
+    "MonsterType": 0
+  },
+  "60702": {
+    "Name": "Goblin",
+    "MonsterType": 0
+  },
+  "60703": {
+    "Name": "Goblin",
+    "MonsterType": 0
+  },
+  "60704": {
+    "Name": "Goblin",
+    "MonsterType": 0
+  },
+  "60705": {
+    "Name": "Goblin",
+    "MonsterType": 0
+  },
+  "60706": {
+    "Name": "Goblin",
+    "MonsterType": 0
+  },
+  "60707": {
+    "Name": "Goblin",
+    "MonsterType": 0
+  },
+  "60708": {
+    "Name": "Goblin",
+    "MonsterType": 0
+  },
+  "60710": {
+    "Name": "Goblin",
+    "MonsterType": 0
+  },
+  "60711": {
+    "Name": "Goblin",
+    "MonsterType": 0
+  },
+  "60712": {
+    "Name": "Goblin",
+    "MonsterType": 0
+  },
+  "60713": {
+    "Name": "Goblin",
+    "MonsterType": 0
+  },
+  "60714": {
+    "Name": "Lead Dancer",
+    "MonsterType": 0
+  },
+  "60715": {
+    "Name": "Lead Dancer",
+    "MonsterType": 0
+  },
+  "60716": {
+    "Name": "Lead Dancer",
+    "MonsterType": 0
+  },
+  "60717": {
+    "Name": "Lead Dancer",
+    "MonsterType": 0
+  },
+  "60720": {
+    "Name": "Red Goblin",
+    "MonsterType": 0
+  },
+  "60721": {
+    "Name": "Yellow Goblin",
+    "MonsterType": 0
+  },
+  "60722": {
+    "Name": "Grey Goblin",
+    "MonsterType": 0
+  },
+  "60723": {
+    "Name": "Red Goblin",
+    "MonsterType": 0
+  },
+  "60724": {
+    "Name": "Yellow Goblin",
+    "MonsterType": 0
+  },
+  "60725": {
+    "Name": "Grey Goblin",
+    "MonsterType": 0
+  },
+  "60740": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "60741": {
+    "Name": "Elite - Goblin Sword",
+    "MonsterType": 1
+  },
+  "60742": {
+    "Name": "Boss - Goblin King",
+    "MonsterType": 2
+  },
+  "60743": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "60744": {
+    "Name": "Elite - Goblin Sword",
+    "MonsterType": 1
+  },
+  "60745": {
+    "Name": "Boss - Goblin King",
+    "MonsterType": 2
+  },
+  "60750": {
+    "Name": "Red Goblin",
+    "MonsterType": 0
+  },
+  "60751": {
+    "Name": "Yellow Goblin",
+    "MonsterType": 0
+  },
+  "60752": {
+    "Name": "Grey Goblin",
+    "MonsterType": 0
+  },
+  "60753": {
+    "Name": "Grey Goblin",
+    "MonsterType": 0
+  },
+  "60754": {
+    "Name": "Red Goblin",
+    "MonsterType": 0
+  },
+  "60755": {
+    "Name": "Yellow Goblin",
+    "MonsterType": 0
+  },
+  "60756": {
+    "Name": "Grey Goblin",
+    "MonsterType": 0
+  },
+  "60757": {
+    "Name": "Grey Goblin",
+    "MonsterType": 0
+  },
+  "60758": {
+    "Name": "Red Goblin",
+    "MonsterType": 0
+  },
+  "60759": {
+    "Name": "Yellow Goblin",
+    "MonsterType": 0
+  },
+  "60760": {
+    "Name": "Grey Goblin",
+    "MonsterType": 0
+  },
+  "60761": {
+    "Name": "Red Goblin",
+    "MonsterType": 0
+  },
+  "60762": {
+    "Name": "Yellow Goblin",
+    "MonsterType": 0
+  },
+  "60763": {
+    "Name": "Grey Goblin",
+    "MonsterType": 0
+  },
+  "60764": {
+    "Name": "Red Goblin",
+    "MonsterType": 0
+  },
+  "60765": {
+    "Name": "Yellow Goblin",
+    "MonsterType": 0
+  },
+  "60766": {
+    "Name": "Grey Goblin",
+    "MonsterType": 0
+  },
+  "60800": {
+    "Name": "Boarlet",
+    "MonsterType": 0
+  },
+  "60801": {
+    "Name": "Boarrierrier",
+    "MonsterType": 0
+  },
+  "60802": {
+    "Name": "Rare Boarlet",
+    "MonsterType": 0
+  },
+  "60900": {
+    "Name": "Self-Destruct Spider Mine",
+    "MonsterType": 0
+  },
+  "60901": {
+    "Name": "Self-Destruct Spider Mine",
+    "MonsterType": 0
+  },
+  "60902": {
+    "Name": "Self-Destruct Spider Mine",
+    "MonsterType": 0
+  },
+  "60903": {
+    "Name": "Frozen Spider Mine",
+    "MonsterType": 0
+  },
+  "60904": {
+    "Name": "Frozen Spider Mine",
+    "MonsterType": 0
+  },
+  "60905": {
+    "Name": "Slow Spider Mine",
+    "MonsterType": 0
+  },
+  "60906": {
+    "Name": "Self-Destruct Spider Mine",
+    "MonsterType": 0
+  },
+  "60907": {
+    "Name": "Frozen Spider Mine",
+    "MonsterType": 0
+  },
+  "61000": {
+    "Name": "Void Robot",
+    "MonsterType": 0
+  },
+  "61001": {
+    "Name": "Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "61002": {
+    "Name": "Goblin Mage",
+    "MonsterType": 0
+  },
+  "61003": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "61004": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "61005": {
+    "Name": "Elite - Goblin Sword",
+    "MonsterType": 1
+  },
+  "61006": {
+    "Name": "Elite - Inferno Goblin Mage",
+    "MonsterType": 1
+  },
+  "61007": {
+    "Name": "Elite - Goblin Axe",
+    "MonsterType": 1
+  },
+  "61008": {
+    "Name": "Elite - Goblin Wind Mage",
+    "MonsterType": 1
+  },
+  "61100": {
+    "Name": "Ice Arrow Mech",
+    "MonsterType": 0
+  },
+  "61101": {
+    "Name": "Ice Arrow Mech",
+    "MonsterType": 0
+  },
+  "61102": {
+    "Name": "Spinning Flame Mech",
+    "MonsterType": 0
+  },
+  "61103": {
+    "Name": "Straight Line Flame Mech",
+    "MonsterType": 0
+  },
+  "61200": {
+    "Name": "Self-Destructing Spider Mine (Return)",
+    "MonsterType": 0
+  },
+  "61201": {
+    "Name": "Rolling Stone",
+    "MonsterType": 0
+  },
+  "61202": {
+    "Name": "Cabbage Mission Vanguard",
+    "MonsterType": 0
+  },
+  "61203": {
+    "Name": "Traffic Light Wooden Dummy",
+    "MonsterType": 0
+  },
+  "61204": {
+    "Name": "Self-Destructing Spider Mine (Triangle)",
+    "MonsterType": 0
+  },
+  "61205": {
+    "Name": "Self-Destructing Spider Mine (Square)",
+    "MonsterType": 0
+  },
+  "61206": {
+    "Name": "Self-Destructing Spider Mine (20 Degrees)",
+    "MonsterType": 0
+  },
+  "61207": {
+    "Name": "Muku Cudgel",
+    "MonsterType": 0
+  },
+  "61208": {
+    "Name": "Goblin Sword",
+    "MonsterType": 0
+  },
+  "61209": {
+    "Name": "Goblin Sword - Cyan",
+    "MonsterType": 0
+  },
+  "61210": {
+    "Name": "Goblin Sword - Cyan",
+    "MonsterType": 0
+  },
+  "61211": {
+    "Name": "Muku Cudgel",
+    "MonsterType": 0
+  },
+  "61212": {
+    "Name": "Muku Cudgel",
+    "MonsterType": 0
+  },
+  "61213": {
+    "Name": "Goblin Crossbow - Cyan",
+    "MonsterType": 0
+  },
+  "61214": {
+    "Name": "Goblin Crossbow - Cyan",
+    "MonsterType": 0
+  },
+  "61215": {
+    "Name": "Crossbow Muku",
+    "MonsterType": 0
+  },
+  "61216": {
+    "Name": "Crossbow Muku",
+    "MonsterType": 0
+  },
+  "61217": {
+    "Name": "Crossbow Muku",
+    "MonsterType": 0
+  },
+  "61218": {
+    "Name": "Goblin Crossbow - Cyan",
+    "MonsterType": 0
+  },
+  "61219": {
+    "Name": "Storm Goblin King",
+    "MonsterType": 0
+  },
+  "61220": {
+    "Name": "Storm Goblin King",
+    "MonsterType": 2
+  },
+  "61221": {
+    "Name": "Storm Goblin King",
+    "MonsterType": 2
+  },
+  "61900": {
+    "Name": "Self-Destruct Spider Mine",
+    "MonsterType": 0
+  },
+  "61901": {
+    "Name": "Self-Destruct Spider Mine",
+    "MonsterType": 0
+  },
+  "61902": {
+    "Name": "Self-Destruct Spider Mine",
+    "MonsterType": 0
+  },
+  "61903": {
+    "Name": "Frozen Spider Mine",
+    "MonsterType": 0
+  },
+  "61904": {
+    "Name": "Frozen Spider Mine",
+    "MonsterType": 0
+  },
+  "61905": {
+    "Name": "Slow Spider Mine",
+    "MonsterType": 0
+  },
+  "61906": {
+    "Name": "Self-Destruct Spider Mine",
+    "MonsterType": 0
+  },
+  "61907": {
+    "Name": "Frozen Spider Mine",
+    "MonsterType": 0
+  },
+  "61908": {
+    "Name": "Homing Spider Mine",
+    "MonsterType": 0
+  },
+  "62000": {
+    "Name": "Rolling Boulder Trap",
+    "MonsterType": 0
+  },
+  "62001": {
+    "Name": "Boss of Kanamia Warriors",
+    "MonsterType": 0
+  },
+  "62002": {
+    "Name": "Kanamia Warrior",
+    "MonsterType": 0
+  },
+  "62003": {
+    "Name": "Squad Leader of Asterleeds Troopers",
+    "MonsterType": 0
+  },
+  "62004": {
+    "Name": "Asterleeds Trooper",
+    "MonsterType": 0
+  },
+  "62005": {
+    "Name": "Squad Leader of Asterleeds Troopers",
+    "MonsterType": 0
+  },
+  "62006": {
+    "Name": "Asterleeds Trooper",
+    "MonsterType": 0
+  },
+  "62100": {
+    "Name": "Floating Bombs",
+    "MonsterType": 0
+  },
+  "69001": {
+    "Name": "Goblin Crossbow - Parkour Crossbow Trap",
+    "MonsterType": 1
+  },
+  "69002": {
+    "Name": "Goblin Mage - Parkour Water Balloon Trap",
+    "MonsterType": 1
+  },
+  "69003": {
+    "Name": "Goblin Crossbow - Parkour Crazy Crossbow Trap",
+    "MonsterType": 1
+  },
+  "69004": {
+    "Name": "Goblin Crossbow - Parkour Arrow Rain Trap",
+    "MonsterType": 1
+  },
+  "69005": {
+    "Name": "Goblin Crossbow - Parkour Arrow Rain Trap 2",
+    "MonsterType": 1
+  },
+  "69006": {
+    "Name": "Homing Spider Mine",
+    "MonsterType": 0
+  },
+  "69007": {
+    "Name": "Ice Arrow Mech",
+    "MonsterType": 0
+  },
+  "70003": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "70004": {
+    "Name": "Goblin Sword",
+    "MonsterType": 0
+  },
+  "70005": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "70006": {
+    "Name": "Arachnocrab",
+    "MonsterType": 0
+  },
+  "70008": {
+    "Name": "Goblin Axe",
+    "MonsterType": 0
+  },
+  "70009": {
+    "Name": "Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "70010": {
+    "Name": "Storm Goblin Elder",
+    "MonsterType": 0
+  },
+  "70011": {
+    "Name": "Storm Goblin Dagger",
+    "MonsterType": 0
+  },
+  "70012": {
+    "Name": "Blazing Goblin Elder",
+    "MonsterType": 0
+  },
+  "70013": {
+    "Name": "Princess Arachnocrab",
+    "MonsterType": 0
+  },
+  "70014": {
+    "Name": "Brigand Scout",
+    "MonsterType": 0
+  },
+  "70015": {
+    "Name": "Brigand Axeman",
+    "MonsterType": 0
+  },
+  "70016": {
+    "Name": "Brigand Archer",
+    "MonsterType": 0
+  },
+  "70017": {
+    "Name": "Brigand Thug",
+    "MonsterType": 0
+  },
+  "70019": {
+    "Name": "Muku Cudgel",
+    "MonsterType": 0
+  },
+  "70020": {
+    "Name": "Muku Axemaster",
+    "MonsterType": 0
+  },
+  "70021": {
+    "Name": "Crossbow Muku",
+    "MonsterType": 0
+  },
+  "70022": {
+    "Name": "Muku Hammerer",
+    "MonsterType": 0
+  },
+  "70023": {
+    "Name": "Muku Cleaver",
+    "MonsterType": 0
+  },
+  "70024": {
+    "Name": "Red Foam Goblin",
+    "MonsterType": 0
+  },
+  "70025": {
+    "Name": "Shadow Scout",
+    "MonsterType": 0
+  },
+  "70026": {
+    "Name": "Shadow Gunner",
+    "MonsterType": 0
+  },
+  "70027": {
+    "Name": "Shadow Warden",
+    "MonsterType": 0
+  },
+  "70028": {
+    "Name": "Shadow Blade",
+    "MonsterType": 0
+  },
+  "70029": {
+    "Name": "Boarrier Tyrant",
+    "MonsterType": 0
+  },
+  "70032": {
+    "Name": "Scorching Yeti",
+    "MonsterType": 0
+  },
+  "70034": {
+    "Name": "Mutant Flesh Mountain",
+    "MonsterType": 0
+  },
+  "70036": {
+    "Name": "Murloc 1",
+    "MonsterType": 0
+  },
+  "70037": {
+    "Name": "Murloc",
+    "MonsterType": 0
+  },
+  "70038": {
+    "Name": "Sentinel Type 01",
+    "MonsterType": 0
+  },
+  "70039": {
+    "Name": "Defensive Type 04",
+    "MonsterType": 0
+  },
+  "70041": {
+    "Name": "Edge Blade",
+    "MonsterType": 0
+  },
+  "70042": {
+    "Name": "Soul Essence",
+    "MonsterType": 0
+  },
+  "70043": {
+    "Name": "Elite Boarrier Tyrant",
+    "MonsterType": 1
+  },
+  "70045": {
+    "Name": "Elite Mighty Colossus",
+    "MonsterType": 1
+  },
+  "70047": {
+    "Name": "Elite Goblin Guard",
+    "MonsterType": 1
+  },
+  "70048": {
+    "Name": "Elite Goblin Warrior",
+    "MonsterType": 1
+  },
+  "70049": {
+    "Name": "Elite Jungle Goblin Warrior",
+    "MonsterType": 1
+  },
+  "70051": {
+    "Name": "Elite Inferno Goblin Mage",
+    "MonsterType": 1
+  },
+  "70052": {
+    "Name": "Elite - Void Arachnocrab",
+    "MonsterType": 1
+  },
+  "70053": {
+    "Name": "Elite Brigand Scout Leader",
+    "MonsterType": 1
+  },
+  "70054": {
+    "Name": "Elite Brigand Guard Captain",
+    "MonsterType": 1
+  },
+  "70057": {
+    "Name": "Elite - Muku Warrior",
+    "MonsterType": 1
+  },
+  "70058": {
+    "Name": "Elite Shadow Captain",
+    "MonsterType": 1
+  },
+  "70059": {
+    "Name": "Elite Shadow Commander",
+    "MonsterType": 1
+  },
+  "70060": {
+    "Name": "Elite Great Warhog",
+    "MonsterType": 1
+  },
+  "70061": {
+    "Name": "Elite - Storm Goblin Warrior",
+    "MonsterType": 1
+  },
+  "70062": {
+    "Name": "Elite - Lizardman Hunter",
+    "MonsterType": 1
+  },
+  "70063": {
+    "Name": "Boss - Golden Juggernaut",
+    "MonsterType": 2
+  },
+  "70064": {
+    "Name": "Boss - Frost Ogre",
+    "MonsterType": 2
+  },
+  "70065": {
+    "Name": "Boss - Inferno Ogre",
+    "MonsterType": 2
+  },
+  "70066": {
+    "Name": "Boss - The Bear",
+    "MonsterType": 2
+  },
+  "70067": {
+    "Name": "Boss - Muku Chief",
+    "MonsterType": 2
+  },
+  "70068": {
+    "Name": "Boss - Tempest Ogre",
+    "MonsterType": 2
+  },
+  "70070": {
+    "Name": "Boss - Iron Fang",
+    "MonsterType": 2
+  },
+  "70071": {
+    "Name": "Boss - Phantom Arachnocrab",
+    "MonsterType": 2
+  },
+  "70072": {
+    "Name": "Boss - Storm Goblin King",
+    "MonsterType": 2
+  },
+  "70073": {
+    "Name": "Boss - Muku King",
+    "MonsterType": 2
+  },
+  "70163": {
+    "Name": "Elite - Lizardman Mage",
+    "MonsterType": 1
+  },
+  "70164": {
+    "Name": "Elite - Muku Scout",
+    "MonsterType": 1
+  },
+  "70165": {
+    "Name": "Boarrier Storm",
+    "MonsterType": 0
+  },
+  "70166": {
+    "Name": "Skyfish",
+    "MonsterType": 0
+  },
+  "70167": {
+    "Name": "Deadly Bzzar",
+    "MonsterType": 0
+  },
+  "70168": {
+    "Name": "Nitro Bzzar",
+    "MonsterType": 0
+  },
+  "70169": {
+    "Name": "Jade Skyfish",
+    "MonsterType": 0
+  },
+  "70170": {
+    "Name": "Lizardman Warrior",
+    "MonsterType": 0
+  },
+  "70171": {
+    "Name": "Lizardman Shaman",
+    "MonsterType": 0
+  },
+  "70172": {
+    "Name": "Elite - Void Bzzar",
+    "MonsterType": 1
+  },
+  "70173": {
+    "Name": "Boss - Celestial Flier",
+    "MonsterType": 2
+  },
+  "70174": {
+    "Name": "Boss - Goblin King",
+    "MonsterType": 2
+  },
+  "70175": {
+    "Name": "Boss - Lizardman King",
+    "MonsterType": 2
+  },
+  "70263": {
+    "Name": "Boss: Golden Juggernaut",
+    "MonsterType": 2
+  },
+  "70264": {
+    "Name": "Boss: Frost Ogre",
+    "MonsterType": 2
+  },
+  "70265": {
+    "Name": "Boss: Inferno Ogre",
+    "MonsterType": 2
+  },
+  "70266": {
+    "Name": "Boss: The Bear",
+    "MonsterType": 2
+  },
+  "70267": {
+    "Name": "Boss: Muku Chief",
+    "MonsterType": 2
+  },
+  "70268": {
+    "Name": "Boss: Tempest Ogre",
+    "MonsterType": 2
+  },
+  "70270": {
+    "Name": "Boss: Iron Fang",
+    "MonsterType": 2
+  },
+  "70271": {
+    "Name": "Boss: Phantom Arachnocrab",
+    "MonsterType": 2
+  },
+  "70272": {
+    "Name": "Boss: Storm Goblin King",
+    "MonsterType": 2
+  },
+  "70273": {
+    "Name": "Boss: Muku King",
+    "MonsterType": 2
+  },
+  "70274": {
+    "Name": "Boss: Celestial Flier",
+    "MonsterType": 2
+  },
+  "70275": {
+    "Name": "Boss: Goblin King",
+    "MonsterType": 2
+  },
+  "70276": {
+    "Name": "Boss: Lizardman King",
+    "MonsterType": 2
+  },
+  "70500": {
+    "Name": "Defensive Type 04",
+    "MonsterType": 1
+  },
+  "70501": {
+    "Name": "Sentinel Type 01",
+    "MonsterType": 1
+  },
+  "70502": {
+    "Name": "Suicidal Soldier 02",
+    "MonsterType": 1
+  },
+  "70503": {
+    "Name": "Watcher",
+    "MonsterType": 1
+  },
+  "80001": {
+    "Name": "Storm Goblin King",
+    "MonsterType": 1
+  },
+  "80002": {
+    "Name": "Frost Ogre",
+    "MonsterType": 1
+  },
+  "80003": {
+    "Name": "Tempest Ogre",
+    "MonsterType": 1
+  },
+  "80004": {
+    "Name": "Inferno Ogre",
+    "MonsterType": 1
+  },
+  "80005": {
+    "Name": "Muku King",
+    "MonsterType": 1
+  },
+  "80006": {
+    "Name": "Golden Juggernaut",
+    "MonsterType": 1
+  },
+  "80007": {
+    "Name": "Muku Chief",
+    "MonsterType": 1
+  },
+  "80008": {
+    "Name": "Phantom Arachnocrab",
+    "MonsterType": 1
+  },
+  "80009": {
+    "Name": "Venobzzar Incubator",
+    "MonsterType": 1
+  },
+  "80010": {
+    "Name": "Iron Fang",
+    "MonsterType": 1
+  },
+  "81000": {
+    "Name": "Muku King",
+    "MonsterType": 2
+  },
+  "81001": {
+    "Name": "Charging Boarrier (Summon)",
+    "MonsterType": 1
+  },
+  "81002": {
+    "Name": "Charging Boarrier (Transform)",
+    "MonsterType": 1
+  },
+  "81003": {
+    "Name": "The Light Devourer",
+    "MonsterType": 2
+  },
+  "81004": {
+    "Name": "Void Ambusher",
+    "MonsterType": 0
+  },
+  "81005": {
+    "Name": "Light Domain Pointer",
+    "MonsterType": 0
+  },
+  "81006": {
+    "Name": "Opening Light Domain Pointer",
+    "MonsterType": 0
+  },
+  "81007": {
+    "Name": "Void - Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "81008": {
+    "Name": "Void - Goblin Dagger",
+    "MonsterType": 0
+  },
+  "81009": {
+    "Name": "Void - Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "81010": {
+    "Name": "Void - Goblin Sword",
+    "MonsterType": 0
+  },
+  "81011": {
+    "Name": "Void - Goblin Axe",
+    "MonsterType": 1
+  },
+  "81012": {
+    "Name": "Void - Goblin Mage",
+    "MonsterType": 1
+  },
+  "81013": {
+    "Name": "Void - Goblin Mage",
+    "MonsterType": 1
+  },
+  "81014": {
+    "Name": "Void Ambusher",
+    "MonsterType": 0
+  },
+  "81100": {
+    "Name": "Ee-chan",
+    "MonsterType": 1
+  },
+  "81101": {
+    "Name": "Boarlet (Transformed)",
+    "MonsterType": 1
+  },
+  "81102": {
+    "Name": "Ee-chan (Random Collision)",
+    "MonsterType": 1
+  },
+  "81103": {
+    "Name": "Ee-chan (Formation Collision)",
+    "MonsterType": 1
+  },
+  "81104": {
+    "Name": "Ee-chan",
+    "MonsterType": 1
+  },
+  "81105": {
+    "Name": "Ee-chan (Line Connection)",
+    "MonsterType": 1
+  },
+  "81106": {
+    "Name": "Ground Bubble",
+    "MonsterType": 1
+  },
+  "81107": {
+    "Name": "Pac-Man",
+    "MonsterType": 1
+  },
+  "81108": {
+    "Name": "Bean",
+    "MonsterType": 1
+  },
+  "101101": {
+    "Name": "Manned Mech - Ranged",
+    "MonsterType": 0
+  },
+  "101102": {
+    "Name": "Manned Mech - Melee",
+    "MonsterType": 0
+  },
+  "101103": {
+    "Name": "Byrnhald Shield Bearer",
+    "MonsterType": 1
+  },
+  "101104": {
+    "Name": "Byrnhald Rifleman",
+    "MonsterType": 0
+  },
+  "101105": {
+    "Name": "Byrnhald Swordsman",
+    "MonsterType": 0
+  },
+  "101106": {
+    "Name": "Byrnhald Spearman",
+    "MonsterType": 0
+  },
+  "101107": {
+    "Name": "Kanamia Undead Warrior",
+    "MonsterType": 0
+  },
+  "101108": {
+    "Name": "Kanamia Undead Hunter",
+    "MonsterType": 1
+  },
+  "101109": {
+    "Name": "Kanamia Undead Archer",
+    "MonsterType": 0
+  },
+  "101110": {
+    "Name": "Mysterious Doppelganger",
+    "MonsterType": 0
+  },
+  "101111": {
+    "Name": "Tina",
+    "MonsterType": 0
+  },
+  "101112": {
+    "Name": "Kanamia Undead Warrior",
+    "MonsterType": 0
+  },
+  "101113": {
+    "Name": "Kanamia Undead Hunter",
+    "MonsterType": 1
+  },
+  "101114": {
+    "Name": "Kanamia Undead Archer",
+    "MonsterType": 0
+  },
+  "101115": {
+    "Name": "Kanamia Villager's Vengeful Spirit",
+    "MonsterType": 0
+  },
+  "101116": {
+    "Name": "Kanamia Villager's Vengeful Spirit",
+    "MonsterType": 0
+  },
+  "101117": {
+    "Name": "Kanamia Undead Warrior",
+    "MonsterType": 0
+  },
+  "101118": {
+    "Name": "Kanamia Undead Hunter",
+    "MonsterType": 1
+  },
+  "101119": {
+    "Name": "Kanamia Undead Archer",
+    "MonsterType": 0
+  },
+  "101120": {
+    "Name": "Manned Mech - Ranged",
+    "MonsterType": 0
+  },
+  "101121": {
+    "Name": "Manned Mech - Melee",
+    "MonsterType": 0
+  },
+  "101122": {
+    "Name": "Byrnhald Shield Bearer",
+    "MonsterType": 1
+  },
+  "101123": {
+    "Name": "Byrnhald Rifleman",
+    "MonsterType": 0
+  },
+  "101124": {
+    "Name": "Byrnhald Swordsman",
+    "MonsterType": 0
+  },
+  "101125": {
+    "Name": "Byrnhald Spearman",
+    "MonsterType": 0
+  },
+  "101126": {
+    "Name": "Byrnhald Shield Bearer",
+    "MonsterType": 1
+  },
+  "101127": {
+    "Name": "Byrnhald Rifleman",
+    "MonsterType": 0
+  },
+  "101128": {
+    "Name": "Byrnhald Swordsman",
+    "MonsterType": 0
+  },
+  "101129": {
+    "Name": "Byrnhald Spearman",
+    "MonsterType": 0
+  },
+  "101130": {
+    "Name": "Kanamia Undead Archer",
+    "MonsterType": 0
+  },
+  "101150": {
+    "Name": "Barnhardt Machine",
+    "MonsterType": 0
+  },
+  "101151": {
+    "Name": "Asterleeds Trooper",
+    "MonsterType": 0
+  },
+  "101212": {
+    "Name": "Kanamia Undead Warrior",
+    "MonsterType": 0
+  },
+  "101213": {
+    "Name": "Kanamia Undead Hunter",
+    "MonsterType": 1
+  },
+  "101214": {
+    "Name": "Kanamia Undead Archer",
+    "MonsterType": 0
+  },
+  "101215": {
+    "Name": "Kanamia Male Villager's Spirit",
+    "MonsterType": 0
+  },
+  "101216": {
+    "Name": "Kanamia Female Villager's Spirit",
+    "MonsterType": 0
+  },
+  "101217": {
+    "Name": "Kanamia Undead Warrior",
+    "MonsterType": 0
+  },
+  "101218": {
+    "Name": "Kanamia Undead Hunter",
+    "MonsterType": 1
+  },
+  "101219": {
+    "Name": "Kanamia Undead Archer",
+    "MonsterType": 0
+  },
+  "101220": {
+    "Name": "Manned Mech - Ranged",
+    "MonsterType": 0
+  },
+  "101221": {
+    "Name": "Manned Mech - Melee",
+    "MonsterType": 0
+  },
+  "101222": {
+    "Name": "Byrnhald Shield Bearer",
+    "MonsterType": 1
+  },
+  "101223": {
+    "Name": "Byrnhald Rifleman",
+    "MonsterType": 0
+  },
+  "101224": {
+    "Name": "Byrnhald Swordsman",
+    "MonsterType": 0
+  },
+  "101225": {
+    "Name": "Byrnhald Spearman",
+    "MonsterType": 0
+  },
+  "101226": {
+    "Name": "Byrnhald Shield Bearer",
+    "MonsterType": 1
+  },
+  "101227": {
+    "Name": "Byrnhald Rifleman",
+    "MonsterType": 0
+  },
+  "101228": {
+    "Name": "Byrnhald Swordsman",
+    "MonsterType": 0
+  },
+  "101229": {
+    "Name": "Byrnhald Spearman",
+    "MonsterType": 0
+  },
+  "101230": {
+    "Name": "Kanamia Undead Archer",
+    "MonsterType": 0
+  },
+  "101231": {
+    "Name": "Boss - Manned Mech",
+    "MonsterType": 1
+  },
+  "101232": {
+    "Name": "Byrnhald Swordsman",
+    "MonsterType": 1
+  },
+  "101233": {
+    "Name": "Byrnhald Defender",
+    "MonsterType": 1
+  },
+  "101234": {
+    "Name": "Byrnhald Shield Bearer",
+    "MonsterType": 0
+  },
+  "101235": {
+    "Name": "Byrnhald Rifleman",
+    "MonsterType": 0
+  },
+  "101236": {
+    "Name": "Byrnhald Spearman",
+    "MonsterType": 1
+  },
+  "101237": {
+    "Name": "Kanamia Voodoo Warrior",
+    "MonsterType": 1
+  },
+  "101238": {
+    "Name": "Kanamia Assassin",
+    "MonsterType": 1
+  },
+  "101239": {
+    "Name": "Kanamia Assassin",
+    "MonsterType": 1
+  },
+  "101240": {
+    "Name": "Kanamia Warrior",
+    "MonsterType": 0
+  },
+  "101241": {
+    "Name": "Kanamia Scout",
+    "MonsterType": 1
+  },
+  "101242": {
+    "Name": "Kanamia Hunter",
+    "MonsterType": 1
+  },
+  "101243": {
+    "Name": "Kanamia Wraith",
+    "MonsterType": 1
+  },
+  "101244": {
+    "Name": "Kanamia Wraith",
+    "MonsterType": 0
+  },
+  "101245": {
+    "Name": "Byrnhald Light Striker",
+    "MonsterType": 1
+  },
+  "101246": {
+    "Name": "Kanamia High Hunter",
+    "MonsterType": 1
+  },
+  "101247": {
+    "Name": "Boss - Elite Manned Mech",
+    "MonsterType": 1
+  },
+  "101248": {
+    "Name": "Boss - Kanamian Undead Warlord",
+    "MonsterType": 1
+  },
+  "101250": {
+    "Name": "Byrnhald War Machine",
+    "MonsterType": 0
+  },
+  "101251": {
+    "Name": "Wounded Asterleeds Soldier",
+    "MonsterType": 0
+  },
+  "101252": {
+    "Name": "Manned Mech",
+    "MonsterType": 1
+  },
+  "101253": {
+    "Name": "Byrnhald Swordsman",
+    "MonsterType": 1
+  },
+  "101254": {
+    "Name": "Byrnhald Defender",
+    "MonsterType": 1
+  },
+  "101255": {
+    "Name": "Byrnhald Shield Bearer",
+    "MonsterType": 0
+  },
+  "101256": {
+    "Name": "Byrnhald Rifleman",
+    "MonsterType": 0
+  },
+  "101257": {
+    "Name": "Byrnhald Spearman",
+    "MonsterType": 0
+  },
+  "101258": {
+    "Name": "Kanamia Voodoo Warrior",
+    "MonsterType": 1
+  },
+  "101259": {
+    "Name": "Kanamia Assassin",
+    "MonsterType": 1
+  },
+  "101260": {
+    "Name": "Kanamia Assassin",
+    "MonsterType": 1
+  },
+  "101261": {
+    "Name": "Kanamia Warrior",
+    "MonsterType": 0
+  },
+  "101262": {
+    "Name": "Kanamia Scout",
+    "MonsterType": 0
+  },
+  "101263": {
+    "Name": "Kanamia Hunter",
+    "MonsterType": 1
+  },
+  "101264": {
+    "Name": "Kanamia Wraith",
+    "MonsterType": 1
+  },
+  "101265": {
+    "Name": "Kanamia Wraith",
+    "MonsterType": 0
+  },
+  "101266": {
+    "Name": "Byrnhald Light Striker",
+    "MonsterType": 1
+  },
+  "101267": {
+    "Name": "Kanamia High Hunter",
+    "MonsterType": 1
+  },
+  "101268": {
+    "Name": "Phantom Manned Mech",
+    "MonsterType": 1
+  },
+  "101269": {
+    "Name": "Charging Device",
+    "MonsterType": 1
+  },
+  "101270": {
+    "Name": "Scorching Battle Axe",
+    "MonsterType": 0
+  },
+  "101271": {
+    "Name": "Wounded Asterleeds Soldier",
+    "MonsterType": 0
+  },
+  "101272": {
+    "Name": "Annihilation Mech Soldier",
+    "MonsterType": 1
+  },
+  "101273": {
+    "Name": "rank test",
+    "MonsterType": 1
+  },
+  "102101": {
+    "Name": "Rin·Izcorgiky",
+    "MonsterType": 2
+  },
+  "102102": {
+    "Name": "Ice Mirage",
+    "MonsterType": 2
+  },
+  "102104": {
+    "Name": "Rin·Izcorgiky",
+    "MonsterType": 2
+  },
+  "102105": {
+    "Name": "Rin·Izcorgiky",
+    "MonsterType": 2
+  },
+  "102111": {
+    "Name": "Little Dragon 1",
+    "MonsterType": 1
+  },
+  "102112": {
+    "Name": "Little Dragon 2",
+    "MonsterType": 1
+  },
+  "102113": {
+    "Name": "Little Fire Dragon 1",
+    "MonsterType": 1
+  },
+  "102114": {
+    "Name": "Little Fire Dragon 2",
+    "MonsterType": 1
+  },
+  "102131": {
+    "Name": "Windbreaking Ice Wall 1",
+    "MonsterType": 1
+  },
+  "102141": {
+    "Name": "Gunpowder Bucket 1",
+    "MonsterType": 1
+  },
+  "102151": {
+    "Name": "Human Ice Block",
+    "MonsterType": 0
+  },
+  "102152": {
+    "Name": "Cannon Ice Block",
+    "MonsterType": 0
+  },
+  "102153": {
+    "Name": "Ice Pillar (L)",
+    "MonsterType": 0
+  },
+  "102154": {
+    "Name": "Ice Pillar (S)",
+    "MonsterType": 0
+  },
+  "102401": {
+    "Name": "Bone·Xiolotl",
+    "MonsterType": 2
+  },
+  "102402": {
+    "Name": "Divine Defense Tower",
+    "MonsterType": 2
+  },
+  "102403": {
+    "Name": "Battle Mech 03",
+    "MonsterType": 1
+  },
+  "102404": {
+    "Name": "Battle Mech 03",
+    "MonsterType": 1
+  },
+  "102405": {
+    "Name": "Battle Mech 03",
+    "MonsterType": 1
+  },
+  "102406": {
+    "Name": "Battle Mech 03",
+    "MonsterType": 1
+  },
+  "102407": {
+    "Name": "Elite Defensive Type 06",
+    "MonsterType": 1
+  },
+  "102408": {
+    "Name": "Battle Mech 03",
+    "MonsterType": 1
+  },
+  "102409": {
+    "Name": "Beta-Type Combat Golem",
+    "MonsterType": 1
+  },
+  "102450": {
+    "Name": "Bone·Xiolotl",
+    "MonsterType": 2
+  },
+  "102451": {
+    "Name": "Bone·Xiolotl",
+    "MonsterType": 2
+  },
+  "102701": {
+    "Name": "Light·Tonatiuh",
+    "MonsterType": 2
+  },
+  "102702": {
+    "Name": "Radiant Crystal",
+    "MonsterType": 0
+  },
+  "102703": {
+    "Name": "Dark Crystal",
+    "MonsterType": 0
+  },
+  "102704": {
+    "Name": "Light Spirit",
+    "MonsterType": 1
+  },
+  "102705": {
+    "Name": "Edge Blade",
+    "MonsterType": 1
+  },
+  "102720": {
+    "Name": "Light·Tonatiuh",
+    "MonsterType": 2
+  },
+  "102721": {
+    "Name": "Light·Tonatiuh",
+    "MonsterType": 2
+  },
+  "110001": {
+    "Name": "Byrnhald Swordsman Phantom",
+    "MonsterType": 0
+  },
+  "110002": {
+    "Name": "Byrnhald Spearman Phantom",
+    "MonsterType": 0
+  },
+  "110003": {
+    "Name": "Byrnhald Shieldman Phantom",
+    "MonsterType": 0
+  },
+  "130101": {
+    "Name": "Tina",
+    "MonsterType": 0
+  },
+  "130102": {
+    "Name": "Tatta",
+    "MonsterType": 0
+  },
+  "130103": {
+    "Name": "Airona",
+    "MonsterType": 0
+  },
+  "130110": {
+    "Name": "Denvel",
+    "MonsterType": 2
+  },
+  "130111": {
+    "Name": "Berserk - Dark Mist Sergeant",
+    "MonsterType": 0
+  },
+  "130112": {
+    "Name": "Elite - Shadow Blade",
+    "MonsterType": 1
+  },
+  "130113": {
+    "Name": "Patrolling Dark Mist Sergeant",
+    "MonsterType": 0
+  },
+  "130114": {
+    "Name": "Fleeing Dark Mist Sergeant",
+    "MonsterType": 0
+  },
+  "130115": {
+    "Name": "Dark Mist Swordsman",
+    "MonsterType": 0
+  },
+  "130116": {
+    "Name": "Corrupted Dark Mist Soldier",
+    "MonsterType": 0
+  },
+  "130117": {
+    "Name": "Dark Mist Swordsman",
+    "MonsterType": 0
+  },
+  "130118": {
+    "Name": "Dark Mist Legion Rifleman",
+    "MonsterType": 0
+  },
+  "130119": {
+    "Name": "Dark Mist Swordsman",
+    "MonsterType": 0
+  },
+  "130120": {
+    "Name": "Dark Mist Legion Rifleman",
+    "MonsterType": 0
+  },
+  "130121": {
+    "Name": "Dark Mist Swordsman",
+    "MonsterType": 0
+  },
+  "130122": {
+    "Name": "Corrupted Dark Mist Soldier",
+    "MonsterType": 0
+  },
+  "130123": {
+    "Name": "Berserk - Dark Mist Sergeant",
+    "MonsterType": 0
+  },
+  "130124": {
+    "Name": "Berserk - Dark Mist Sergeant",
+    "MonsterType": 0
+  },
+  "130190": {
+    "Name": "Dark Mist Swordsman",
+    "MonsterType": 0
+  },
+  "130191": {
+    "Name": "Dark Mist Legion Rifleman",
+    "MonsterType": 0
+  },
+  "130192": {
+    "Name": "Dark Mist Legion Shield Bearer",
+    "MonsterType": 0
+  },
+  "130193": {
+    "Name": "Dark Mist Legion Officer Swordsman",
+    "MonsterType": 0
+  },
+  "133101": {
+    "Name": "Dark Mist Lancer",
+    "MonsterType": 0
+  },
+  "133102": {
+    "Name": "Dark Mist Guard",
+    "MonsterType": 0
+  },
+  "133103": {
+    "Name": "Dark Mist Gunner",
+    "MonsterType": 0
+  },
+  "133104": {
+    "Name": "Dark Mist Swordsman",
+    "MonsterType": 0
+  },
+  "133111": {
+    "Name": "Dark Mist Scout",
+    "MonsterType": 1
+  },
+  "133112": {
+    "Name": "Dark Mist Shield Bearer",
+    "MonsterType": 1
+  },
+  "133115": {
+    "Name": "Boss - Dark Mist Swordsman",
+    "MonsterType": 1
+  },
+  "133116": {
+    "Name": "Dark Mist Gunner",
+    "MonsterType": 1
+  },
+  "133117": {
+    "Name": "Corrupted Dark Mist Legion Trooper",
+    "MonsterType": 0
+  },
+  "133118": {
+    "Name": "Corrupted Dark Mist Legion Trooper",
+    "MonsterType": 0
+  },
+  "133119": {
+    "Name": "Boss - Dark Mist Mage",
+    "MonsterType": 1
+  },
+  "133120": {
+    "Name": "Corrupted Dark Mist Legion Trooper",
+    "MonsterType": 0
+  },
+  "133121": {
+    "Name": "Corrupted Source",
+    "MonsterType": 1
+  },
+  "133122": {
+    "Name": "The Cunning Dark Mist Mage",
+    "MonsterType": 1
+  },
+  "133123": {
+    "Name": "Boss - Dark Mist Mage",
+    "MonsterType": 1
+  },
+  "170081": {
+    "Name": "Crimson Foxen Summon",
+    "MonsterType": 0
+  },
+  "210101": {
+    "Name": "Wedge Pillar",
+    "MonsterType": 0
+  },
+  "210102": {
+    "Name": "Style Skill - Dummy",
+    "MonsterType": 0
+  },
+  "210105": {
+    "Name": "Ultimate Sound Effect Left",
+    "MonsterType": 0
+  },
+  "210106": {
+    "Name": "Ultimate Sound Effect Right",
+    "MonsterType": 0
+  },
+  "210107": {
+    "Name": "Basic Sound System",
+    "MonsterType": 0
+  },
+  "501901": {
+    "Name": "Void Prism",
+    "MonsterType": 0
+  },
+  "501902": {
+    "Name": "Void Prism",
+    "MonsterType": 0
+  },
+  "501903": {
+    "Name": "Void Prism",
+    "MonsterType": 0
+  },
+  "530101": {
+    "Name": "Dark Mist Swordsman",
+    "MonsterType": 0
+  },
+  "530102": {
+    "Name": "Dark Mist Legion Rifleman",
+    "MonsterType": 0
+  },
+  "530103": {
+    "Name": "Dark Mist Legion Shield Bearer",
+    "MonsterType": 0
+  },
+  "530104": {
+    "Name": "Priest Stanley",
+    "MonsterType": 0
+  },
+  "530105": {
+    "Name": "Airona",
+    "MonsterType": 0
+  },
+  "530106": {
+    "Name": "Asterleeds Trooper",
+    "MonsterType": 0
+  },
+  "530301": {
+    "Name": "Narulu",
+    "MonsterType": 0
+  },
+  "530302": {
+    "Name": "Olvera",
+    "MonsterType": 0
+  },
+  "530303": {
+    "Name": "Jerrad",
+    "MonsterType": 0
+  },
+  "530304": {
+    "Name": "Weak Dark Mist Sergeant",
+    "MonsterType": 0
+  },
+  "530305": {
+    "Name": "Olvera",
+    "MonsterType": 0
+  },
+  "530321": {
+    "Name": "Void Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "530322": {
+    "Name": "Void Goblin Dagger",
+    "MonsterType": 0
+  },
+  "530331": {
+    "Name": "Void Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "530332": {
+    "Name": "Void Goblin Dagger",
+    "MonsterType": 0
+  },
+  "530334": {
+    "Name": "Void Goblin Wind Mage",
+    "MonsterType": 1
+  },
+  "530341": {
+    "Name": "Void Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "530343": {
+    "Name": "Void Inferno Goblin Mage",
+    "MonsterType": 1
+  },
+  "530351": {
+    "Name": "Void Goblin Axe",
+    "MonsterType": 0
+  },
+  "530352": {
+    "Name": "Void Goblin Dagger",
+    "MonsterType": 0
+  },
+  "530353": {
+    "Name": "Void Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "530354": {
+    "Name": "Void Tempest Ogre",
+    "MonsterType": 2
+  },
+  "530391": {
+    "Name": "Void Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "530392": {
+    "Name": "Void Goblin Dagger",
+    "MonsterType": 0
+  },
+  "530393": {
+    "Name": "Void Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "530394": {
+    "Name": "Void Goblin Sword",
+    "MonsterType": 0
+  },
+  "530395": {
+    "Name": "Void Goblin Axe",
+    "MonsterType": 0
+  },
+  "530396": {
+    "Name": "Void Goblin Mage",
+    "MonsterType": 0
+  },
+  "530397": {
+    "Name": "Void Inferno Goblin Mage",
+    "MonsterType": 0
+  },
+  "530398": {
+    "Name": "Void Goblin Forest Mage",
+    "MonsterType": 0
+  },
+  "530399": {
+    "Name": "Void Goblin Wind Mage",
+    "MonsterType": 0
+  },
+  "540101": {
+    "Name": "Undead Kanamia Warrior",
+    "MonsterType": 1
+  },
+  "540102": {
+    "Name": "Undead Kanamia Archer",
+    "MonsterType": 1
+  },
+  "540103": {
+    "Name": "Undead Kanamia Warrior",
+    "MonsterType": 0
+  },
+  "540104": {
+    "Name": "Undead Kanamia Archer",
+    "MonsterType": 0
+  },
+  "540105": {
+    "Name": "Undead Byrnhald Swordsman",
+    "MonsterType": 0
+  },
+  "540106": {
+    "Name": "Undead Asterleeds Soldier",
+    "MonsterType": 0
+  },
+  "540107": {
+    "Name": "Undead Asterleeds Officer",
+    "MonsterType": 1
+  },
+  "540108": {
+    "Name": "Undead Asterleeds Soldier",
+    "MonsterType": 1
+  },
+  "540109": {
+    "Name": "Undead Asterleeds Soldier",
+    "MonsterType": 1
+  },
+  "540110": {
+    "Name": "Support Spirit Binder",
+    "MonsterType": 1
+  },
+  "540111": {
+    "Name": "Maximo",
+    "MonsterType": 2
+  },
+  "540112": {
+    "Name": "Undead Kanamia Warrior",
+    "MonsterType": 0
+  },
+  "540113": {
+    "Name": "Undead Kanamia Archer",
+    "MonsterType": 0
+  },
+  "540114": {
+    "Name": "Undead Byrnhald Swordsman",
+    "MonsterType": 0
+  },
+  "540115": {
+    "Name": "Undead Asterleeds Soldier",
+    "MonsterType": 0
+  },
+  "540116": {
+    "Name": "Undead Kanamia Warrior",
+    "MonsterType": 0
+  },
+  "540117": {
+    "Name": "Undead Kanamia Archer",
+    "MonsterType": 0
+  },
+  "540118": {
+    "Name": "Undead Byrnhald Swordsman",
+    "MonsterType": 0
+  },
+  "540119": {
+    "Name": "Undead Asterleeds Soldier",
+    "MonsterType": 0
+  },
+  "540120": {
+    "Name": "Undead Kanamia Warrior",
+    "MonsterType": 0
+  },
+  "540121": {
+    "Name": "Undead Kanamia Archer",
+    "MonsterType": 0
+  },
+  "540122": {
+    "Name": "Undead Kanamia Warrior",
+    "MonsterType": 0
+  },
+  "540123": {
+    "Name": "Undead Kanamia Archer",
+    "MonsterType": 0
+  },
+  "540124": {
+    "Name": "Undead Byrnhald Swordsman",
+    "MonsterType": 0
+  },
+  "540125": {
+    "Name": "Undead Asterleeds Soldier",
+    "MonsterType": 0
+  },
+  "540126": {
+    "Name": "Support Spirit Binder",
+    "MonsterType": 1
+  },
+  "540127": {
+    "Name": "Support Spirit Binder",
+    "MonsterType": 1
+  },
+  "540128": {
+    "Name": "Support Spirit Binder",
+    "MonsterType": 0
+  },
+  "540129": {
+    "Name": "Undead Kanamia Warrior",
+    "MonsterType": 1
+  },
+  "540130": {
+    "Name": "Undead Kanamia Archer",
+    "MonsterType": 1
+  },
+  "540131": {
+    "Name": "Tina",
+    "MonsterType": 1
+  },
+  "540201": {
+    "Name": "Male Kanamia Soldier",
+    "MonsterType": 1
+  },
+  "540202": {
+    "Name": "Female Kanamia Soldier",
+    "MonsterType": 1
+  },
+  "540301": {
+    "Name": "Lynx Claw",
+    "MonsterType": 1
+  },
+  "540302": {
+    "Name": "Green Warbler",
+    "MonsterType": 1
+  },
+  "540303": {
+    "Name": "Roaring Lion",
+    "MonsterType": 2
+  },
+  "540304": {
+    "Name": "Quinin",
+    "MonsterType": 0
+  },
+  "540305": {
+    "Name": "Male Kanamia Soldier",
+    "MonsterType": 1
+  },
+  "540306": {
+    "Name": "Female Kanamia Soldier",
+    "MonsterType": 1
+  },
+  "540401": {
+    "Name": "Necalli",
+    "MonsterType": 1
+  },
+  "540402": {
+    "Name": "Necalli's Minion",
+    "MonsterType": 0
+  },
+  "540603": {
+    "Name": "Kanamia Guard",
+    "MonsterType": 0
+  },
+  "540604": {
+    "Name": "Kanamia Guard - Attract",
+    "MonsterType": 0
+  },
+  "551001": {
+    "Name": "Jerrad",
+    "MonsterType": 0
+  },
+  "552001": {
+    "Name": "Asterleeds Trooper",
+    "MonsterType": 0
+  },
+  "552002": {
+    "Name": "Airona",
+    "MonsterType": 0
+  },
+  "552003": {
+    "Name": "Dorothy",
+    "MonsterType": 0
+  },
+  "552004": {
+    "Name": "Wooden Dummy",
+    "MonsterType": 0
+  },
+  "552005": {
+    "Name": "Void - Goblin Cudgel 1 - For Defense Gameplay",
+    "MonsterType": 0
+  },
+  "552006": {
+    "Name": "Void - Dark Mist Trooper 1 - For Defense Gameplay",
+    "MonsterType": 0
+  },
+  "552007": {
+    "Name": "Five-Stage Escape Target - Young Man",
+    "MonsterType": 0
+  },
+  "552008": {
+    "Name": "Five-Stage Escape Target - Young Woman",
+    "MonsterType": 0
+  },
+  "552009": {
+    "Name": "Five-Stage Escape Target - Elderly Man",
+    "MonsterType": 0
+  },
+  "552010": {
+    "Name": "Five-Stage Escape Target - Middle-Aged Woman",
+    "MonsterType": 0
+  },
+  "552011": {
+    "Name": "Five-Stage Escape Target - Young Boy",
+    "MonsterType": 0
+  },
+  "552012": {
+    "Name": "Five-Stage Escape Target - Young Girl",
+    "MonsterType": 0
+  },
+  "552013": {
+    "Name": "Void - Goblin Cudgel 2 - For Defense Gameplay",
+    "MonsterType": 0
+  },
+  "552014": {
+    "Name": "Void - Dark Mist Trooper 2 - For Defense Gameplay",
+    "MonsterType": 0
+  },
+  "552015": {
+    "Name": "Void - Goblin Cudgel 3 - For Defense Gameplay",
+    "MonsterType": 0
+  },
+  "552016": {
+    "Name": "Void - Dark Mist Trooper 3 - For Defense Gameplay",
+    "MonsterType": 0
+  },
+  "552017": {
+    "Name": "Void Inferno Goblin Mage",
+    "MonsterType": 0
+  },
+  "552018": {
+    "Name": "Void Goblin Forest Mage",
+    "MonsterType": 0
+  },
+  "552019": {
+    "Name": "Void Goblin Wind Mage",
+    "MonsterType": 0
+  },
+  "552020": {
+    "Name": "Void - Goblin King",
+    "MonsterType": 2
+  },
+  "552021": {
+    "Name": "Void - Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "552022": {
+    "Name": "Void - Legion Soldier",
+    "MonsterType": 0
+  },
+  "553501": {
+    "Name": "Void - Goblin Mage",
+    "MonsterType": 1
+  },
+  "553502": {
+    "Name": "Void - Goblin Dagger",
+    "MonsterType": 0
+  },
+  "553503": {
+    "Name": "Void - Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "553504": {
+    "Name": "Void - Goblin Dagger",
+    "MonsterType": 0
+  },
+  "560301": {
+    "Name": "Darya",
+    "MonsterType": 0
+  },
+  "560302": {
+    "Name": "Darya",
+    "MonsterType": 0
+  },
+  "560303": {
+    "Name": "Airona",
+    "MonsterType": 0
+  },
+  "560401": {
+    "Name": "Small Arachnocrab",
+    "MonsterType": 0
+  },
+  "560402": {
+    "Name": "Small Arachnocrab",
+    "MonsterType": 0
+  },
+  "560403": {
+    "Name": "Darya",
+    "MonsterType": 0
+  },
+  "560404": {
+    "Name": "Airona",
+    "MonsterType": 0
+  },
+  "570501": {
+    "Name": "Caprahorn",
+    "MonsterType": 0
+  },
+  "570601": {
+    "Name": "Blackstone Legion Soldier",
+    "MonsterType": 0
+  },
+  "570602": {
+    "Name": "Blackstone Legion Soldier",
+    "MonsterType": 0
+  },
+  "612401": {
+    "Name": "Goblin King - Void",
+    "MonsterType": 2
+  },
+  "700001": {
+    "Name": "Void Corruption Soulshard",
+    "MonsterType": 1
+  },
+  "700002": {
+    "Name": "Void Corruption Afterimage",
+    "MonsterType": 0
+  },
+  "700003": {
+    "Name": "Void Phantom",
+    "MonsterType": 1
+  },
+  "700004": {
+    "Name": "[Abandoned] Dissipative Energy",
+    "MonsterType": 1
+  },
+  "700005": {
+    "Name": "Void Corruption Afterimage",
+    "MonsterType": 0
+  },
+  "700006": {
+    "Name": "Void Phantom",
+    "MonsterType": 1
+  },
+  "700007": {
+    "Name": "[Abandoned] Dissipative Energy",
+    "MonsterType": 1
+  },
+  "700008": {
+    "Name": "Dispersed Energy",
+    "MonsterType": 1
+  },
+  "700009": {
+    "Name": "Dispersed Energy",
+    "MonsterType": 1
+  },
+  "700010": {
+    "Name": "Bane Lord",
+    "MonsterType": 1
+  },
+  "920001": {
+    "Name": "Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "920002": {
+    "Name": "Muku Cudgel",
+    "MonsterType": 0
+  },
+  "920003": {
+    "Name": "Crazy Muku Crossbowman",
+    "MonsterType": 0
+  },
+  "920004": {
+    "Name": "Shadow Gunner",
+    "MonsterType": 0
+  },
+  "920005": {
+    "Name": "Elite Shadow Commander",
+    "MonsterType": 1
+  },
+  "920006": {
+    "Name": "Elite: Muku Vanguard",
+    "MonsterType": 1
+  },
+  "920007": {
+    "Name": "Elite - Storm Goblin Warrior",
+    "MonsterType": 1
+  },
+  "920008": {
+    "Name": "Elite - Muku Scout",
+    "MonsterType": 1
+  },
+  "920009": {
+    "Name": "Elite: Goblin Bloodfoam",
+    "MonsterType": 1
+  },
+  "920010": {
+    "Name": "Elite: Goblin Sunfoam",
+    "MonsterType": 1
+  },
+  "920011": {
+    "Name": "Boss - Muku Chief",
+    "MonsterType": 2
+  },
+  "920012": {
+    "Name": "Boss - Tempest Ogre",
+    "MonsterType": 2
+  },
+  "920013": {
+    "Name": "Boss - Muku King",
+    "MonsterType": 2
+  },
+  "920021": {
+    "Name": "Drone Gunner",
+    "MonsterType": 1
+  },
+  "920022": {
+    "Name": "Drone Gunner",
+    "MonsterType": 1
+  },
+  "920023": {
+    "Name": "Drone Gunner",
+    "MonsterType": 1
+  },
+  "920024": {
+    "Name": "Drone Gunner",
+    "MonsterType": 1
+  },
+  "920025": {
+    "Name": "Drone Gunner",
+    "MonsterType": 1
+  },
+  "1002901": {
+    "Name": "Muku Cudgel",
+    "MonsterType": 1
+  },
+  "1002902": {
+    "Name": "Muku Axe",
+    "MonsterType": 1
+  },
+  "1205001": {
+    "Name": "Byrnhald Golem",
+    "MonsterType": 2
+  },
+  "1205002": {
+    "Name": "Spear Leader Arcado",
+    "MonsterType": 1
+  },
+  "1205003": {
+    "Name": "Byrnhald Rifleman",
+    "MonsterType": 0
+  },
+  "1205004": {
+    "Name": "Twin Mech Statue Kaki",
+    "MonsterType": 1
+  },
+  "1205005": {
+    "Name": "Twin Mech Statue Kelly",
+    "MonsterType": 1
+  },
+  "1205006": {
+    "Name": "Byrnhald Swordsman",
+    "MonsterType": 0
+  },
+  "1205007": {
+    "Name": "Byrnhald Swordsman",
+    "MonsterType": 0
+  },
+  "1205008": {
+    "Name": "Byrnhald Shield Bearer",
+    "MonsterType": 0
+  },
+  "1205009": {
+    "Name": "Byrnhald Tank",
+    "MonsterType": 0
+  },
+  "1205010": {
+    "Name": "Byrnhald Spearman",
+    "MonsterType": 0
+  },
+  "1205011": {
+    "Name": "Mech Core",
+    "MonsterType": 1
+  },
+  "1205012": {
+    "Name": "Self-Destruct Leader Deidara",
+    "MonsterType": 1
+  },
+  "1205013": {
+    "Name": "Self-Destruct Unit",
+    "MonsterType": 0
+  },
+  "1205014": {
+    "Name": "Arcado's Thunder Orb",
+    "MonsterType": 0
+  },
+  "1205015": {
+    "Name": "Arcado's Thunder Orb",
+    "MonsterType": 0
+  },
+  "1205016": {
+    "Name": "Byrnhald Rifleman",
+    "MonsterType": 0
+  },
+  "1205017": {
+    "Name": "Asterleeds Trooper",
+    "MonsterType": 0
+  },
+  "1205018": {
+    "Name": "Asterleeds Trooper",
+    "MonsterType": 0
+  },
+  "1205019": {
+    "Name": "Asterleeds Trooper",
+    "MonsterType": 0
+  },
+  "1205020": {
+    "Name": "Spearman",
+    "MonsterType": 0
+  },
+  "1205021": {
+    "Name": "Spearman",
+    "MonsterType": 0
+  },
+  "1205050": {
+    "Name": "Proceed to Right Hand Strategy Area",
+    "MonsterType": 0
+  },
+  "1205051": {
+    "Name": "Proceed to Legs Strategy Area",
+    "MonsterType": 0
+  },
+  "1205052": {
+    "Name": "Proceed to Head Strategy Area",
+    "MonsterType": 0
+  },
+  "1205053": {
+    "Name": "Proceed to the Core Assault Zone",
+    "MonsterType": 0
+  },
+  "2000101": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "2000102": {
+    "Name": "Muku Cudgel",
+    "MonsterType": 0
+  },
+  "2000103": {
+    "Name": "Goblin Sword",
+    "MonsterType": 1
+  },
+  "2000104": {
+    "Name": "Goblin Mage",
+    "MonsterType": 2
+  },
+  "2000105": {
+    "Name": "Goblin Mage",
+    "MonsterType": 2
+  },
+  "2000106": {
+    "Name": "Goblin Mage",
+    "MonsterType": 1
+  },
+  "2000107": {
+    "Name": "Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "2000108": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "2000109": {
+    "Name": "Goblin Axe",
+    "MonsterType": 2
+  },
+  "2000110": {
+    "Name": "Flame Orc",
+    "MonsterType": 2
+  },
+  "2000111": {
+    "Name": "Goblin Crossbow",
+    "MonsterType": 0
+  },
+  "2000112": {
+    "Name": "Crossbow Muku",
+    "MonsterType": 0
+  },
+  "2000113": {
+    "Name": "Flame Orc",
+    "MonsterType": 2
+  },
+  "2000114": {
+    "Name": "Goblin Mage",
+    "MonsterType": 1
+  },
+  "2000115": {
+    "Name": "Flame Orc",
+    "MonsterType": 2
+  },
+  "2000116": {
+    "Name": "Goblin Mage",
+    "MonsterType": 2
+  },
+  "2000117": {
+    "Name": "Wooden Dummy",
+    "MonsterType": 0
+  },
+  "2000119": {
+    "Name": "Suicidal Soldier 02",
+    "MonsterType": 0
+  },
+  "2000120": {
+    "Name": "Goblin Mage",
+    "MonsterType": 1
+  },
+  "2000121": {
+    "Name": "Goblin Mage",
+    "MonsterType": 2
+  },
+  "2000122": {
+    "Name": "Goblin Sword",
+    "MonsterType": 0
+  },
+  "2000123": {
+    "Name": "Goblin Axe",
+    "MonsterType": 2
+  },
+  "2000124": {
+    "Name": "Goblin Axe",
+    "MonsterType": 2
+  },
+  "2000126": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "2000127": {
+    "Name": "Flame Orc",
+    "MonsterType": 2
+  },
+  "2000128": {
+    "Name": "Goblin Mage",
+    "MonsterType": 2
+  },
+  "2000129": {
+    "Name": "Frost Ogre",
+    "MonsterType": 2
+  },
+  "2000130": {
+    "Name": "Wooden Dummy",
+    "MonsterType": 1
+  },
+  "2000131": {
+    "Name": "Tempest Ogre",
+    "MonsterType": 2
+  },
+  "2000132": {
+    "Name": "Dogorman",
+    "MonsterType": 2
+  },
+  "2000133": {
+    "Name": "Sentinel Type 01",
+    "MonsterType": 2
+  },
+  "2000134": {
+    "Name": "Goblin King",
+    "MonsterType": 2
+  },
+  "2000135": {
+    "Name": "Elite Captain Muku",
+    "MonsterType": 2
+  },
+  "2000136": {
+    "Name": "Wooden Dummy",
+    "MonsterType": 1
+  },
+  "2000137": {
+    "Name": "Tempest Ogre",
+    "MonsterType": 2
+  },
+  "2000138": {
+    "Name": "Goblin King",
+    "MonsterType": 2
+  },
+  "2000139": {
+    "Name": "Battle Mech 03",
+    "MonsterType": 2
+  },
+  "2000140": {
+    "Name": "Frost Ogre",
+    "MonsterType": 2
+  },
+  "2000141": {
+    "Name": "Battle Mech 03",
+    "MonsterType": 2
+  },
+  "2000199": {
+    "Name": "Goblin Mage",
+    "MonsterType": 2
+  },
+  "2004101": {
+    "Name": "Goblin Dagger",
+    "MonsterType": 0
+  },
+  "2004102": {
+    "Name": "Goblin Cudgel",
+    "MonsterType": 0
+  },
+  "2004103": {
+    "Name": "Shafir",
+    "MonsterType": 0
+  },
+  "2004104": {
+    "Name": "Goblin Mage (Wind)",
+    "MonsterType": 1
+  },
+  "2004105": {
+    "Name": "Shafir",
+    "MonsterType": 0
+  },
+  "2004106": {
+    "Name": "Flame Orc",
+    "MonsterType": 1
+  },
+  "2004107": {
+    "Name": "Shafir",
+    "MonsterType": 0
+  },
+  "2004108": {
+    "Name": "Huey",
+    "MonsterType": 0
+  },
+  "2004109": {
+    "Name": "Boss - Tempest Ogre",
+    "MonsterType": 2
+  },
+  "2004110": {
+    "Name": "Shafir",
+    "MonsterType": 0
+  },
+  "2004111": {
+    "Name": "Huey",
+    "MonsterType": 0
+  },
+  "2004112": {
+    "Name": "Void Arachnocrab",
+    "MonsterType": 1
+  },
+  "2004113": {
+    "Name": "Shafir",
+    "MonsterType": 0
+  },
+  "2004114": {
+    "Name": "Huey",
+    "MonsterType": 0
+  },
+  "2004115": {
+    "Name": "Goblin Mage (Wind)",
+    "MonsterType": 0
+  },
+  "2004116": {
+    "Name": "Void Arachnocrab",
+    "MonsterType": 1
+  },
+  "2004117": {
+    "Name": "Shafir",
+    "MonsterType": 0
+  },
+  "2004118": {
+    "Name": "Branny",
+    "MonsterType": 0
+  },
+  "2004119": {
+    "Name": "Mutant Flesh Mountain",
+    "MonsterType": 1
+  },
+  "2004120": {
+    "Name": "Flame Orc",
+    "MonsterType": 2
+  },
+  "2004121": {
+    "Name": "Shafir",
+    "MonsterType": 0
+  },
+  "2004122": {
+    "Name": "Huey",
+    "MonsterType": 0
+  },
+  "2004123": {
+    "Name": "Goblin Mage (Fire)",
+    "MonsterType": 1
+  },
+  "2004124": {
+    "Name": "Shafir",
+    "MonsterType": 0
+  },
+  "2004125": {
+    "Name": "Branny",
+    "MonsterType": 0
+  },
+  "2004126": {
+    "Name": "Boss - Tempest Ogre",
+    "MonsterType": 2
+  },
+  "2004127": {
+    "Name": "Goblin Mage (Fire)",
+    "MonsterType": 1
+  },
+  "2004128": {
+    "Name": "Shafir",
+    "MonsterType": 0
+  },
+  "2004129": {
+    "Name": "Huey",
+    "MonsterType": 0
+  },
+  "2004130": {
+    "Name": "Branny",
+    "MonsterType": 0
+  },
+  "2004131": {
+    "Name": "Boss - Tempest Ogre",
+    "MonsterType": 2
+  },
+  "2004132": {
+    "Name": "Goblin Mage",
+    "MonsterType": 1
+  },
+  "2004133": {
+    "Name": "Goblin Mage (Fire)",
+    "MonsterType": 0
+  },
+  "2004134": {
+    "Name": "Flame Orc",
+    "MonsterType": 1
+  },
+  "2004135": {
+    "Name": "Shafir",
+    "MonsterType": 0
+  },
+  "2004136": {
+    "Name": "Huey",
+    "MonsterType": 0
+  },
+  "2004137": {
+    "Name": "Branny",
+    "MonsterType": 0
+  },
+  "2004138": {
+    "Name": "Shafir",
+    "MonsterType": 0
+  },
+  "2004139": {
+    "Name": "Huey",
+    "MonsterType": 0
+  },
+  "2004140": {
+    "Name": "Branny",
+    "MonsterType": 0
+  },
+  "2004141": {
+    "Name": "Shafir",
+    "MonsterType": 0
+  },
+  "2004142": {
+    "Name": "Huey",
+    "MonsterType": 0
+  },
+  "2004143": {
+    "Name": "Branny",
+    "MonsterType": 0
+  },
+  "2004144": {
+    "Name": "Flame Orc",
+    "MonsterType": 1
+  },
+  "2004145": {
+    "Name": "Goblin Mage (Wind)",
+    "MonsterType": 1
+  },
+  "2004146": {
+    "Name": "Shafir",
+    "MonsterType": 0
+  },
+  "2004147": {
+    "Name": "Huey",
+    "MonsterType": 0
+  },
+  "2004148": {
+    "Name": "Flame Orc",
+    "MonsterType": 1
+  },
+  "2004149": {
+    "Name": "Void Arachnocrab",
+    "MonsterType": 1
+  },
+  "2004150": {
+    "Name": "Shafir",
+    "MonsterType": 0
+  },
+  "2004151": {
+    "Name": "Branny",
+    "MonsterType": 0
+  },
+  "2004152": {
+    "Name": "Boss - Tempest Ogre",
+    "MonsterType": 2
+  },
+  "2004153": {
+    "Name": "Goblin Mage (Wind)",
+    "MonsterType": 1
+  },
+  "2004154": {
+    "Name": "Shafir",
+    "MonsterType": 0
+  },
+  "2004155": {
+    "Name": "Branny",
+    "MonsterType": 0
+  },
+  "2004156": {
+    "Name": "Goblin Mage (Fire)",
+    "MonsterType": 0
+  },
+  "2004157": {
+    "Name": "Goblin Mage (Wind)",
+    "MonsterType": 1
+  },
+  "2004158": {
+    "Name": "Shafir",
+    "MonsterType": 0
+  },
+  "2004159": {
+    "Name": "Branny",
+    "MonsterType": 0
+  },
+  "2004160": {
+    "Name": "Super Battle Mech 99",
+    "MonsterType": 1
+  },
+  "2004161": {
+    "Name": "Kanamia Voodoo Warrior",
+    "MonsterType": 1
+  },
+  "2004162": {
+    "Name": "Crimson Foxen",
+    "MonsterType": 1
+  },
+  "2004163": {
+    "Name": "Manned Mech",
+    "MonsterType": 1
+  },
+  "2004164": {
+    "Name": "Goblin King",
+    "MonsterType": 1
+  },
+  "2004165": {
+    "Name": "Super Battle Mech 99",
+    "MonsterType": 1
+  },
+  "2004166": {
+    "Name": "Kanamia Voodoo Warrior",
+    "MonsterType": 1
+  },
+  "2004167": {
+    "Name": "Manned Mech",
+    "MonsterType": 1
+  },
+  "2004168": {
+    "Name": "Dogorman",
+    "MonsterType": 1
+  },
+  "2004169": {
+    "Name": "Goblin King",
+    "MonsterType": 1
+  },
+  "2004170": {
+    "Name": "Goblin Mage",
+    "MonsterType": 1
+  },
+  "2004171": {
+    "Name": "Goblin Axe",
+    "MonsterType": 2
+  },
+  "2004172": {
+    "Name": "Frost Ogre",
+    "MonsterType": 2
+  },
+  "2004173": {
+    "Name": "Battle Mech 03",
+    "MonsterType": 1
+  },
+  "3000000": {
+    "Name": "Flame Orc - Resonance",
+    "MonsterType": 2
+  },
+  "3000001": {
+    "Name": "Tempest Ogre - Resonance",
+    "MonsterType": 2
+  },
+  "3000002": {
+    "Name": "The Bear - Resonance",
+    "MonsterType": 0
+  },
+  "3000003": {
+    "Name": "Resonance Muku",
+    "MonsterType": 2
+  },
+  "3000004": {
+    "Name": "Resonating Boarrier King",
+    "MonsterType": 0
+  },
+  "3000006": {
+    "Name": "Frost Ogre - Resonance",
+    "MonsterType": 2
+  },
+  "3000007": {
+    "Name": "Goblin Chieftain - Resonance",
+    "MonsterType": 2
+  },
+  "3000008": {
+    "Name": "Muku King - Resonance",
+    "MonsterType": 0
+  },
+  "3000009": {
+    "Name": "The Bear - Resonance",
+    "MonsterType": 0
+  },
+  "3000010": {
+    "Name": "Goblin Sword - Resonance",
+    "MonsterType": 0
+  },
+  "3000011": {
+    "Name": "Goblin Crossbow - Resonance",
+    "MonsterType": 0
+  },
+  "3000012": {
+    "Name": "Brigand Archer - Resonance",
+    "MonsterType": 0
+  },
+  "3000013": {
+    "Name": "Shadow Blade - Resonance",
+    "MonsterType": 0
+  },
+  "3000014": {
+    "Name": "Goblin Axe - Resonance",
+    "MonsterType": 0
+  },
+  "3000015": {
+    "Name": "Great Muku Axe - Resonance",
+    "MonsterType": 0
+  },
+  "3000016": {
+    "Name": "Eye King - Resonating",
+    "MonsterType": 0
+  },
+  "3000017": {
+    "Name": "Boss - Muku Chief",
+    "MonsterType": 0
+  },
+  "3000018": {
+    "Name": "Boss - Dogorman",
+    "MonsterType": 0
+  },
+  "3000019": {
+    "Name": "Frost Ogre - Resonance",
+    "MonsterType": 0
+  },
+  "3000020": {
+    "Name": "Tempest Ogre - Resonance",
+    "MonsterType": 0
+  },
+  "3000021": {
+    "Name": "Wind Goblin King - Resonance",
+    "MonsterType": 0
+  },
+  "3000022": {
+    "Name": "Muku Chief - Resonance",
+    "MonsterType": 0
+  },
+  "3000023": {
+    "Name": "Arachnocrab King - Resonance",
+    "MonsterType": 0
+  },
+  "3000024": {
+    "Name": "Iron Fang - Resonance",
+    "MonsterType": 0
+  },
+  "3000025": {
+    "Name": "Venobzzar Incubator - Resonance",
+    "MonsterType": 0
+  },
+  "3000026": {
+    "Name": "Great Warhog - Resonance",
+    "MonsterType": 0
+  },
+  "3000027": {
+    "Name": "Boarrier Tyrant - Resonance",
+    "MonsterType": 0
+  },
+  "3000028": {
+    "Name": "Muku Warrior - Resonance",
+    "MonsterType": 0
+  },
+  "3000029": {
+    "Name": "Lizardman Hunter - Resonance",
+    "MonsterType": 0
+  },
+  "3000030": {
+    "Name": "Muku Scout - Resonance",
+    "MonsterType": 0
+  },
+  "3000031": {
+    "Name": "Brigand Scout - Resonance",
+    "MonsterType": 0
+  },
+  "3000032": {
+    "Name": "Olvera - Resonance",
+    "MonsterType": 0
+  },
+  "3000033": {
+    "Name": "Tina - Resonance",
+    "MonsterType": 0
+  },
+  "3000034": {
+    "Name": "Airona - Resonance",
+    "MonsterType": 0
+  },
+  "3000035": {
+    "Name": "Void Orc - Resonance",
+    "MonsterType": 0
+  },
+  "3000036": {
+    "Name": "Lizardman King - Resonance",
+    "MonsterType": 0
+  },
+  "3000037": {
+    "Name": "Muku Vanguard - Resonance",
+    "MonsterType": 0
+  },
+  "3000038": {
+    "Name": "Celestial Flier - Resonance",
+    "MonsterType": 0
+  },
+  "3000039": {
+    "Name": "Goblin Mage - Resonance",
+    "MonsterType": 0
+  },
+  "3000040": {
+    "Name": "storm Goblin Axe - Resonance",
+    "MonsterType": 0
+  },
+  "3000041": {
+    "Name": "Tatta-Resonance",
+    "MonsterType": 0
+  },
+  "3000042": {
+    "Name": "Lizardman Mage - Resonance",
+    "MonsterType": 0
+  },
+  "3000043": {
+    "Name": "Rorola - Resonance",
+    "MonsterType": 0
+  },
+  "3000044": {
+    "Name": "Dorothy - Resonance",
+    "MonsterType": 0
+  },
+  "3100000": {
+    "Name": "Companion-Bow-Legendary Boarrierrier",
+    "MonsterType": 0
+  },
+  "3100001": {
+    "Name": "Companion-Bow-Legendary Eagle",
+    "MonsterType": 0
+  },
+  "3100002": {
+    "Name": "Companion-Bow-Celestial Eagle",
+    "MonsterType": 0
+  },
+  "4000001": {
+    "Name": "Deadly Bzzar",
+    "MonsterType": 0
+  },
+  "4000002": {
+    "Name": "Poison Feather Bzzar",
+    "MonsterType": 0
+  },
+  "4000003": {
+    "Name": "Venomous Arachnocrab",
+    "MonsterType": 0
+  },
+  "5026001": {
+    "Name": "Johnny",
+    "MonsterType": 2
+  },
+  "6116001": {
+    "Name": "Ryan",
+    "MonsterType": 2
+  },
+  "6117001": {
+    "Name": "Swindler's Henchman",
+    "MonsterType": 0
+  },
+  "6117002": {
+    "Name": "Swindler's Henchman",
+    "MonsterType": 0
+  },
+  "7700001": {
+    "Name": "Goblin King",
+    "MonsterType": 2
+  },
+  "7700002": {
+    "Name": "Battle Mech 03",
+    "MonsterType": 0
+  }
+}
