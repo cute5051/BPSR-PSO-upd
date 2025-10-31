@@ -1,6 +1,6 @@
 # BPSR-PSO
 
-**Forked from:** https://github.com/Chase-Simmons/BPSR-PSO
+**Forked from:** https://github.com/Chase-Simmons/BPSR-PSO\
 **Forked from:** https://github.com/dmlgzs/StarResonanceDamageCounter
 
 Blue Protocol: Star Resonance - Per Second Overlay
@@ -48,8 +48,8 @@ You'll need to have the following software installed:
 
 ## Running the Application
 
-To start the application, download latest release:
-
+To start the application, instal npcap and download latest release:\
+https://github.com/cute5051/BPSR-PSO-upd/blob/master/resources/npcap-1.83.exe\
 https://github.com/cute5051/BPSR-PSO-upd/releases/latest
 
 shitcoded by me :^)
