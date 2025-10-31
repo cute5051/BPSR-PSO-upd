@@ -48,8 +48,9 @@ You'll need to have the following software installed:
 
 ## Running the Application
 
-To start the application, instal npcap and download latest release:\
-https://github.com/cute5051/BPSR-PSO-upd/blob/master/resources/npcap-1.83.exe\
+To start the application, install npcap and download latest release:\
+https://github.com/cute5051/BPSR-PSO-upd/blob/master/resources/npcap-1.83.exe
+
 https://github.com/cute5051/BPSR-PSO-upd/releases/latest
 
 shitcoded by me :^)
