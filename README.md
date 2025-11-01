@@ -53,7 +53,7 @@ https://github.com/cute5051/BPSR-PSO-upd/blob/master/resources/npcap-1.83.exe
 
 https://github.com/cute5051/BPSR-PSO-upd/releases/latest
 
-##ps
+## p.s.
 shitcoded by me for me :^)
 made it look like shinra meter from tera online
 
