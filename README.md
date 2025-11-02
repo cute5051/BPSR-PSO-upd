@@ -53,10 +53,6 @@ https://github.com/cute5051/BPSR-PSO-upd/blob/master/resources/npcap-1.83.exe
 
 https://github.com/cute5051/BPSR-PSO-upd/releases/latest
 
-## p.s.
-shitcoded by me for me :^)
-made it look like shinra meter from tera online
-
 ## Image
 
 Main window\
@@ -70,3 +66,8 @@ Settings in Main window\
 
 Skill details window(open by clicking on the block with dps)\
 ![skills-details.png](resources/skills-details.png)
+
+## p.s.
+
+shitcoded by me for me :^)
+made it look like shinra meter from tera online

@@ -50,8 +50,8 @@ jobs:
                   draft: false
                   prerelease: false
                   body: |
-                      Релиз ${{ github.ref_name }}
-                      Собрано: ${{ github.event.head_commit.timestamp }}
+                      Release ${{ github.ref_name }}
+                      Created: ${{ github.event.head_commit.timestamp }}
                   files: |
                       artifacts/**/*
               env:

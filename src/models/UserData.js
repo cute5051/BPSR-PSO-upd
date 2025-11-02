@@ -92,12 +92,12 @@ export class UserData {
      * @param {boolean} [isCauseLucky] - 是否造成幸运
      * @param {number} hpLessenValue - 生命值减少量
      */
-    addDamage(skillId, element, damage, isCrit, isLucky, isCauseLucky, hpLessenValue = 0, startTime) {
+    addDamage(skillId, damageSource, element, damage, isCrit, isLucky, isCauseLucky, hpLessenValue = 0, startTime) {
         this._touch();
         this.damageStats.addRecord(damage, isCrit, isLucky, hpLessenValue, startTime);
         // 记录技能使用情况
         if (!this.skillUsage.has(skillId)) {
-            this.skillUsage.set(skillId, new StatisticData('Dmg', element));
+            this.skillUsage.set(skillId, new StatisticData('Dmg', element, damageSource));
         }
         this.skillUsage.get(skillId).addRecord(damage, isCrit, isCauseLucky, hpLessenValue);
         this.skillUsage.get(skillId).realtimeWindow.length = 0;
@@ -205,13 +205,13 @@ export class UserData {
             const luckyRate = stat.count.total > 0 ? luckyCount / stat.count.total : 0;
             const name = skillConfig[skillId % 1000000000]?.name ?? skillId % 1000000000;
             const icon = skillConfig[skillId % 1000000000]?.icon ?? skillId % 1000000000;
-            const elementype = stat.element;
 
             skills[skillId] = {
                 displayName: name,
                 displayIcon: icon,
+                damageSource: stat.damageSource,
                 type: stat.type,
-                elementype: elementype,
+                elementype: stat.element,
                 totalDamage: stat.stats.total,
                 totalCount: stat.count.total,
                 critCount: stat.count.critical,
@@ -239,30 +239,41 @@ export class UserData {
 
                     if (temp.has(typeEnum)) {
                         const stat = temp.get(typeEnum);
-                        const critCount = stat.count.critical;
-                        const luckyCount = stat.count.lucky;
-                        const critRate = stat.count.total > 0 ? critCount / stat.count.total : 0;
-                        const luckyRate = stat.count.total > 0 ? luckyCount / stat.count.total : 0;
-                        const name = skillConfig[typeEnum % 1000000000]?.name ?? typeEnum % 1000000000;
-                        const icon = skillConfig[typeEnum % 1000000000]?.icon;
-                        if (icon && !firstIcon) firstIcon = icon;
-                        const elementype = stat.element;
+                        /**
+                         * stat.damageSource - EDamageSource.
+                         * damageAttr.DamageType - 1 - skill, 2 - buff, 3 - bullet
+                         */
+                        if (
+                            (damageAttr.DamageType === 1 && stat.damageSource === 0) ||
+                            (damageAttr.DamageType === 2 && stat.damageSource === 2) ||
+                            (damageAttr.DamageType === 3 && stat.damageSource === 1)
+                        ) {
+                            const critCount = stat.count.critical;
+                            const luckyCount = stat.count.lucky;
+                            const critRate = stat.count.total > 0 ? critCount / stat.count.total : 0;
+                            const luckyRate = stat.count.total > 0 ? luckyCount / stat.count.total : 0;
+                            const name = skillConfig[typeEnum % 1000000000]?.name ?? typeEnum % 1000000000;
+                            const icon = skillConfig[typeEnum % 1000000000]?.icon;
+                            if (icon && !firstIcon) firstIcon = icon;
+                            const elementype = stat.element;
 
-                        damageBreakdown[typeEnum] = {
-                            displayName: name,
-                            displayIcon: icon,
-                            type: stat.type,
-                            elementype: elementype,
-                            totalDamage: stat.stats.total,
-                            totalCount: stat.count.total,
-                            critCount: stat.count.critical,
-                            luckyCount: stat.count.lucky,
-                            critRate: critRate,
-                            luckyRate: luckyRate,
-                            damageBreakdown: { ...stat.stats },
-                            countBreakdown: { ...stat.count },
-                        };
-                        temp.delete(typeEnum);
+                            damageBreakdown[typeEnum] = {
+                                displayName: `${name} [${stat.damageSource === 0 ? 'Skill' : stat.damageSource === 1 ? 'Bullet' : 'Buff'}]`,
+                                displayIcon: icon,
+                                type: stat.type,
+                                elementype: elementype,
+                                damageSource: stat.damageSource,
+                                totalDamage: stat.stats.total,
+                                totalCount: stat.count.total,
+                                critCount: stat.count.critical,
+                                luckyCount: stat.count.lucky,
+                                critRate: critRate,
+                                luckyRate: luckyRate,
+                                damageBreakdown: { ...stat.stats },
+                                countBreakdown: { ...stat.count },
+                            };
+                            temp.delete(typeEnum);
+                        }
                     }
                 }
             }

@@ -483,9 +483,12 @@ function updateAppTitleDropdown(targets) {
 }
 
 async function selectTargetData(targetUid) {
-    isPauseProcessData = true;
     const response = await fetch(`http://${SERVER_URL}/api/data/${targetUid}`);
     const result = await response.json();
+    isPauseProcessData = true;
+    if (currentTargetUid === result.currentTargetUid) {
+        isPauseProcessData = false;
+    }
     if (result.code === 0) {
         processDataUpdate(result);
     }

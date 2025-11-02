@@ -222,7 +222,18 @@ class UserDataManager {
         return targetFight.users.get(userUid);
     }
 
-    addDamage(uid, skillId, element, damage, isCrit, isLucky, isCauseLucky, hpLessenValue = 0, targetUid) {
+    addDamage(
+        uid,
+        skillId,
+        damageSource,
+        element,
+        damage,
+        isCrit,
+        isLucky,
+        isCauseLucky,
+        hpLessenValue = 0,
+        targetUid
+    ) {
         if (config.IS_PAUSED) return;
         this.checkTimeoutClear();
         if (uid === this.currentPlayerUid) {
@@ -231,7 +242,17 @@ class UserDataManager {
         const targetFight = this.getTargetFight(targetUid);
         targetFight.lastUpdateTime = Date.now();
         const user = this.getUserBattleData(targetUid, uid);
-        user.addDamage(skillId, element, damage, isCrit, isLucky, isCauseLucky, hpLessenValue, targetFight.startTime);
+        user.addDamage(
+            skillId,
+            damageSource,
+            element,
+            damage,
+            isCrit,
+            isLucky,
+            isCauseLucky,
+            hpLessenValue,
+            targetFight.startTime
+        );
     }
 
     addHealing(uid, skillId, element, healing, isCrit, isLucky, isCauseLucky, targetUid) {
@@ -558,7 +579,8 @@ class UserDataManager {
             index = parseInt(targetUid.substring(i + 1));
         }
         updUid = parseInt(updUid);
-        let targetFight = this.targetFights.get(updUid);
+        const sizeOfHist = this.targetFightsHistory.get(updUid)?.length;
+        let targetFight = this.targetFights.get(updUid) || this.targetFightsHistory.get(updUid)[sizeOfHist - 1];
         if (!isNaN(index)) {
             targetFight = this.targetFightsHistory.get(updUid)[index];
         }
@@ -748,6 +770,7 @@ class UserDataManager {
                 const fightsArray = this.targetFightsHistory.get(targetUid);
                 fightsArray.push(targetFight);
             }
+            this.currentTargetUid = 0;
             this.targetFights.delete(targetUid);
         }
     }

@@ -233,6 +233,9 @@ export class PacketProcessor {
                 this._processEnemyAttrs(targetUid.toNumber(), attrCollection.Attrs, targetUuid.toNumber());
             }
         }
+        // if (aoiSyncDelta.PassiveSkillInfos) {
+        //     logger.info(aoiSyncDelta.PassiveSkillInfos);
+        // }
 
         //buffs
         const buffInfos = aoiSyncDelta.BuffInfos;
@@ -276,9 +279,7 @@ export class PacketProcessor {
         if (!skillEffect || !skillEffect.Damages) {
             return;
         }
-        // if (skillEffect) {
-        //     logger.info(skillEffect);
-        // }
+        // logger.info(skillEffect);
         for (const syncDamageInfo of skillEffect.Damages) {
             const skillId = syncDamageInfo.OwnerId;
             if (!skillId) {
@@ -295,7 +296,7 @@ export class PacketProcessor {
 
             // if (attackerUuid.toNumber() === 35842554) {
             //     logger.info(syncDamageInfo);
-            //     logger.info(skillEffect);
+            //     // logger.info(skillEffect);
             // }
             const value = syncDamageInfo.Value;
             const luckyValue = syncDamageInfo.LuckyValue;
@@ -311,7 +312,7 @@ export class PacketProcessor {
             const isLucky = !!luckyValue;
             const hpLessenValue = syncDamageInfo.HpLessenValue != null ? syncDamageInfo.HpLessenValue : Long.ZERO;
             const damageElement = getDamageElement(syncDamageInfo.Property);
-            const damageSource = syncDamageInfo.DamageSource ?? 0;
+            const damageSource = syncDamageInfo.DamageSource || 0;
 
             if (isTargetPlayer) {
                 if (isHeal) {
@@ -326,7 +327,12 @@ export class PacketProcessor {
                         targetUid.toNumber()
                     );
                 } else {
-                    // userDataManager.addTakenDamage(targetUid.toNumber(), damage.toNumber(), isDead, attackerUuid.toNumber());
+                    userDataManager.addTakenDamage(
+                        targetUid.toNumber(),
+                        damage.toNumber(),
+                        isDead,
+                        attackerUuid.toNumber()
+                    );
                 }
                 if (isDead) {
                     userDataManager.setAttrKV(targetUid.toNumber(), 'hp', 0);
@@ -336,6 +342,7 @@ export class PacketProcessor {
                     userDataManager.addDamage(
                         attackerUuid.toNumber(),
                         skillId,
+                        damageSource,
                         damageElement,
                         damage.toNumber(),
                         isCrit,

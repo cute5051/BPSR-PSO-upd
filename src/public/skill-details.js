@@ -8,21 +8,35 @@ let currentTab = 'damage';
 // Different column configurations for each tab
 const tabColumns = {
     damage: {
-        headers: ['Skill Name', 'Dmg %', 'Total Dmg', 'Hits', 'HPM', 'Crit Rate', 'Crit Min', 'Crit Avg', 'Crit Max', 'Normal Min', 'Normal Avg', 'Normal Max', 'Lucky Rate'],
-        types: ['Dmg']
+        headers: [
+            'Skill Name',
+            'Dmg %',
+            'Total Dmg',
+            'Hits',
+            'HPM',
+            'Crit Rate',
+            'Crit Min',
+            'Crit Avg',
+            'Crit Max',
+            'Normal Min',
+            'Normal Avg',
+            'Normal Max',
+            'Lucky Rate',
+        ],
+        types: ['Dmg'],
     },
     healing: {
-        headers: ['Skill Name', 'Healing %', 'Total Healing', 'Heals', 'HealPM', 'Avg Heal', 'Crit Rate', 'Lucky Rate'],
-        types: ['Heal']
+        headers: ['Skill Name', 'Healing %', 'Total Healing', 'Heals', 'HealPM', 'Crit Rate', 'Lucky Rate'],
+        types: ['Heal'],
     },
     buffs: {
         headers: ['Name', 'Uptime %', 'Uptime in seconds'],
-        types: ['Buff']
+        types: ['Buff'],
     },
     all: {
         headers: ['Skill Name', 'Type', 'Total', 'Hits', 'Hits/Min', 'Crit Rate', 'Lucky Rate'],
-        types: ['Dmg', 'Heal']
-    }
+        types: ['Dmg', 'Heal'],
+    },
 };
 
 function formatNumber(num) {
@@ -42,7 +56,7 @@ function calculateSkillStats(skill) {
     const critCount = skill.countBreakdown?.critical || 0;
     const luckyCount = skill.countBreakdown?.lucky || 0;
     const normalCount = skill.countBreakdown?.normal || 0;
-    
+
     const totalDamage = totalCount > 0 ? skill.damageBreakdown.total : 0;
     const criticalDamage = totalCount > 0 ? skill.damageBreakdown.critical : 0;
     const normalDamage = totalCount > 0 ? skill.damageBreakdown.normal : 0;
@@ -54,7 +68,7 @@ function calculateSkillStats(skill) {
     const criticalMax = totalCount > 0 ? skill.damageBreakdown.criticalMax : 0;
     const critRate = totalCount > 0 ? (critCount / totalCount) * 100 : 0;
     const luckyRate = totalCount > 0 ? (luckyCount / totalCount) * 100 : 0;
-    
+
     return {
         totalDamage,
         criticalDamage,
@@ -70,7 +84,7 @@ function calculateSkillStats(skill) {
         totalCount,
         critCount,
         luckyCount,
-        normalCount
+        normalCount,
     };
 }
 
@@ -80,9 +94,9 @@ function filterSkillsByTab(skills) {
     for (const [typeEnum, skillGroup] of Object.entries(skills)) {
         for (const [skillId, skill] of Object.entries(skillGroup.groupedSkills)) {
             if (!config.types.includes(skill.type)) continue;
-            
-            let shouldInclude = (skill.totalDamage > 0 || skill.totalCount > 0);
-            
+
+            let shouldInclude = skill.totalDamage > 0 || skill.totalCount > 0;
+
             if (shouldInclude) {
                 if (!result[typeEnum]) {
                     result[typeEnum] = {
@@ -95,7 +109,7 @@ function filterSkillsByTab(skills) {
             }
         }
     }
-    
+
     return result;
 }
 
@@ -106,10 +120,10 @@ function getTotalForCurrentTab(skills) {
 function updateTableHeaders() {
     const tableHeader = document.getElementById('skillTableHeader');
     const config = tabColumns[currentTab];
-    
+
     tableHeader.innerHTML = `
         <tr>
-            ${config.headers.map(header => `<th>${header}</th>`).join('')}
+            ${config.headers.map((header) => `<th>${header}</th>`).join('')}
         </tr>
     `;
 }
@@ -118,29 +132,30 @@ function renderSkillTable() {
     const tableBody = document.getElementById('skillTableBody');
     const playerName = document.getElementById('playerName');
     const totalInfoElement = document.getElementById('totalInfo');
-    
+
     updateTableHeaders();
-    
+
     if (!playerData || !playerData.skills) {
-        tableBody.innerHTML = '<tr><td colspan="8" style="text-align: center; padding: 20px; color: #b0b0b0;">No skill data available</td></tr>';
+        tableBody.innerHTML =
+            '<tr><td colspan="8" style="text-align: center; padding: 20px; color: #b0b0b0;">No skill data available</td></tr>';
         return;
     }
-    
+
     playerName.textContent = `${playerData.name}`;
-    
+
     const skillsWithData = filterSkillsByTab(playerData.skills);
     if (skillsWithData.length === 0) {
         const messages = {
             damage: 'No damage skills used',
-            healing: 'No healing skills used', 
-            all: 'No skill usage data'
+            healing: 'No healing skills used',
+            all: 'No skill usage data',
         };
         tableBody.innerHTML = `<tr><td colspan="${tabColumns[currentTab].headers.length}" style="text-align: center; padding: 20px; color: #b0b0b0;">${messages[currentTab]}</td></tr>`;
         return;
     }
-    
+
     tableBody.innerHTML = '';
-    
+
     const professionId = playerData.professionId;
 
     const sortedGroups = Object.entries(skillsWithData)
@@ -160,11 +175,11 @@ function renderSkillTable() {
                 criticalMax: 0,
                 normalMin: 0,
                 normalAvg: 0,
-                normalMax: 0
+                normalMax: 0,
             };
-            
+
             let groupSkillCount = 0;
-            
+
             for (const [skillId, skill] of Object.entries(groupedSkills)) {
                 const stats = calculateSkillStats(skill);
                 groupStats.totalDamage += stats.totalDamage;
@@ -175,20 +190,26 @@ function renderSkillTable() {
                 groupStats.normalCount += stats.normalCount;
                 groupStats.critRate += stats.critRate;
                 groupStats.luckyRate += stats.luckyRate;
-                groupStats.criticalMin = groupStats.criticalMin === 0 ? stats.criticalMin : Math.min(groupStats.criticalMin, stats.criticalMin);
+                groupStats.criticalMin =
+                    groupStats.criticalMin === 0
+                        ? stats.criticalMin
+                        : Math.min(groupStats.criticalMin, stats.criticalMin);
                 groupStats.criticalMax = Math.max(groupStats.criticalMax, stats.criticalMax);
-                groupStats.normalMin = groupStats.normalMin === 0 ? stats.normalMin : Math.min(groupStats.normalMin, stats.normalMin);
+                groupStats.normalMin =
+                    groupStats.normalMin === 0 ? stats.normalMin : Math.min(groupStats.normalMin, stats.normalMin);
                 groupStats.normalMax = Math.max(groupStats.normalMax, stats.normalMax);
                 groupSkillCount++;
             }
-            
+
             if (groupSkillCount > 0) {
                 groupStats.critRate /= groupSkillCount;
                 groupStats.luckyRate /= groupSkillCount;
-                groupStats.criticalAvg = groupStats.criticalDamage > 0 ? groupStats.criticalDamage / groupStats.critCount : 0;
-                groupStats.normalAvg = groupStats.normalDamage > 0 ? groupStats.normalDamage / groupStats.normalCount : 0;
+                groupStats.criticalAvg =
+                    groupStats.criticalDamage > 0 ? groupStats.criticalDamage / groupStats.critCount : 0;
+                groupStats.normalAvg =
+                    groupStats.normalDamage > 0 ? groupStats.normalDamage / groupStats.normalCount : 0;
             }
-            
+
             return {
                 typeEnum,
                 groupDisplayName: groupData.name,
@@ -197,7 +218,7 @@ function renderSkillTable() {
                 groupStats,
             };
         })
-        .sort((a, b) => b.groupStats.totalDamage - a.groupStats.totalDamage); 
+        .sort((a, b) => b.groupStats.totalDamage - a.groupStats.totalDamage);
 
     const totalDamage = sortedGroups.reduce((sum, groupData) => sum + groupData.groupStats.totalDamage, 0);
 
@@ -214,12 +235,12 @@ function renderSkillTable() {
     for (const group of sortedGroups) {
         const { typeEnum, groupDisplayName, groupDisplayIcon, groupedSkills, groupStats } = group;
         const groupDamagePercent = totalDamage > 0 ? ((groupStats.totalDamage / totalDamage) * 100).toFixed(1) : '0';
-        
+
         const groupRow = document.createElement('tr');
         groupRow.className = 'group-main-row';
         groupRow.setAttribute('data-expanded', 'false');
         groupRow.setAttribute('data-group-type', groupDisplayName);
-        
+
         if (currentTab === 'damage') {
             groupRow.innerHTML = `
                 <td class="expand-toggle group-name">
@@ -241,7 +262,7 @@ function renderSkillTable() {
             `;
         } else if (currentTab === 'healing') {
             groupRow.innerHTML = `
-                <td class="expand-toggle group-name">▶ ${groupDisplayName}</td>
+                <td class="expand-toggle group-name">${groupDisplayName}</td>
                 <td>${groupDamagePercent}%</td>
                 <td>${formatNumber(groupStats.totalDamage)}</td>
                 <td>${groupStats.totalCount}</td>
@@ -251,7 +272,7 @@ function renderSkillTable() {
             `;
         } else {
             groupRow.innerHTML = `
-                <td class="expand-toggle group-name">▶ ${groupDisplayName}</td>
+                <td class="expand-toggle group-name">${groupDisplayName}</td>
                 <td>${groupDisplayName}</td>
                 <td>${formatNumber(groupStats.totalDamage)}</td>
                 <td>${groupStats.totalCount}</td>
@@ -273,38 +294,37 @@ function renderSkillTable() {
         }
         tableBody.appendChild(groupRow);
 
+        const sortedSkills = Object.entries(groupedSkills).sort((a, b) => a[1].totalDamage - b[1].totalDamage);
 
-        
-        const sortedSkills = Object.entries(groupedSkills)
-            .sort((a, b) => a[1].totalDamage - b[1].totalDamage);
-        
-        groupRow.addEventListener('click', function(e) {
+        groupRow.addEventListener('click', function (e) {
             if (e.target.classList.contains('expand-toggle') || e.target.closest('.expand-toggle')) {
                 return;
             }
             const isExpanded = this.getAttribute('data-expanded') === 'true';
             const groupType = this.getAttribute('data-group-type');
-            
+
             if (isExpanded) {
                 this.setAttribute('data-expanded', 'false');
                 // this.querySelector('.expand-toggle').textContent = '▶';
-                this.querySelector('.skill-name').textContent = `▶${groupType}`;
-                
-                const detailRows = this.parentNode.querySelectorAll(`tr.skill-detail-row[data-group-type="${groupType}"]`);
-                detailRows.forEach(row => row.remove());
+                this.querySelector('.skill-name').textContent = `▶ ${groupType}`;
+
+                const detailRows = this.parentNode.querySelectorAll(
+                    `tr.skill-detail-row[data-group-type="${groupType}"]`
+                );
+                detailRows.forEach((row) => row.remove());
             } else {
                 this.setAttribute('data-expanded', 'true');
                 // this.querySelector('.expand-toggle').textContent = '▼';
                 this.querySelector('.skill-name').textContent = `▼ ${groupType}`;
-                
+
                 for (const [skillId, skill] of sortedSkills) {
                     const stats = calculateSkillStats(skill);
                     const damagePercent = totalDamage > 0 ? ((skill.totalDamage / totalDamage) * 100).toFixed(1) : '0';
-                    
+
                     const detailRow = document.createElement('tr');
                     detailRow.className = 'skill-detail-row';
                     detailRow.setAttribute('data-group-type', groupDisplayName);
-                    
+
                     if (currentTab === 'damage') {
                         detailRow.innerHTML = `
                             <td>
@@ -345,7 +365,7 @@ function renderSkillTable() {
                             <td>${stats.luckyRate.toFixed(1)}%</td>
                         `;
                     }
-                    
+
                     const skillNameCell = detailRow.querySelector('.skill-name');
                     if (skillNameCell) {
                         skillNameCell.addEventListener('mouseenter', (e) => showSkillTooltip(e, skill, skillId));
@@ -357,14 +377,14 @@ function renderSkillTable() {
                             }
                         });
                     }
-                    
+
                     this.parentNode.insertBefore(detailRow, this.nextSibling);
                 }
             }
         });
-        
+
         const expandToggle = groupRow.querySelector('.expand-toggle');
-        expandToggle.addEventListener('click', function(e) {
+        expandToggle.addEventListener('click', function (e) {
             e.stopPropagation();
             groupRow.click();
         });
@@ -374,35 +394,35 @@ function renderSkillTable() {
 function renderBuffTable() {
     const tableBody = document.getElementById('skillTableBody');
     const totalInfoElement = document.getElementById('totalInfo');
-    
+
     // Update table headers for buffs tab
     updateTableHeaders();
-    
+
     if (!buffsData || !buffsData.buffs || Object.keys(buffsData.buffs).length === 0) {
-        tableBody.innerHTML = '<tr><td colspan="8" style="text-align: center; padding: 20px; color: #b0b0b0;">No buff data available</td></tr>';
+        tableBody.innerHTML =
+            '<tr><td colspan="8" style="text-align: center; padding: 20px; color: #b0b0b0;">No buff data available</td></tr>';
         if (totalInfoElement) {
             totalInfoElement.textContent = 'Total Buffs: 0';
         }
         return;
     }
-    
+
     const buffs = buffsData.buffs;
-    const buffsArray = Object.entries(buffs);
-    
+    const buffsArray = Object.entries(buffs).sort((a, b) => b[1].uptime - a[1].uptime);
+
     tableBody.innerHTML = '';
-    
+
     // Calculate fight duration for stats
     const fightDurationMs = lastUpdateTime - fightStartTime;
     const fightDurationSeconds = fightDurationMs / 1000;
-    
-    if (totalInfoElement) {//Total Buffs: ${buffsArray.length}. 
+
+    if (totalInfoElement) {
         totalInfoElement.textContent = `Fight time: ${fightDurationSeconds}`;
     }
-    
-    buffsArray.forEach(([buffId, buff]) => {        
-        
+
+    buffsArray.forEach(([buffId, buff]) => {
         const row = document.createElement('tr');
-        
+
         row.innerHTML = `
             <td class="skill-name">${buff.buffName || `Buff ${buffId}`}</td>
             <td>${buff.uptime.toFixed(1)}%</td>
@@ -420,7 +440,7 @@ function renderBuffTable() {
                 }
             });
         }
-        
+
         tableBody.appendChild(row);
     });
 }
@@ -428,17 +448,17 @@ function renderBuffTable() {
 function showSkillTooltip(event, skill, skillId) {
     const tooltip = document.getElementById('skillTooltip');
     if (!tooltip) return;
-    
+
     // Get skill description - you might need to adjust this based on your data structure
     const description = skill.description || skill.tooltip || skill.buffDesc || 'No description available';
-    
+
     tooltip.innerHTML = `
         <div class="skill-description">${description}</div>
         <div class="skill-id">Skill ID: ${skillId}</div>
     `;
-    
+
     tooltip.classList.add('show');
-    
+
     // Position the tooltip
     positionTooltip(event, tooltip);
 }
@@ -457,34 +477,34 @@ function positionTooltip(event, tooltip) {
     const tooltipHeight = tooltip.offsetHeight;
     const windowWidth = window.innerWidth;
     const windowHeight = window.innerHeight;
-    
+
     let x = mouseX + 15;
     let y = mouseY + 15;
-    
+
     // Adjust if tooltip would go off the right edge
     if (x + tooltipWidth > windowWidth) {
         x = mouseX - tooltipWidth - 15;
     }
-    
+
     // Adjust if tooltip would go off the bottom edge
     if (y + tooltipHeight > windowHeight) {
         y = mouseY - tooltipHeight - 15;
     }
-    
+
     tooltip.style.left = x + 'px';
     tooltip.style.top = y + 'px';
 }
 
 function switchTab(tabName) {
     currentTab = tabName;
-    
+
     // Update active tab styling
-    document.querySelectorAll('.tab').forEach(tab => {
+    document.querySelectorAll('.tab').forEach((tab) => {
         tab.classList.remove('active');
     });
     document.querySelector(`.tab[data-tab="${tabName}"]`).classList.add('active');
-    
-    if (tabName != "buffs") {
+
+    if (tabName != 'buffs') {
         renderSkillTable();
     } else {
         window.electronAPI.requestBuffsData({
@@ -519,11 +539,11 @@ window.electronAPI.onSkillDetailsData((data) => {
 });
 
 document.addEventListener('DOMContentLoaded', () => {
-    document.querySelectorAll('.tab').forEach(tab => {
-        tab.addEventListener('click', function() {
+    document.querySelectorAll('.tab').forEach((tab) => {
+        tab.addEventListener('click', function () {
             switchTab(this.getAttribute('data-tab'));
         });
     });
-    
+
     renderSkillTable();
 });

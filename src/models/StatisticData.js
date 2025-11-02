@@ -1,7 +1,8 @@
 export class StatisticData {
-    constructor(type, element) {
+    constructor(type, element, damageSource) {
         this.type = type || '';
         this.element = element || '';
+        this.damageSource = damageSource || 0;
         this.stats = {
             normal: 0,
             normalMin: 0,
