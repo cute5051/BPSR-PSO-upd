@@ -28,8 +28,9 @@ jobs:
                   VERSION=${GITHUB_REF#refs/tags/v}
                   echo "version=$VERSION" >> $GITHUB_OUTPUT
                   echo "Using version: $VERSION"
-                      - name: Install dependencies
-                        run: npm install
+
+            - name: Install dependencies
+              run: npm install
 
             - name: Run make using package.json script
               run: npm run make
