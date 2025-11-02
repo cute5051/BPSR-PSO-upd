@@ -22,11 +22,19 @@ jobs:
                   node-version: '22.20.0'
                   cache: 'npm'
 
-            - name: Install dependencies
-              run: npm install
+            - name: Extract version from tag
+              id: get_version
+              run: |
+                  VERSION=${GITHUB_REF#refs/tags/v}
+                  echo "version=$VERSION" >> $GITHUB_OUTPUT
+                  echo "Using version: $VERSION"
+                      - name: Install dependencies
+                        run: npm install
 
             - name: Run make using package.json script
               run: npm run make
+              env:
+                  APP_VERSION: ${{ steps.get_version.outputs.VERSION }}
 
             - name: Upload build artifacts
               uses: actions/upload-artifact@v4

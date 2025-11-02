@@ -6,6 +6,7 @@ module.exports = {
         name: 'BPSR-PSO',
         icon: './resources/ico',
         asar: true,
+        version: process.env.APP_VERSION || require('./package.json').version,
         extraResource: ['./resources/npcap-1.83.exe'],
     },
     rebuildConfig: {},
